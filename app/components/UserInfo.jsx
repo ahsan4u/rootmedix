@@ -1,9 +1,9 @@
 import React from "react";
-import { useState, useRef } from "react";
+import { useState, useRef, Suspense } from "react";
 import axios from "axios";
 import Massage from "../components/Massage";
 import STDcode from "../data/STDcode";
-import Lottie from 'lottie-react';
+const Lottie = React.lazy(() => import("lottie-react"));
 import loadingEffect from '../animated Icon/loading.json';
 
 
@@ -148,8 +148,10 @@ function UserInfo() {
                 className={`flex justify-center items-center text-lg m-auto w-[80%] mt-4 p-2 text-md text-white rounded-md transition-transform duration-300 ease-in-out hover:scale-[1.02]
                 ${isLoading ? 'bg-gradient-to-r from-blue-800 via-cyan-700 to-blue-800' : 'bg-gradient-to-r from-blue-700 via-cyan-600 to-blue-700'}`}
                 >{ isLoading && (
-                    <Lottie animationData={loadingEffect} className="w-7 mr-1"/>)
-                }
+                    <Suspense fallback={<div>Loading animation...</div>}>
+                        <Lottie animationData={loadingEffect} className="w-7 mr-1"/>
+                    </Suspense>
+                )}
                     {isLoading ? 'Sending...' : 'Submit'}</button>
                 
                 <p className="w-[82%] text-center m-auto text-sm font-semibold sm:mt-3 mt-6">By submitting this form,<br/> I agree to Root Medix's Terms & Privacy Policy.</p>

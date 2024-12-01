@@ -1,4 +1,6 @@
-import Lottie from 'lottie-react';
+import React from 'react';
+import { Suspense } from 'react';
+const Lottie = React.lazy(() => import("lottie-react"));
 import menuEffect from '../animated Icon/menuV2.json';
 import { useEffect, useRef, useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
@@ -123,7 +125,9 @@ function Navbar() {
 
                     {isMobile && (
                         <button onClick={toggleNavbar} className='sidebarBtn p-[9px] bg-[#1d4658] mr-2 rounded-full shadow-3dUnclicked active:shadow-3dClicked z-50 transition-colors duration-500'>
-                            <Lottie lottieRef={menubarRef} animationData={menuEffect} loop={false} autoplay={false} className='w-7 h-7 filter invert'/>
+                            <Suspense fallback={<div>Loading animation...</div>}>
+                                <Lottie lottieRef={menubarRef} animationData={menuEffect} loop={false} autoplay={false} className='w-7 h-7 filter invert'/>
+                            </Suspense>
                         </button>
                     )}
                 </div>
