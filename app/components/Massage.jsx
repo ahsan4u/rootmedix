@@ -1,20 +1,7 @@
-import * as React from 'react';
-import Snackbar from '@mui/material/Snackbar';
-import Alert from '@mui/material/Alert';
-
-export default function Massage(prop) {
-  
+export default function Massage({alertMsg, open}) {
   return (
-    <div>
-      <Snackbar open={prop.open}>
-        <Alert
-          severity="success"
-          variant="filled"
-          sx={{ width: '100%' }}
-        >
-          {prop.alertMsg}
-        </Alert>
-      </Snackbar>
-    </div>
+    open && (<div className="bg-green-700 text-white px-12 py-4 rounded-xl fixed bottom-5 left-10">
+      {alertMsg}
+    </div>)
   );
 }

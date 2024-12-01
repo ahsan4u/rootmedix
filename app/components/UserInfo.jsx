@@ -1,7 +1,7 @@
 import React from "react";
 import { useState, useRef } from "react";
 import axios from "axios";
-import Massage from "./massage";
+import Massage from "../components/Massage";
 import STDcode from "../data/STDcode";
 import Lottie from 'lottie-react';
 import loadingEffect from '../animated Icon/loading.json';
