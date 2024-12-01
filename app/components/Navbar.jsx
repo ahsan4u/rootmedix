@@ -106,7 +106,7 @@ function Navbar() {
     return (
         <>
             <div className="topBar sticky top-0 lg:static z-20 lg:shadow-[inset_0_0_3px_darkcyan] bg-gradient-to-r from-cyan-100 via-blue-300 to-blue-400 h-16 flex justify-between items-center lg:pr-3">
-                <Link to='/'><img src="./img/logo.png" alt="Root-Medix" className='drop-shadow-sm filter contrast-150 h-12 ml-1 lg:h-12 lg:ml-2'/></Link>
+                <Link to='/'><img src="/img/logo.png" alt="Root-Medix" className='drop-shadow-sm filter contrast-150 h-12 ml-1 lg:h-12 lg:ml-2'/></Link>
                 <div ref={langSidebarDiv} className='flex justify-between items-center w-[198px] lg:w-[550px] transition-all duration-500'>
                     <select name="language" id="lang" style={{fontFamily: `convergence, 'sans-serif`}} className='lg:shadow-md hover:scale-105 outline-none border-2 border-[#122d3a21] lg:border-none bg-transparent lg:bg-white text-sm lg:text-[16px] px-1 lg:px-5 h-9 lg:h-10 rounded-xl transition-transform duration-500'>
                         <option value="eng">English</option>

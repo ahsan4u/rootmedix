@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useState, useRef, Suspense } from "react";
 import axios from "axios";
 import Massage from "../components/Massage";
@@ -8,6 +8,7 @@ import loadingEffect from '../animated Icon/loading.json';
 
 
 function UserInfo() {
+    const [isMobile, setMobile] = useState(false);
     const suggestRef = useRef(null);
     const emailRef = useRef(null);
     const number = useRef(null);
@@ -15,6 +16,10 @@ function UserInfo() {
     const [formData, setFormData] = useState({name: '', email: '', country: '', contact: '', std: '+1', msg: ''});
     const [isLoading, setIsLoading] = useState(false);
     const [activeAlert, setActiveAlert] = useState(false);
+
+    useEffect(()=> {
+        setMobile(window.innerWidth > 640?false:true);
+    })
 
     function setValue(e) {
         const {name, value} = e.target;
@@ -39,7 +44,7 @@ function UserInfo() {
                 option.textContent = `⨀ ${code.name}`;
                 option.className = 'px-2 py-[8px] text-xs border-b border-[#64748b] hover:bg-[gray]';
                 suggestRef.current.style.width = `${emailRef.current.offsetWidth}px`;
-                if(window.innerWidth < 640) {
+                if(isMobile) { 
                     option.className = 'text-[20px] py-3 text-sm px-2 border-b border-[#64748b]'
                 }
                 option.onclick = ()=> {
@@ -137,7 +142,7 @@ function UserInfo() {
                 ref={descriptionRef}
                 onChange={setValue}
                 name="msg"
-                rows= {window.innerWidth > 640? "3": "4"}
+                rows= {!isMobile? "3": "4"}
                 id="patientDetails"
                 placeholder="Write your Medical Concern"
                 className="w-[82%] block m-auto outline-none rounded-md px-1 text-lg sm:text-sm placeholder-slate-500"/>
