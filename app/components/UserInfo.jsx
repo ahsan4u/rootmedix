@@ -34,6 +34,7 @@ function UserInfo() {
             const filterd = STDcode.filter(code=> code.name.toLocaleLowerCase().includes(value.toLocaleLowerCase())).slice(0, 5);
             suggestRef.current.innerHTML = '';
             filterd.forEach((code)=> {
+                if(typeof document !== "undefined") {
                 const option = document.createElement('div');
                 option.textContent = `⨀ ${code.name}`;
                 option.className = 'px-2 py-[8px] text-xs border-b border-[#64748b] hover:bg-[gray]';
@@ -48,6 +49,7 @@ function UserInfo() {
                     suggestRef.current.style.height = '0';
                 }
                 suggestRef.current.appendChild(option);
+            }
             })
             if(filterd.length < 1 ) {
                 suggestRef.current.innerHTML = '';
