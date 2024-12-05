@@ -56,6 +56,7 @@ export default {
       link: "/treatments/cardiology"
     }
   ],
+
   cardiology: [
     {
       name: "ASD",
@@ -93,6 +94,7 @@ export default {
       img: "/img/asd.png"
     }
   ],
+
   doctors: {
     anandkumar: {
       img: "/img/doctors/AnandKumar.png",
@@ -273,8 +275,72 @@ export default {
       experiance: "Experience: 29+ Years",
       hospital: "Max Hospital Saket, Delhi",
       link: "/maxsaket/doctors/mohanbhargava"
+    },
+    kulbhushansinghdagar: {
+      img: "/img/doctors/pragneshdesai.png",
+      name: "Dr. Kulbhushan Singh Dagar",
+      type: "Principal Director",
+      speciality: "Paediatric, Cardiac Surgery",
+      experiance: "Experience: 31+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/kulbhushansinghdagar"
+    },
+    sameershrivastava: {
+      img: "/img/doctors/pragneshdesai.png",
+      name: "Dr. Sameer Shrivastava",
+      type: "Principal Director",
+      speciality: "Interventional Cardiology",
+      experiance: "Experience: 29+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/sameershrivastava"
+    },
+    roopasalwan: {
+      img: "/img/doctors/pragneshdesai.png",
+      name: "Dr. Roopa Salwan",
+      type: "Senior Executive",
+      speciality: "Interventional Cardiology",
+      experiance: "Experience: 28+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/roopasalwan"
+    },
+    sunilkumaragarwal: {
+      img: "/img/doctors/pragneshdesai.png",
+      name: "Dr. Sunil Kumar Agarwal",
+      type: "Director",
+      speciality: "Interventional Cardiology",
+      experiance: "Experience: 27+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/sunilkumaragarwal"
+    },
+    rajeevrathi: {
+      img: "/img/doctors/pragneshdesai.png",
+      name: "Dr. Rajeev Rathi",
+      type: "Director",
+      speciality: "Cardiac Sciences",
+      experiance: "Experience: 26+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/rajeevrathi"
+    },
+    muneshtomar: {
+      img: "/img/doctors/pragneshdesai.png",
+      name: "Dr. Munesh Tomar",
+      type: "Director",
+      speciality: "Pediatric Cardiology",
+      experiance: "Experience: 21+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/muneshtomar"
+    },
+    sumeetsethi: {
+      img: "/img/doctors/pragneshdesai.png",
+      name: "Dr. Sumeet Sethi",
+      type: "Director",
+      speciality: "Interventional Cardiology",
+      experiance: "Experience: 19+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/sumeetsethi"
     }
   },
+
   hospitals: [
     {
       name: "Max Hospital, Saket",
@@ -301,6 +367,7 @@ export default {
       link: "/hospitals/aakash"
     }
   ],
+  
   services: [
     {
       name: "Talk To Expert",

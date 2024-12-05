@@ -66,17 +66,17 @@ export default  function DoctorsProfile() {
 
             <div style={{fontFamily: `convergence, sans-serif`}} className="mb-20 lg:px-4 lg:flex justify-around w-[98vw] rounded-lg m-auto shadow-lg lg:bg-gradient-to-r from-purple-300 via-purple-50 to-[#f3feff] ">
                 
-                <div className="lg:sticky lg:w-[28%] lg:h-[70vh] top-[35vh] bg-white rounded-t-3xl flex flex-col items-center">
-                    <img ref={doctorImgRef} className="lg:rounded-full lg:block lg:relative lg:bottom-[90px] fixed lg:w-[60%] w-full bg-violet-300 border-[6px] border-white" src={doctorIntro?.img} alt={doctorIntro?.name} />
-                    <div className="text-[15px] lg:mt-[-80px] w-[78%] m-auto">
+                <div className="lg:sticky lg:w-[28%] lg:h-[70vh] top-[35vh] bg-[#4c494d] rounded-t-3xl flex flex-col items-center">
+                    <img ref={doctorImgRef} className="lg:rounded-full lg:block lg:relative lg:bottom-[90px] fixed lg:w-[60%] w-full bg-violet-300 border-[6px] border-[#4c494d]" src={doctorIntro?.img} alt={doctorIntro?.name} />
+                    <div className="text-[15px] lg:mt-[-80px] w-[78%] m-auto text-white">
                         <h2 className="text-center font-bold text-xl">{doctorIntro?.name}</h2>
                         {(!isMobile1000) && (<>
-                        <p className="text-center text-sm text-cyan-900">{doctorIntro?.type}</p>
+                        <p className="text-center text-sm text-cyan-100">{doctorIntro?.type}</p>
 
                         <p className="mt-3 pt-2 px-1 border-t-2 border-orange-500">• {doctorIntro?.speciality}</p>
                         <p className="mt-1 px-1">• {doctorIntro?.experiance}</p>
                         <p className="mt-1 px-1">• {doctorIntro?.hospital}</p>
-                        <button onClick={popupWindow} className="hover:scale-110 transition-all duration-500 block h-12 w-[90%] rounded-xl mt-7 m-auto bg-cyan-700 active:bg-cyan-950 text-white">Book an Appointment</button>
+                        <button onClick={popupWindow} className="hover:scale-110 transition-all duration-500 block h-12 w-[90%] rounded-xl mt-7 m-auto bg-[#76b4e4] active:bg-cyan-950 text-[#20201f] text-lg font-semibold">Book an Appointment</button>
                         </>)}
                     </div>
                 </div>
@@ -99,6 +99,7 @@ export default  function DoctorsProfile() {
                             <div key={idx} className="text-green-950 px-2 lg:px-0 bg-white lg:bg-transparent">
                                 {details.heading && (<h1 className="mb-1 mt-3 text-4xl text-cyan-900 font-bold border-b-4 border-dashed border-cyan-500 inline-block pr-4 pb-2">{details.heading}</h1>)}
                                 {details.subheading && (<h2 className="text-xl lg:text-2xl text-cyan-900 font-semibold mt-5 lg:border-b-4 lg:border-dashed lg:border-cyan-500 inline-block pr-4 lg:pb-1">{details.subheading}</h2>)}
+                                {details.miniheading && (<p className="font-semibold lg:mt-3 mt-1">{details.miniheading}</p>)}
                                 {details.description && (<p className="lg:mt-3 mt-1">{details.description}</p>)}
                                 {details.list && ( <ol className={`mt-1 ml-5 list-disc ${!details.description && ('lg:mt-3 mt-1')}`}>
                                     {

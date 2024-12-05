@@ -2077,6 +2077,700 @@ export default {
         ]
       }
     ],
+    kulbhushansinghdagar: [
+      {
+        subheading: "About Dr. Kulbhushan Singh Dagar",
+        description: `Dr. Kulbhushan Singh Dagar is a renowned pediatric cardiac surgeon with more than 30 years of experience who has dedicated more than 15 years to the treatment of congenital defects in infants and children. The extreme amount of experience has been achieved while dealing with complex congenital cardiac conditions, and he performs some of the most delicate surgeries for newborns and young patients through the use of elaborate technology and innovative techniques.`
+      },
+      {
+        description: `He received his groundwork at the world-class GB Pant Hospital, New Delhi. He carried on his expertise as Specialist Registrar at the Great Ormond Street Hospital for Sick Children in London, where he gained experience in Extra Corporeal Life Support and Heart Transplant methods.`
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Current, Senior Director & Chief Surgeon, Neonatal & Congenital Heart Surgery at Max Healthcare"
+          },
+          {
+            content: "Specialist Registrar, Great Ormond Street Hospital for Children, London."
+          },
+          {
+            content: "Dr. Abha Agarwal, Programme Director of Paediatric Cardiac Programmes."
+          },
+          {
+            content: "Lotus Children's Hospital, Hyderabad."
+          },
+          {
+            content: "Escorts Heart Institute and Research Centre (EHIRC), New Delhi."
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "M.Ch. in Cardio-Thoracic and Vascular Surgery, GB Pant Hospital, University of Delhi (August 1994)."
+          },
+          {
+            content: "MS in General Surgery, S N Medical College & Hospital, Agra University (May 1991)."
+          },
+          {
+            content: "MBBS-S N Medical College & Hospital, Agra University (January 1987)."
+          },
+        ]
+      },
+      {
+        subheading: "Awards & Honours",
+        list: [
+          {
+            content: "ISCET Awards: First Prize Management of Cardiopulmonary Bypass in Infants with Sickle Cell Disease."
+          }
+        ]
+      },
+      {
+        subheading: "Medical Specialty of Interest",
+        list: [
+          {
+            content: "Pediatric Cardiac Surgery."
+          },
+          {
+            content: "Advanced care for newborn babies with congenital heart defects."
+          },
+          {
+            content: "Specialized valve repairs in children."
+          },
+        ]
+      },
+      {
+        subheading: "Research Papers & Publications",
+        description: `Dr. Dagar has published widely in national as well as international medical journals, besides writing various textbook chapters. He presented a major clinical study on the impact of antegrade pulmonary fusion on surgical outcomes in children with severe pulmonary hypertension at the 5th Congress of the Asia Pacific Pediatric Cardiac Society (APPCS), New Delhi, 2014.`
+      },
+    ],
+    sameershrivastava: [
+      {
+        subheading: "About Dr. Sameer Shrivastava",
+        description: "Dr. Sameer Shrivastava is a renowned cardiologist with around 30 years of working experience. Always on the lookout for non-invasive treatments for heart conditions, he specializes in advanced diagnostic techniques like echocardiography and Doppler imaging. Patients appreciate the high accuracy of these methods with minimal discomfort. He is also a pioneer and has been given leadership positions. This has included being former Executive Director and Head of Non-Invasive Cardiology at Escorts Heart Institute, New Delhi. He currently works at Max Hospital, Saket, Delhi. There, he continues his mission for the development of cardiac care and well-being for patients."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Chief of Non-invasive Cardiology & Principal Director, Cardiology, Max Hospital, Saket, Delhi."
+          },
+          {
+            content: "Executive Director & Head of Department, Non-Invasive Cardiology, Escorts Heart Institute, New Delhi."
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "DM (Cardiology)—Kanpur University"
+          },
+          {
+            content: "MD (General Medicine)—KMC, Mangalore University"
+          },
+          {
+            content: "MBBS-GR Medical College, Gwalior"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Cardiological Society of India"
+          },
+          {
+            content: "Indian Society of Hypertension"
+          },
+          {
+            content: "Indian Society of Vascular Diseases"
+          },
+          {
+            content: "Indian Medical Association"
+          },
+          {
+            content: "Indian Association of Occupational Health"
+          },
+          {
+            content: "Indian Academy of Echocardiography"
+          },
+          {
+            content: "Forum for Ethics Review Committees in India (FERCI)"
+          },
+          {
+            content: "Association of Physicians of India"
+          },
+        ]
+      },
+      {
+        subheading: "Awards & Recognition",
+        list: [
+          {
+            content: "Clinical Cardiologist of the Year 2003—IMA New Delhi and Heart Care Foundation."
+          },
+          {
+            content: "Honoured among Ten Distinguished Doctors of 2006 by Dr. Yoganand Shastri, former Health Minister, Delhi."
+          },
+          {
+            content: "World Congress on Clinical, Preventive & Geriatric Cardiology (WCCPGC) Distinguished Service Award."
+          },
+          {
+            content: "IMA NDB Chapter of IMA AMS: Dr. J. J. Sood Memorial Award for Excellence (2010)."
+          },
+          {
+            content: "Award of Excellence in Cardiology Honoured by Late Smt. Sheila Dixit, former Chief Minister, Delhi."
+          },
+          {
+            content: "National Excellence Award 2012-19th MTNL Perfect Health Mela by Health Care Foundation of India."
+          },
+          {
+            content: "International Fellow European Society of Cardiology, 2014."
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        list: [
+          {
+            content: "Transesophageal Echocardiography"
+          },
+          {
+            content: "3D Echocardiography"
+          },
+          {
+            content: "Stress Echocardiography"
+          },
+          {
+            content: "Tissue Doppler Imaging"
+          },
+          {
+            content: "Vascular Doppler Imaging"
+          },
+        ]
+      },
+      {
+        subheading: "Research Papers & Journals",
+        description: "Dr. Shrivastava has significant research work in cardiology, particularly in non-invasive imaging, and holds fellowships with both the Indian Society of Cardiology and the International Society of Cardiovascular Ultrasound. His work remains an ongoing addition towards the betterment of cardiac diagnostics and treatments."
+      }
+    ],
+    roopasalwan: [
+      {
+        subheading: "About Dr. Roopa Salwan",
+        description: "She is an exceedingly acclaimed cardiologist in interventional cardiology and intense myocardial localized necrosis care. Dr. Salwan has more than 28 years of experience and serves as program head of the Myocardial Localized Necrosis Program at Max Hospital, Saket East, Delhi. Dr. Salwan is committed to progressed cardiac care with extraordinary interest in complex methods like TAVI and endovascular repairs with world-class guidelines and patient-centered outcomes."
+      },
+      {
+        description: "She has an exceptionally great notoriety for her work on essential percutaneous coronary interventions (PCI) with extraordinary door-to-balloon times. She moreover plays a vital part in forming the mastery of Max Healthcare in the three regions of cardiac crisis care, education, and complex multi-specialty cardiac care."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Current: Senior Executive – Myocardial Dead tissue Program & Senior Expert – Interventional Cardiology, Max Super Forte Clinic, Saket East, Delhi"
+          },
+          {
+            content: "Previous: Expert – Interventional Cardiology, Escorts Heart Organized and Inquire about Middle, Modern Delhi"
+          },
+          {
+            content: "Active member in Interventional Cardiology education programs at Escorts Heart Founded and Max Super Claim to fame Hospital"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "DM (Cardiology)—GB Gasp Healing center, Delhi University."
+          },
+          {
+            content: "MD (Medication)—LNJPN Clinic, Modern Delhi."
+          },
+          {
+            content: "MBBS – Maulana Azad Therapeutic College, Unused Delhi."
+          },
+          {
+            content: "Executive Program in Healthcare Conveyance—Harvard Trade School, 2012."
+          },
+          {
+            content: "Memberships & Proficient Societies."
+          },
+          {
+            content: "Member, Cardiological Society of India."
+          },
+          {
+            content: "Member, Society for Cardiovascular Angiography and Interventions."
+          },
+        ]
+      },
+      {
+        subheading: "Awards & Recognitions",
+        list: [
+          {
+            content: "Gen D R Thapar Gold Award for Best Understudy in Surgery (1986)."
+          },
+          {
+            content: "PM Varghese Gold Award for Best House Specialist in Clinical Specialties (1990)."
+          },
+          {
+            content: "CIOB President's Decoration for Healthcare Administration, London (2008)."
+          },
+          {
+            content: "LUMEN Worldwide 2013: Greatness in Intense Myocardial Localized necrosis Care."
+          },
+          {
+            content: "Sunday Standard DEVI Grant for Proficient Dynamism and Development (2014)."
+          },
+          {
+            content: "International Grant of Brilliance in Cardiology for commitments to cardiac care"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        list: [
+          {
+            content: "Transcatheter Aortic Valve Implantation (TAVI) & Basic Heart Disease."
+          },
+          {
+            content: "Sophisticated Cardiac Care: Cardio-oncology and Cardio-renal care."
+          },
+          {
+            content: "Max MI Program Executive: Essential PCI beneath Universal Benchmarks in Door-to-Balloon Time."
+          },
+          {
+            content: "Cardiovascular Illness in Ladies and STEMI Interventions.Complex Coronary Mediations such as Rotational Atherectomy and Intravascular Lithotripsy (IVL)."
+          },
+          {
+            content: "Peripheral Vascular Illness and Thormbosis Management."
+          },
+          {
+            content: "Complex Coronary Mediations such as Rotational Atherectomy and Intravascular Lithotripsy (IVL)."
+          },
+          {
+            content: "Ethics and Quality-focused, Patient-centered Cardiac Care."
+          },
+        ]
+      },
+      {
+        subheading: "Research & Publications",
+        description: "She was in various national and worldwide inquiries about and addressed around the world on intense myocardial dead tissue care, complex coronary intercessions, and administration of cardiovascular malady in women."
+      }
+    ],
+    sunilkumaragarwal: [
+      {
+        subheading: "About Dr. Sunil Kumar Agarwal",
+        description: "He comes with more than 27 years of involvement in cardiology with extraordinary accentuation on progressed interventional cardiology and complex cardiovascular care. He is right now the Chief of Interventional Cardiology at Max Super Strength Clinic, Saket. He has extraordinary abilities in intense coronary disorders, essential angioplasties, and exceptionally complex coronary intercessions. Dr. Agarwal's work is guided by morals, and the sole accentuation is on quality conveyance. He individualises each understanding to guarantee exceptionally individual outcome-focused care."
+      },
+      {
+        description: "Dr. Agarwal has broad acknowledgment at both national and worldwide levels with point-by-point preparation and partnerships in intrusive cardiology and fringe vascular mediations. He is a dynamic analyst and has contributed to a few high-impact clinical trials and has mentored postgraduate cardiology students."
+      },
+      {
+        subheading: "Professional Experience",
+        list: [
+          {
+            content: "Director, Interventional Cardiology, Max Super Strength Healing center (East Piece), Saket, Delhi, January 2022 onwards."
+          },
+          {
+            content: "Past Experiences"
+          },
+          {
+            content: "Associate Chief, Cardiology, Max Super Strength Clinic (2013–2021)"
+          },
+          {
+            content: "Consultant Cardiologist Max Super Strength Healing center, Delhi (2008–2013)"
+          },
+          {
+            content: "Consultant Cardiologist Max Heart & Vascular Founded, Saket, Modern Delhi (2004–2007)"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "DM (Cardiology) G.S.V.M. Therapeutic College, Kanpur College, India, 1997"
+          },
+          {
+            content: "MD (Inside Pharmaceutical) G.S.V.M. Restorative College, Kanpur College, India, 1993"
+          },
+          {
+            content: "MBBS G.S.V.M. Restorative College, Kanpur College, India, 1990"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Fellow, Asia Pacific Society of Interventional Cardiology"
+          },
+          {
+            content: "Fellow, European Society of Cardiology"
+          },
+          {
+            content: "Fellow, Society of Coronary Angiography & Interventions"
+          },
+          {
+            content: "Fellow, Escorts Heart Established and Inquire about Middle, Unused Delhi"
+          },
+          {
+            content: "Individual, Fringe Vascular Mediations, Polyclinique Louis Pasteur, Nancy, France"
+          },
+        ]
+      },
+      {
+        subheading: "Claim to fame Interests",
+        list: [
+          {
+            content: "Acute Coronary Disorder & Essential Angioplasty"
+          },
+          {
+            content: "Complex Coronary Mediations, counting Rotational Atherectomy and Intravascular Lithotripsy (IVL)"
+          },
+          {
+            content: "Peripheral Vascular Infection and Thrombosis Management"
+          },
+          {
+            content: "Structural Heart Disease"
+          },
+          {
+            content: "Endovascular Repair of Aneurysms and Aortic Dissections"
+          },
+          {
+            content: "Advanced Cardiac Care: Cardio-oncology and Cardio-renal care"
+          },
+        ]
+      },
+      {
+        subheading: "Research & Publications",
+        description: "Dr. Agarwal has distributed cases in peer-reviewed diaries and has been a sub-investigator in national and worldwide clinical trials. He has created book chapters in cardiology and has too been an inquire about direct to DNB cardiology students."
+      }
+    ],
+    rajeevrathi: [
+      {
+        subheading: "About Dr. Rajeev Rathi",
+        description: "With over 26 years of experience, Dr. Rajeev Rathi is an authority and leader in interventional cardiology and very well recognized for his expertise in transradial coronary interventions. It has been a matter of pride for him and Max Super Speciality Hospital that Dr. Rathi has performed hundreds of complex coronary angioplasties, including chronic total occlusion, bifurcation lesions, and left main artery stenosis. His tireless endeavors have immensely contributed to the development of cardiac care in both Chhattisgarh and Delhi and have made him a mentor for many."
+      },
+      {
+        description: `Dr. Rathi has brought impact through various projects, like the "Hriday Suraksha Abhiyan" or "The Heart App," awareness campaigns that focus on symptoms of heart attack and prompt diagnosis. He has had an illustrious career with multiple clinical trials and presentations in international forums, enriching both patient care and the academic community of cardiology.`
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Presents Director & Head, Transradial Interventional Programme, Max Super Speciality Hospital, Saket"
+          },
+          {
+            content: "Special Interest: Over 18 years of experience in performing complex coronary interventions and pioneering work in transradial angioplasties."
+          },
+          {
+            content: "Established cardiac catheter labs at Apollo Hospital, Bilaspur, and Raipur Medical College to take interventional cardiology to the next level in Chhattisgarh."
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "DM (Cardiology)—GSVM Medical College, Kanpur"
+          },
+          {
+            content: "MD (Medicine)—Pt. JNM Medical College, Raipur"
+          },
+          {
+            content: "MBBS —Pt. JNM Medical College, Raipur"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Cardiological Society of India"
+          },
+          {
+            content: "European Society of Cardiology"
+          },
+          {
+            content: "Society of Cardiovascular Angiography and Interventions (USA)"
+          },
+        ]
+      },
+      {
+        subheading: "Area of Specialty Interest",
+        list: [
+          {
+            content: "Transradial Coronary Interventions"
+          },
+          {
+            content: "Complex Coronary Angioplasties (Chronic Total Occlusion, Left Main Stenosis)"
+          },
+          {
+            content: "Percutaneous Valve Treatments (Mitral, Aortic, Pulmonary)"
+          },
+          {
+            content: "Interventions for adult congenital heart diseases in a category."
+          },
+        ]
+      },
+      {
+        subheading: "Publication & Research",
+        description: "Dr. Rathi has published 18 research articles in national and international cardiology journals and has coordinated large clinical trials as principal and co-investigator. He is also an active speaker at international cardiology conferences where innovative case studies and research work are presented among professionals in the cardiology arena."
+      },
+      {
+        subheading: "Awards & Recognition",
+        list: [
+          {
+            content: "The government of Chhattisgarh felicitated for its outstanding contribution towards cardiac services."
+          },
+          {
+            content: `Central Coal Fields Ltd. A place in recognition of strides made in cardiac care through "Hriday Suraksha Abhiyan"`
+          },
+          {
+            content: "Honorary Professor, Pt. J.N. Medical College, Raipur"
+          },
+        ]
+      }
+    ],
+    anupamgoel: [
+      {
+        subheading: "About Dr. Anupam Goel",
+        description: "Anupam Goel is an interventional cardiologist with more than 21 years of experience as a leading interventional cardiologist. He is ready to contribute significantly to Max Healthcare because he specializes in complicated cardiac conditions. His sharp acumen and ability in the management of acute coronary syndrome while performing coronary angiography and coronary angioplasty, coupled with special interest and expertise in CAD in women, make the doctor dependable and reliable among all patients and peers."
+      },
+      {
+        description: "Dr. Goel's commitment to innovative treatments and patient-centered care has been quite influential for the health community; more importantly, he has brought attention to CAD and its management, particularly in women."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Senior Consultant, Interventional Cardiology, Max Super Speciality Hospital, Saket, New Delhi 2005 - Till Date"
+          },
+          {
+            content: "Cardiologist Consultant, Kailash Heart Institute & Research Centre, Noida 2003 - 2005"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "MBBS— Pt. B.D. Sharma, PGIMS, Rohtak"
+          },
+          {
+            content: "M.D. in General Medicine—Pt. B.D. Sharma, PGIMS, Rohtak"
+          },
+          {
+            content: "Senior Residency—Cardiology Department, G.B. Pant Hospital, New Delhi"
+          },
+          {
+            content: "Doctorate in Cardiology — King George Medical University, Lucknow"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        list: [
+          {
+            content: "Management of Acute Coronary Syndrome & Primary Angioplasty: Experienced in acute care and intervention for acute cardiac events."
+          },
+          {
+            content: "Clinical Cardiology: Complete care in cardiovascular health—from prevention to therapy."
+          },
+          {
+            content: "Coronary Angiography & Angioplasty: Highly experienced on radial and femoral approaches to procedures."
+          },
+          {
+            content: "Coronary Artery Disease in Women: Dedicated to increasing awareness and CAD management exclusively in women as well as tailoring technique to women's cardiovascular needs"
+          },
+        ]
+      }
+    ],
+    muneshtomar: [
+      {
+        subheading: "About Dr. Munesh Tomar",
+        description: "Munesh Tomar is an educated pediatric cardiologist and director of pediatric cardiology with the most stylish possible experience in the opinion and treatment of natural and acquired heart conditions in children. He has more than 21 years of experience and has greatly contributed to pediatric cardiac care and had leadership positions in the most prestigious healthcare institutions. It's his gentle approach toward patient care that makes him a name in pediatric cardiology."
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "BRD Medical College, Gorakhpur ( 1988 – 1993)"
+          },
+          {
+            content: "M.D. in Pediatrics, King George's Medical College, Lucknow University ( 1995 – 1998)"
+          },
+          {
+            content: "FNB Fellowship in Pediatric Cardiology—National Board, Attendants Heart Institute & Research Center, Delhi (2001-2003)"
+          },
+          {
+            content: "Fellow of the American College of Cardiology (FACC)"
+          },
+        ]
+      },
+      {
+        subheading: "Work Experience",
+        description: `Director, Pediatric Cardiology, Max Healthcare`
+      },
+      {
+        description: `Head of Department and Associate Director, Pediatric Cardiology, Medanta-The Medicity, Gurgaon`
+      },
+      {
+        description: `National NBE fellow for Pediatric Cardiology`
+      },
+      {
+        description: `Dr S Sivakumar, Pediatric Cardiologist Department of Pediatrics, LLRM Medical College Meerut Director- Pediatric Cardiology Nutema Hospital, Meerut Director- Pediatric Cardiology Sri Sathya Sai Sanjeewani Child Heart and Research Center Palwal, Haryana Senior Adviser- Pediatric Cardiology Medanta- The Medicity Gurgaon Senior Resident, Pediatrics St. Stephen's Hospital, Delhi Assistant Professor, Pediatrics Subharati Medical College, Meerut Senior Resident, Pediatrics B.R.D. Medical College,Gorakhpur`
+      },
+      {
+        subheading: "Awards & Recognitions",
+        list: [
+          {
+            content: `Thakur Ulfat Rai" Gold Order, the stylish MD seeker award was given by the Hon'ble Prime Minister of India.`
+          },
+          {
+            content: `utmost Promising Croaker in Pediatric Cardiology (2009) – Attendants Heart Institute & Research Centre.`
+          },
+          {
+            content: `Appreciation Award for Stylish Schoolteacher—UP Indian Medical Association, 2020.`
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        miniheading: "Diagnostic Expertise",
+        list: [
+          {
+            content: "Reading of ECG, casketX-ray, and echocardiograms in natural heart complaint"
+          },
+          
+          {
+            content: "Arrhythmia operation in children"
+          },
+          
+          {
+            content: "Echocardiography It was performed on roughly 75,000 cases for different natural heart conditions. This includes fetal echocardiography. capability  All types of two-dimensional and three-dimensional echocardiography, transesophageal echocardiography, fetal echocardiography, and epicardial echocardiography."
+          }
+        ]
+      },
+      {
+        miniheading: "Procedures",
+        list: [
+          {
+            content: "Device occlusion of atrial septal disfigurement"
+          },
+          {
+            content: "Device or coil occlusion of patent ductus arteriosus"
+          },
+          {
+            content: "Device occlusion of ventricular septal disfigurement"
+          },
+          {
+            content: "Aortic and pulmonary stopcock balloon dilatation"
+          },
+          {
+            content: "Coarctation balloon dilatation and stenting"
+          },
+          {
+            content: "Pulmonary roadway stenting"
+          },
+          {
+            content: "Balloon atrial septostomy"
+          },
+          {
+            content: "Arteriovenous fistula device check"
+          },
+          {
+            content: "Left atrial accessory device check"
+          },
+        ]
+      },
+      {
+        subheading: "Research & Publications",
+        list: [
+          {
+            content: "Publications: 115 research papers in national and international journals"
+          },
+          {
+            content: "Book Author: Echocardiography in Congenital Heart Disease - A Practical Approach"
+          },
+          {
+            content: "Reviewer: Regular reviewer for numerous national and international journals"
+          },
+          {
+            content: "Guest Speaker: Invited speaker at various national and international conferences"
+          },
+        ]
+      }
+    ],
+    sumeetsethi: [
+      {
+        subheading: "About Dr. Sumeet Sethi",
+        description: "Dr. Sumeet Sethi is an experienced practitioner of over 19 years, hence in the clinical, non-invasive, and interventional arena of cardiology, with expertise mainly in acute cardiac care and interventional procedures. His area of interest is managing complex cases of heart and primary saving angioplasties. As he has a lot to contribute in his work, people find him a professed as well as dependable interventional cardiology expert."
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "MBBS — Armed Forces Medical College, Pune, Maharashtra"
+          },
+          {
+            content: "DNB (Internal Medicine) — Army Hospital (Research & Referral), Delhi"
+          },
+          {
+            content: "DM (cardiology)—Institute of Cardiology, GSVM Medical College, Kanpur"
+          },
+        ]
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Sumeet Sethi is working as Director-Interventional Cardiology at Max Healthcare with more than 15 years of experience in cardiology disciplines."
+          },
+          {
+            content: "He has expansive clinical and non-invasive experience in cardiology along with technical interventional procedures."
+          },
+        ]
+      },
+      {
+        subheading: "Awards & Recognition",
+        list: [
+          {
+            content: "Best Challenging Case Award It's awarded at different transnational cardiology conferences to fete his experience and excellence in handling grueling cardiology cases."
+          },  
+        ]
+      },
+      {
+        subheading: "Specialty Interest",
+        list: [
+          {
+            content: "Acute cardiac care-Loftiest moxie in primary angioplasty, the only procedure that can be life-saving in acute heart attack cases"
+          },
+          {
+            content: "Transradial Interventions: Angiography and angioplasty via the radial roadway; an extremely safe and comfortable choice for cases, using hand-highways."
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Cardiological Society of India (Delhi)"
+          },
+          {
+            content: "Cardiological Society of India (National)"
+          },
+          {
+            content: "Association of Physicians of India (API)"
+          },
+          {
+            content: "Society for Cardiovascular Angiography and Interventions (SCAI), USA"
+          },
+        ]
+      }
+    ],
     a: [
       {
         subheading: "",
@@ -2090,6 +2784,6 @@ export default {
           }
         ]
       }
-    ]
+    ],
   }
 }
