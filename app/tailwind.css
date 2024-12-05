@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 
+
 ::-webkit-scrollbar { width: 0; }
 
 input[type="number"]::-webkit-inner-spin-button{

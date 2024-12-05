@@ -10,7 +10,7 @@ export default function Doctors() {
             newData.map((eachData, idx)=> (
                 <Link  key={idx} to={eachData.link} className="w-full hover:scale-105 transition-transform duration-500 aspect-[1/1] flex justify-center items-center flex-shrink-0">
                     <DoctorCard data={eachData}/>
-                </Link>
+                 </Link>
             ))
         }
         </div>

@@ -1,10 +1,14 @@
-import React from "react";
-import { useEffect, useRef } from "react";
-import { Link } from "react-router-dom";
+import React, { useTransition } from "react";
+import { useState, useEffect, useRef } from "react";
+import { Link } from "@remix-run/react";
+
 
 function ScrollDiv({heading, cardsData, Card, link,  count, seeMore, scroll}) {
     const treatmentsRef = useRef([]);
     const cardsContainer = useRef(null);
+    const transition = useTransition();
+    const isLoading = transition.state === "loading";
+    
 
     useEffect(()=> {
         treatmentsRef.current.forEach((treatmentCard)=> {
@@ -67,7 +71,7 @@ function ScrollDiv({heading, cardsData, Card, link,  count, seeMore, scroll}) {
                                 ref={elmnt=>treatmentsRef.current[idx]=elmnt}
                                 className="snap-start hover:scale-105 transition-all duration-500"
                                 >
-                            <Card data={cardData}/>
+                            <Card data={cardData} loading={isLoading}/>
                             </Link>
                         );
                     })) : (<div className="w-full flex justify-around">

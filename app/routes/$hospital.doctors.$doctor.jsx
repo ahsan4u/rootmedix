@@ -66,8 +66,8 @@ export default  function DoctorsProfile() {
 
             <div style={{fontFamily: `convergence, sans-serif`}} className="mb-20 lg:px-4 lg:flex justify-around w-[98vw] rounded-lg m-auto shadow-lg lg:bg-gradient-to-r from-purple-300 via-purple-50 to-[#f3feff] ">
                 
-                <div className="lg:sticky lg:w-[28%] lg:h-[70vh] top-[35vh] bg-[#4c494d] rounded-t-3xl flex flex-col items-center">
-                    <img ref={doctorImgRef} className="lg:rounded-full lg:block lg:relative lg:bottom-[90px] fixed lg:w-[60%] w-full bg-violet-300 border-[6px] border-[#4c494d]" src={doctorIntro?.img} alt={doctorIntro?.name} />
+                <div className="lg:sticky lg:w-[28%] lg:h-[70vh] top-[35vh] lg:bg-[#4c494d] bg-white rounded-t-3xl flex flex-col items-center">
+                    <img ref={doctorImgRef} className="lg:rounded-full lg:block lg:relative lg:bottom-[90px] fixed lg:w-[60%] w-full bg-violet-300 border-[6px] lg:border-[#4c494d]" src={doctorIntro?.img} alt={doctorIntro?.name} />
                     <div className="text-[15px] lg:mt-[-80px] w-[78%] m-auto text-white">
                         <h2 className="text-center font-bold text-xl">{doctorIntro?.name}</h2>
                         {(!isMobile1000) && (<>
