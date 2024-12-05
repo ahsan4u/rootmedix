@@ -4,17 +4,13 @@ import { Suspense } from "react";
 import loadingEffect from "../animated Icon/loading.json"
 
 function HospitalCard({data}) {
-    const cardRef = useRef(null);
     const [isLoading, setIsLoading] = useState(false);
-    function loadingFn(e) {
-        if(cardRef.current.contains(e.target)) {
-            setIsLoading(true);
-        } else {
-            setIsLoading(false);
-        }
+    function loadingFn() {
+        setIsLoading(true);
     }
+
     return (
-        <div ref={cardRef} onClick={loadingFn} className="bestHospital relative bg-white sm:w-64 w-[166px] shadow-[2px_2px_5px_gray] rounded-lg sm:rounded-xl my-3 overflow-hidden cursor-pointer">
+        <div onClick={loadingFn} className="bestHospital relative bg-white sm:w-64 w-[166px] shadow-[2px_2px_5px_gray] rounded-lg sm:rounded-xl my-3 overflow-hidden cursor-pointer">
             {isLoading && ( <Suspense fallback={<div className="fixed">.</div>}>
                 <Lottie animationData={loadingEffect} className="w-14 absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] z-50"/>
             </Suspense>)}

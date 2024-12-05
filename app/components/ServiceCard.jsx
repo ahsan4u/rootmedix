@@ -1,12 +1,17 @@
 import React from "react";
 const Lottie = React.lazy(() => import("lottie-react"));
-import { Suspense } from "react";
+import { Suspense, useState } from "react";
 import loadingEffect from "../animated Icon/loading.json"
 
-function ServiceCard({data, loading}) {
+function ServiceCard({data}) {
+    const [isLoading, setIsLoading] = useState(false);
+    function loadingFn() {
+        setIsLoading(true);
+    }
+
     return(
-        <div className="ourServices relative bg-white sm:w-64 w-[166px] shadow-[2px_2px_5px_gray] rounded-xl my-3 overflow-hidden">
-            {loading && ( <Suspense fallback={<div className="fixed">.</div>}>
+        <div onClick={loadingFn} className="ourServices relative bg-white sm:w-64 w-[166px] shadow-[2px_2px_5px_gray] rounded-xl my-3 overflow-hidden">
+            {isLoading && ( <Suspense fallback={<div className="fixed">.</div>}>
                 <Lottie animationData={loadingEffect} className="w-14 absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] z-50" style={{filter: 'invert(0.7)'}}/>
             </Suspense>)}
             <img src={data.img} alt="" className="w-[100%] aspect-[16/9] object-cover" />
