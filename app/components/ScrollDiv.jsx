@@ -1,13 +1,11 @@
-import React, { useTransition } from "react";
-import { useState, useEffect, useRef } from "react";
+import React from "react";
+import { useEffect, useRef } from "react";
 import { Link } from "@remix-run/react";
 
 
 function ScrollDiv({heading, cardsData, Card, link,  count, seeMore, scroll}) {
     const treatmentsRef = useRef([]);
     const cardsContainer = useRef(null);
-    const transition = useTransition();
-    const isLoading = transition.state === "loading";
     
 
     useEffect(()=> {
@@ -62,23 +60,18 @@ function ScrollDiv({heading, cardsData, Card, link,  count, seeMore, scroll}) {
             </div>
 
             <div ref={cardsContainer} className="treatment-container overflow-x-scroll overflow-y-hidden flex flex-nowrap snap-x snap-proximity">
-                {
-                    cardsData? (cardsData.map((cardData, idx) => {
-                        return (
-                            <Link 
-                                key={idx}
-                                to={cardData.link}
-                                ref={elmnt=>treatmentsRef.current[idx]=elmnt}
-                                className="snap-start hover:scale-105 transition-all duration-500"
-                                >
-                            <Card data={cardData} loading={isLoading}/>
-                            </Link>
-                        );
-                    })) : (<div className="w-full flex justify-around">
-                            <img src="/img/loading.gif" className="w-24 my-10 sm:my-14 aspect-[9/8]"/>
-                            <img src="/img/loading.gif" className="w-24 my-10 sm:my-14 aspect-[9/8]"/>
-                        </div>)
-                }
+                {cardsData.map((cardData, idx) => {
+                    return (
+                        <Link 
+                            key={idx}
+                            to={cardData.link}
+                            ref={elmnt=>treatmentsRef.current[idx]=elmnt}
+                            className="snap-start hover:scale-105 transition-all duration-500"
+                        >
+                        <Card data={cardData}/>
+                        </Link>
+                    );
+                })}
             </div>
         </div>
     )

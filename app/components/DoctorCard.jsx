@@ -1,13 +1,18 @@
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 const Lottie = React.lazy(() => import("lottie-react"));
 import { Suspense } from "react";
 import loadingEffect from "../animated Icon/loading.json"
 
-function DoctorCard({data, loading}) {
+function DoctorCard({data}) {
+    const cardRef = useRef(null);
+    const [isLoading, setIsLoading] = useState(false);
+    function loadingFn() {
+        setIsLoading(true);
+    }
     return(
-        <div className='doctors_card bg-white lg:w-60 w-[170px] shadow-lg overflow-hidden rounded-3xl lg:mb-4 my-3 relative'>
+        <div ref={cardRef} onClick={loadingFn} className='doctors_card bg-white lg:w-60 w-[170px] shadow-lg overflow-hidden rounded-3xl lg:mb-4 my-3 relative'>
             
-            {loading && ( <Suspense fallback={<div className="fixed">.</div>}>
+            {isLoading && ( <Suspense fallback={<div className="fixed">.</div>}>
                 <Lottie animationData={loadingEffect} className="w-14 absolute z-50"/>
             </Suspense>)}
 
