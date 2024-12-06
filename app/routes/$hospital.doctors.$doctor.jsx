@@ -64,7 +64,7 @@ export default  function DoctorsProfile() {
                 <button onClick={removeWindow} className="h-10 w-10 text-2xl pb-1 lg:scale-100 scale-150 rounded-full relative lg:right-6 lg:bottom-6 right-10 bottom-[-4px] hover:text-red-500">×</button>
             </div>
 
-            <div style={{fontFamily: `convergence, sans-serif`}} className="mb-20 lg:px-4 lg:flex justify-around w-[98vw] rounded-lg m-auto shadow-lg lg:bg-gradient-to-r from-purple-300 via-purple-50 to-[#f3feff] ">
+            <div className="mb-20 lg:px-4 lg:flex justify-around w-[98vw] rounded-lg m-auto shadow-lg lg:bg-gradient-to-r from-purple-300 via-purple-50 to-[#f3feff] ">
                 
                 <div className="lg:sticky lg:w-[28%] lg:h-[70vh] top-[35vh] lg:bg-[#4c494d] bg-white rounded-t-3xl flex flex-col items-center">
                     <img ref={doctorImgRef} className="lg:rounded-full lg:block lg:relative lg:bottom-[90px] fixed lg:w-[60%] w-full bg-violet-300 border-[6px] lg:border-[#4c494d]" src={doctorIntro?.img} alt={doctorIntro?.name} />

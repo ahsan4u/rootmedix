@@ -91,7 +91,7 @@ function UserInfo() {
     return (
         <div className="w-[100%] py-4 bg-transparent">
             <h1 className="text-center lg:text-2xl text-[27px] font-serif mb-3">Get free Consultation</h1>
-            <form onSubmit={handleSubmit}  style={{fontFamily: `convergence, 'sans-serif`}}>
+            <form onSubmit={handleSubmit}>
                 <input type="text"
                 autoComplete="off"
                 value={formData.name}
@@ -149,7 +149,6 @@ function UserInfo() {
                 
                 <button type="submit"
                 disabled={isLoading}
-                style={{fontFamily: `"Ubuntu", sans-serif`, fontWeight: '500'}}
                 className={`flex justify-center items-center text-lg m-auto w-[80%] mt-4 p-2 text-md text-white rounded-md transition-transform duration-300 ease-in-out hover:scale-[1.02]
                 ${isLoading ? 'bg-gradient-to-r from-blue-800 via-cyan-700 to-blue-800' : 'bg-gradient-to-r from-blue-700 via-cyan-600 to-blue-700'}`}
                 >{ isLoading && (

@@ -18,7 +18,7 @@ function DoctorCard({data}) {
             <div className='doctors_sub_card lg:aspect-[19/10] aspect-[19/9] bg-blue-500 rounded-3xl flex justify-center items-end transition-colors duration-500'>
                 <img src={data.img} alt={data.img} className='bg-cyan-400 aspect-[1/1] w-[45%] rounded-full border-[3px] border-white relative top-7'/>
             </div>
-            <div className='text-center mt-8' style={{fontFamily: `"Convergence", sans-serif`}}>
+            <div className='text-center mt-8'>
                 <h2 className='font-bold lg:text-[16px] text-xs'>{data.name}</h2>
                 <p className='lg:text-sm text-[10px] mt-[-2px] lg:mt-[3px] pb-1 text-nowrap overflow-scroll text-gray-500 border-b-2 border-blue-700 w-[83%] m-auto'>{data.type}</p>
                 

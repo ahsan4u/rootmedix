@@ -3,7 +3,10 @@
 @tailwind utilities;
 
 
-
+* {
+  font-family: "convergence", sans-serif;
+  user-select: none;
+}
 ::-webkit-scrollbar { width: 0; }
 
 input[type="number"]::-webkit-inner-spin-button{
