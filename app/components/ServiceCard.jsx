@@ -15,7 +15,7 @@ function ServiceCard({data}) {
                 <Lottie animationData={loadingEffect} className="w-14 absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] z-50" style={{filter: 'invert(0.7)'}}/>
             </Suspense>)}
             <img src={data.img} alt="" className="w-[100%] aspect-[16/9] object-cover" />
-            <p className="services-text text-center text-md sm:text-2xl font-bold m-1 py-1 rounded-lg text-cyan-900 transition-colors duration-[0.5s]">{data.name}</p>
+            <p className="text-center text-md sm:text-2xl font-bold mt-[2px] py-2 bg-[#3d3d3d] text-cyan-50 transition-colors duration-[0.5s]">{data.name}</p>
         </div>
     )
 }

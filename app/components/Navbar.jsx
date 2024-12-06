@@ -135,16 +135,16 @@ function Navbar() {
             </div>
 
             <ol className='navBar lg:sticky md:sticky lg:top-0 z-50 flex justify-end lg:justify-start w-full'>
-            <div ref={navBarToggle} style={{backdropFilter: 'blur(6px)'}} className='lg:flex lg:bg-[transparent] bg-[rgb(82,82,82)] fixed z-50 top-16 lg:static w-0 overflow-hidden opacity-0 lg:opacity-100 lg:w-full h-full lg:h-auto lg:gap-2 lg:pl-2 lg:py-1 text-md lg:text-[16px] transition-all duration-500'>
-                <Link to='/'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px] cursor-pointer'>Home</li></Link>
-                <Link to='/'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>Doctors</li></Link>
-                <Link to='/'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>Hospitals</li></Link>
-                <Link to='/'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>Treatment Cost</li></Link>
-                <Link to='/'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>Medical Visa</li></Link>
-                <Link to='/'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>Contact us</li></Link>
-                <Link to='/'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>About us</li></Link>
-                <Link to='/'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>Blogs</li></Link>
-            </div>
+                <div ref={navBarToggle} style={{backdropFilter: 'blur(6px)'}} className='lg:flex lg:bg-[transparent] bg-[rgb(82,82,82)] fixed z-50 top-16 lg:static w-0 overflow-hidden opacity-0 lg:opacity-100 lg:w-full h-full lg:h-auto lg:gap-2 lg:pl-2 lg:py-1 text-md lg:text-[16px] transition-all duration-500'>
+                    <Link to='/'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px] cursor-pointer'>Home</li></Link>
+                    <Link to='/our-doctors'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>Doctors</li></Link>
+                    <Link to='/our-hospitals'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>Hospitals</li></Link>
+                    <Link to='/our-treatments'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>Treatment Cost</li></Link>
+                    <Link to='/'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>Medical Visa</li></Link>
+                    <Link to='/'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>Contact us</li></Link>
+                    <Link to='/'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>About us</li></Link>
+                    <Link to='/'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>Blogs</li></Link>
+                </div>
             </ol>
         </>
     )

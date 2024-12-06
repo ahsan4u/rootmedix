@@ -30,7 +30,7 @@ export default function Home() {
   return (<>
     <Poster/>
     <div className="mt-1 mb-6 lg:mt-10 lg:mb-14">
-       <ScrollDiv heading={'Browse by Specialist'} cardsData={bestTreatments} link={'/treatments'} Card={TreatmentCard} count={6} seeMore={true} scroll={true}/>    
+       <ScrollDiv heading={'Browse by Specialist'} cardsData={bestTreatments} link={'/our-treatments'} Card={TreatmentCard} count={6} seeMore={true} scroll={true}/>    
     </div>
     <div className="mt-4 mb-6 lg:mt-10 lg:mb-14">
         <ScrollDiv heading={'Best Hospitals'} cardsData={hospitals} Card={HospitalCard} count={4}/>
@@ -39,7 +39,7 @@ export default function Home() {
         <ScrollDiv heading={'Our Services'} cardsData={services} Card={ServiceCard} count={4}/>
     </div>
     <div className="mt-4 mb-6 lg:mt-10 lg:mb-14">
-        <ScrollDiv heading={'Best Doctors'} cardsData={bestDoctors} link={'/doctors'} Card={DoctorCard} count={4} seeMore={true} scroll={true}/>
+        <ScrollDiv heading={'Best Doctors'} cardsData={bestDoctors} link={'/our-doctors'} Card={DoctorCard} count={4} seeMore={true} scroll={true}/>
     </div>
     
     {isMobile && (
