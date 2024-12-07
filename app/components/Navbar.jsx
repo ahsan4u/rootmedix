@@ -51,7 +51,7 @@ function Navbar() {
             MobileSearchCont.current.style.cssText = 'top: 11px; right: 62px; transition: top 0.5s ease-in-out, right 0.2s ease-in-out;';
             langSidebarDiv.current.style.width = '198px';
             MobileSearchContButton.current.style.margin = null;
-            MobileSearchContButton.current.style.background = '#1d4658';
+            MobileSearchContButton.current.style.background = '#243355';
             mobileSearchIcon.current.style.color = 'white';
             
             navBarToggle.current.style.width= '80vw';
@@ -99,7 +99,7 @@ function Navbar() {
                 MobileSearchCont.current.style.cssText = 'top: 11px; right: 62px; transition: top 0.5s ease-in-out, right 0.2s ease-in-out;';
                 langSidebarDiv.current.style.width = '198px';
                 MobileSearchContButton.current.style.margin = null;
-                MobileSearchContButton.current.style.background = '#1d4658';
+                MobileSearchContButton.current.style.background = '#243355';
                 mobileSearchIcon.current.style.color = 'white';
             }
         }
@@ -124,18 +124,18 @@ function Navbar() {
                             id="search"
                             placeholder="Search here..."
                             className='lg:w-72 w-[90%] lg:h-10 h-12 pl-3 lg:text-black text-white lg:block hidden outline-none text-md bg-transparent'/>
-                            <button ref={MobileSearchContButton} onClick={MobileSearch} className='bg-[#1d4658] lg:mx-0.5 lg:w-9 w-11 aspect-[1/1] text-white rounded-full transition-colors duration-500'><i ref={mobileSearchIcon} className="fa-solid fa-magnifying-glass" style={{color: "white"}}></i></button>
+                            <button ref={MobileSearchContButton} onClick={MobileSearch} className='bg-[#243355] lg:mx-0.5 lg:w-9 w-11 aspect-[1/1] text-white rounded-full transition-colors duration-500'><i ref={mobileSearchIcon} className="fa-solid fa-magnifying-glass" style={{color: "white"}}></i></button>
                         </div>
                     </div>
 
-                    {isMobile && (<button onClick={toggleNavbar} className='lg:hidden block sidebarBtn p-[9px] bg-[#1d4658] mr-2 rounded-full z-50 transition-colors duration-500'>
+                    {isMobile && (<button onClick={toggleNavbar} className='lg:hidden block sidebarBtn p-[9px] bg-[#243355] mr-2 rounded-full z-50 transition-colors duration-500'>
                         <Lottie lottieRef={menubarRef} animationData={menuEffect} loop={false} autoplay={false} className='w-7 h-7 filter invert'/>
                     </button>)}
                 </div>
             </div>
 
             <ol className='navBar lg:sticky md:sticky lg:top-0 z-50 flex justify-end lg:justify-start w-full'>
-                <div ref={navBarToggle} style={{backdropFilter: 'blur(6px)'}} className='lg:flex lg:bg-[transparent] bg-[rgb(82,82,82)] fixed z-50 top-16 lg:static w-0 overflow-hidden opacity-0 lg:opacity-100 lg:w-full h-full lg:h-auto lg:gap-2 lg:pl-2 lg:py-1 text-md lg:text-[16px] transition-all duration-500'>
+                <div ref={navBarToggle} style={{backdropFilter: 'blur(6px)'}} className='lg:flex lg:bg-[transparent] bg-[#525252] fixed z-50 top-16 lg:static w-0 overflow-hidden opacity-0 lg:opacity-100 lg:w-full h-full lg:h-auto lg:gap-2 lg:pl-2 lg:py-1 text-md lg:text-[16px] transition-all duration-500'>
                     <Link to='/'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px] cursor-pointer'>Home</li></Link>
                     <Link to='/our-doctors'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>Doctors</li></Link>
                     <Link to='/our-hospitals'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>Hospitals</li></Link>
@@ -147,7 +147,7 @@ function Navbar() {
                 </div>
             </ol>
         </>
-    )
+    )   
 }
 
 export default Navbar;
