@@ -347,7 +347,88 @@ export default {
       experiance: "Experience: 21+ Years",
       hospital: "Max Hospital Saket, Delhi",
       link: "/maxsaket/doctors/anupamgoel"
-    }
+    },
+    mitendrasinghyadav: {
+      img: "/img/doctors/anupamgoel.png",
+      name: "Dr. Mitendra Singh Yadav",
+      type: "Assistant Director",
+      speciality: "Interventional Cardiology",
+      experiance: "Experience: 14+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/mitendrasinghyadav"
+    },
+    arifmustaqueem: {
+      img: "/img/doctors/arifmustaqueem.png",
+      name: "Dr. Arif Mustaqueem",
+      type: "Associate Director",
+      speciality: "Cardiac Sciences",
+      experiance: "Experience: 13+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/arifmustaqueem"
+    },
+    gauravkumar: {
+      img: "/img/doctors/arifmustaqueem.png",
+      name: "Dr. Gaurav Kumar",
+      type: "Senior Consultant",
+      speciality: "Pediatric Cardiology",
+      experiance: "Experience: 6+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/gauravkumar"
+    },
+    sanjeevmalhotra: {
+      img: "/img/doctors/sanjeevmalhotra.png",
+      name: "Dr. Sanjeev Malhotra",
+      type: "Director",
+      speciality: "Cardiac Surgery (CTVS)",
+      experiance: "Experience: 15+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/sanjeevmalhotra"
+    },
+    nitinswalia: {
+      img: "/img/doctors/nitinswalia.png",
+      name: "Dr. Nitin S. Walia",
+      type: "Principal Consultant",
+      speciality: "Dermatology",
+      experiance: "Experience: 30+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/nitinswalia"
+    },
+    rashmimalik: {
+      img: "/img/doctors/rashmimalik.png",
+      name: "Dr. Rashmi Malik",
+      type: "Principal Consultant",
+      speciality: "Dermatology",
+      experiance: "Experience: 25+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/rashmimalik"
+    },
+    ajitabagaikakkar: {
+      img: "/img/doctors/ajitabagaikakkar.png",
+      name: "Dr. Ajita Bagai Kakkar",
+      type: "Associate Director",
+      speciality: "Dermatology",
+      experiance: "Experience: 24+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/ajitabagaikakkar"
+    },
+    ranjanupadhaya: {
+      img: "/img/doctors/ranjanupadhaya.png",
+      name: "Dr. Ajita Bagai Kakkar",
+      type: "Senior Consultant",
+      speciality: "Dermatology",
+      experiance: "Experience: 17+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/ranjanupadhaya"
+    },
+    ranjanupadhaya: {
+      img: "/img/doctors/ranjanupadhaya.png",
+      name: "Dr. Ajita Bagai Kakkar",
+      type: "Senior Consultant",
+      speciality: "Dermatology",
+      experiance: "Experience: 17+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/ranjanupadhaya"
+    },  
   },
 
   hospitals: [

@@ -2771,6 +2771,753 @@ export default {
         ]
       }
     ],
+    mitendrasinghyadav: [
+      {
+        subheading: "About Dr. Mitendra Singh Yadav",
+        description: "Dr. Mitendra Singh Yadav is an extremely experienced cardiologist who, for more than 14 years, has gained experience in interventional cardiology and currently works as Associate Director in Interventional Cardiology. He possesses extraordinary experience in complex coronary intervention management, structural heart diseases for treatment, and primary PCI of an acute myocardial infarction. He carries a very good reputation and dedication in regard to cardiac care in clinic practice and academic arenas also."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Associate Director, Interventional Cardiology, Max Healthcare"
+          },
+          {
+            content: "Sr. Consultant & HOD Cardiology, VIMHANS, NAYATI Hospital (2018-2019)"
+          },
+          {
+            content: "Director, Cath Lab & Sr. Consultant, Cardiology, Medicity Rudrapur (2017-2018)"
+          },
+          {
+            content: "Consultant, Cardiology, Max Healthcare, Saket (2014-2017)"
+          },
+          {
+            content: "Associate Consultant, Cardiology, Max Hospital, Saket (2011-2014)"
+          },
+          {
+            content: "Attending Consultant, Cardiology, Max Hospital, Saket (2009-2011)"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "Fellow, European Society of Cardiology"
+          },
+          {
+            content: "Young Interventional Fellows Course (SIMS)"
+          },
+          {
+            content: "DNB in Cardiology-Max Heart & Vascular Institute"
+          },
+          {
+            content: "MD - MGM Medical College & My Hospital, Indore"
+          },
+          {
+            content: "MBBS, NSCB Medical College, Jabalpur"
+          },
+        ]
+      },
+      {
+        subheading: "Awards and Recognition",
+        list: [
+          {
+            content: "International Member— Society for Cardiovascular Angiography and Interventions (SCAI), 2011"
+          },
+          {
+            content: "Interventional Fellows Course—India Live, 2012"
+          },
+          {
+            content: "Max GEM Award (2013)"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        list: [
+          {
+            content: "Acute MI Interventions (Primary PCI)"
+          },
+          {
+            content: "Complex Coronary Interventions (IVUS, FFR, OCT, ROTA)"
+          },
+          {
+            content: "Radial Interventions"
+          },
+          {
+            content: "Interventions in Structural Heart Diseases"
+          },
+          {
+            content: "Renal Angioplasty & IVC Filter Implantation"
+          },
+        ]
+      }
+    ],
+    arifmustaqueem: [
+      {
+        subheading: "About Dr. Arif Mustaqueem",
+        description: "Dr. Arif Mustaqueem is the most experienced cardiologist with above 13 years of experience, both in non-invasive and interventional cardiology. He has a vast contribution in Cardiology Max Hospital, Saket, as an associate director. He treats complex cardiac cases with the utmost skills and care. For this, he uses techniques that are the most recent and combined with immense care for patients suffering from various heart diseases."
+      },
+      {
+        subheading: "Professional Experience",
+        list: [
+          {
+            content: "Associate Director, Cardiology, Max Healthcare, Saket, Delhi"
+          },
+          {
+            content: "Senior Consultant, Cardiology, Escorts Heart Institute & Research Centre, New Delhi"
+          },
+          {
+            content: "More than two decades of cardiology experience—Escorts Heart Institute and Research Centre, New Delhi"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "MBBS, Jawaharlal Nehru Medical College (JNMC), Aligarh"
+          },
+          {
+            content: "MD (General Medicine) - Jawaharlal Nehru Medical College & Hospital (JNMCH), Aligarh"
+          },
+          {
+            content: "DNB (Cardiology) - Escorts Heart Institute & Research Centre, New Delhi"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        miniheading: "Non-Invasive Cardiology",
+      },
+      {
+        description: "Here below are the non-invasive diagnostic skills of Dr. Mustaqueem.",
+      },
+      {
+        list: [
+          {
+            content: "2D & 3D Transthoracic and Trans-Esophageal Echocardiography"
+          },
+          {
+            content: "Stress Echocardiography to ascertain level of cardiac stress"
+          },
+          {
+            content: "Strain imaging and Contrast Imaging for analyzing in details the picture of heart"
+          },
+          {
+            content: "Trans-Esophageal Echocardiography in the various."
+          },
+          {
+            content: "Conducted on OPD postoperatively for the patients who had surgery so recovery could be ascertained in cardio-thoracic theatres."
+          },
+          {
+            content: "During the procedures of structural heart, during those cath lab support provided also includes TAVR, MitraClip valve in valve, alcohol septal ablation, or ASD/PVH leakage closure."
+          },
+        ]
+      },
+      {
+        subheading: "Electrophysiology Lab",
+        description: "Dr. Mustaqueem performs advanced electrophysiological procedures, including:",
+        list: [
+          {
+            content: "Pre-cardioversion evaluations"
+          },
+          {
+            content: "TEE-guided CARTO mapping and ablation"
+          },
+          {
+            content: "Pulmonary Vein Isolation for Atrial Fibrillation"
+          },
+          {
+            content: "He also performs Doppler studies for peripheral arteries, veins, carotid, and renal arteries to diagnose vascular conditions."
+          },
+        ]
+      },
+      {
+        subheading: "Clinical Cardiology",
+        description: "Dr. Mustaqueem provides comprehensive care for both outpatients and inpatients. He specializes in:",
+        list: [
+          {
+            content: "Perioperative management of cardiac patients undergoing non-cardiac surgeries"
+          },
+          {
+            content: "Care of the heart in chemotherapy and others who need specialty monitoring"
+          },
+        ]
+      }
+    ],
+    gauravkumar: [
+      {
+        subheading: "About Dr. Gaurav Kumar",
+        description: "Dr. Gaurav Kumar is an excellent pediatric cardiologist with experience of more than 6 years in the management and treatment of heart conditions in children. He is presently working as a senior consultant at Max Super Speciality Hospital, Saket, with a deep commitment to the improvement of pediatric heart health. His extensive training coupled with a compassionate approach helps him care for infants, children, and young adults facing complex cardiac challenges."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Senior Consultant, Pediatric Cardiology, Max Super Speciality Hospital, Saket (Apr 2022 - Till date)"
+          },
+          {
+            content: "Consultant, Pediatric Cardiology, Max Super Speciality Hospital, Saket (Apr 2021 - Mar 2022)"
+          },
+          {
+            content: "Associate Consultant, Pediatric Cardiology, Max Super Speciality Hospital, Saket (Aug 2018 - Mar 2021)"
+          },
+          {
+            content: "Fellowship in Pediatric Cardiology (NBE) - Apollo Children's Hospital, Chennai (Apr 2016 – Apr 2018)"
+          },
+          {
+            content: "Senior Resident, Pediatrics, ESI Hospital, Delhi (2015 - 2016)"
+          },
+          {
+            content: "Senior Resident, Pediatrics, Lok Nayak Hospital (2014)"
+          },
+        ],
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "MBBS, Maulana Azad Medical College, Delhi University (2009)"
+          },
+          {
+            content: "MD in Pediatrics—MAMC and Lok Nayak Hospital, Delhi University (2014)"
+          },
+          {
+            content: "DNB in Pediatrics—National Board of Examinations (2014)"
+          },
+          {
+            content: "FNB in Pediatric Cardiology, Apollo Children's Hospital, Chennai (National Board of Examinations) (2018)"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Pediatric Cardiac Society of India"
+          },
+          {
+            content: "IAP-Cardiology Chapter"
+          },
+          {
+            content: "Delhi Medical Council"
+          },
+        ]
+      },
+      {
+        subheading: "Awards & Achievements",
+        description: "He was rewarded with excellence in dealing with the most complex cases of pediatric cardiac, for which some of his prominent works are listed below:",
+        list: [
+          {
+            content: "Managing the newborns with the treatments of the complex congenital heart diseases"
+          },
+          {
+            content: "Fetal Echocardiography to identify the diseases earlier"
+          },
+          {
+            content: "Experienced in performing Diagnostic and Therapeutic Cardiac Catheterization"
+          },
+          {
+            content: "Valve repairs and hole closures via minimally invasive procedures"
+          },
+          {
+            content: "Pediatric Pulmonary Hypertension"
+          },
+          {
+            content: "Pediatric Cardiomyopathy"
+          },
+          {
+            content: "Contributed numerous journals across the country and the globe"
+          },
+          {
+            content: "Children Heart Disease Support Activist Initiative Organizer"
+          },
+          {
+            content: "He invited all the faculty from major pediatric cardiology conferences happening in India to his setup."
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        miniheading: "Dr. Kumar focuses on:",
+        list: [
+          {
+            content: "The complex condition of heart congenital anomaly in infants and children."
+          },
+          {
+            content: "Fetal echocardi/ography for heart disease diagnosis of infants still in the mother's womb."
+          },
+          {
+            content: "Minimally Invasive procedures, including device closures and balloon valvuloplasty, in heart diseases pertaining to children"
+          },
+          {
+            content: "Pediatric pulmonary hypertension management."
+          },
+          {
+            content: "Pediatric Cardiomyopathy management"
+          },
+          {
+            content: "Training and mentoring people in the Cardiology area"
+          },
+        ]
+      }
+    ],
+    sanjeevmalhotra: [
+      {
+        subheading: "About Dr. Sanjeev Malhotra",
+        description: "Highly experienced, skilled cardiothoracic surgeon with over 15 years of experience in complex heart and vascular surgeries. I have dedicated my career to advancing patient outcomes through a combination of traditional and minimally invasive techniques. Areas of expertise include intricate coronary artery bypass, mitral valve repair, and complex thoracic surgeries."
+      },
+      {
+        subheading: "Experience",
+        list: [
+          {
+            content: "Director, Cardiothoracic and Vascular Surgery, Delhi Heart and Lung Institute (Nov 2021 - Jul 2024)"
+          },
+          {
+            content: "Associate Director, Cardiothoracic and Vascular Surgery, Delhi Heart and Lung Institute (Nov 2018 - Nov 2021)"
+          },
+          {
+            content: "Principal Consultant, Max Hospital, Saket (May 2017 - Nov 2018)"
+          },
+          {
+            content: "Senior Consultant, Max Hospital, Saket (Jun 2014 - May 2017)"
+          },
+          {
+            content: "Consultant, Fortis Escorts Heart Institute (Sep 2011 - Jun 2014)"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "DNB in Cardiothoracic and Vascular Surgery (CTVS)—Escorts Heart Institute and Research Centre, New Delhi (2005)"
+          },
+          {
+            content: "MS in General Surgery, Dr. S.N. Medical College, Jodhpur (1999)"
+          },
+          {
+            content: "MBBS, Lokmanya Tilak Municipal Medical College, Sion, Mumbai (1994)"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Life Member, Indian Association of Cardiothoracic Surgeons"
+          }
+        ]
+      },
+      {
+        subheading: "Awards & Achievements",
+        description: "More than 2000 cardiac surgeries have been experienced by Dr. Malhotra, who had the pioneering work done for the developing mitral valve repair program at Max Hospital, Saket. He came up with techniques for complicated cases due to cardiac conditions at a newer level of excellence."
+      },
+      {
+        subheading: "Fields of Specialization",
+        list: [
+          {
+            content: "Interest areas include, on Dr. Malhotra:"
+          },
+          {
+            content: "Beating Heart Coronary Artery Bypass Surgery"
+          },
+          {
+            content: "Total Arterial Revascularization"
+          },
+          {
+            content: "Coronary Artery Bypass for Ventricular Dysfunction"
+          },
+          {
+            content: "Mitral Valve Repair"
+          },
+          {
+            content: "Minimally Invasive Cardiac Surgery"
+          },
+          {
+            content: "Ischemic Mitral Regurgitation and Surgical Ventricular Restoration"
+          },
+        ]
+      },
+      {
+        subheading: "Research Papers & Publications",
+        list: [
+          {
+            content: "Ascending Aortic Replacement in Young Adults (AATS, New York, USA, 2008)"
+          },
+          {
+            content: "Conversion in Off-Pump CABG-CTCOMCON, New Delhi, 2010"
+          },
+          {
+            content: "CABG in Young Adults—ASCVTS, Phuket, Thailand, 2011"
+          },
+          {
+            content: "Coronary Pseudoaneurysm: Surgical Management—CSI, Mumbai, 2011"
+          },
+          {
+            content: "Reoperative Valve Surgery: Experience of 89 Patients—Presented at ASCVTS, Istanbul (2014)"
+          },
+          {
+            content: "Post-Infarct Left Ventricular Free Wall Rupture: Case Series of 7 Patients—Poster Presentation at ASCVTS, Istanbul (2014)"
+          },
+        ]
+      }
+    ],
+    nitinswalia: [
+      {
+        subheading: "About Dr. Nitin S. Walia",
+        description: "He has more than 30 years of experience as a dermatologist in handling varied diseases of the skin and sexually transmitted diseases. His philosophy is patient-oriented, which has made him a great consultant at Max Healthcare with excellent care for the practice of dermatology, STD treatment, and dermatosurgery. Dr. Walia has had a brilliant academic career along with teaching experience for nine years with aspiring dermatologists."
+      },
+      {
+        subheading: "Professional Working Experience",
+        list: [
+          {
+            content: "Principal Consultant in Dermatology & STD, Max Healthcare"
+          },
+          {
+            content: "20 Years of practice experience as dermatologist"
+          },
+          {
+            content: "9 Years experience in academia as professor for the subject of dermatology"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "DNB in Dermatology & STD (1994)"
+          },
+          {
+            content: "MD in Dermatology, STD & Leprosy (1993) with Gold Medal awarded"
+          },
+          {
+            content: "MBBS, 1986"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Life Member, IADV"
+          },
+          {
+            content: "Life Member IASSTD"
+          },
+          {
+            content: "Associate Member International Society of Dermatology"
+          },
+        ]
+      },
+      {
+        subheading: "Awards & Honours",
+        list: [
+          {
+            content: "MD Gold Medal Winner: Best student in all aspects of the curriculum concerning dermatology "
+          },
+          {
+            content: "Former vice president, IASSTD & AIDS"
+          },
+          {
+            content: "Former President IASSTD & AIDS "
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interest",
+        description: "Derm. Dr. Nitin S. Walia shows a special interest and specialized training in STD, dermatology, and telemedicine that brings dermatology consultancy services along with the benefits of the internet to each doorstep of the masses."
+      }
+    ],
+    rashmimalik: [
+      {
+        subheading: "About Dr. Rashmi Malik",
+        description: "Dr. Rashmi Malik is an experienced dermatologist and a Vital Specialist in Dermatology at Max Healthcare. With more than 25 years of involvement, she has committed herself to giving high-quality dermatological care with endless mastery in adult as well as pediatric dermatology."
+      },
+      {
+        subheading: "Work Experience",
+        description: "She has been a resource to Max Healthcare since 2006; she gives master interviews and care in dermatology. Already, she moreover obtained universal encounter from 1999 to 2005 at College Healing Centers, London and Glasgow, UK, by sharpening her aptitudes at progressed dermatological practices."
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "Diploma in Dermatology, Regal College of Doctors and Specialists, Glasgow, UK"
+          },
+          {
+            content: "M.D., Woman Hardinge Restorative College (LHMC), Delhi"
+          },
+          {
+            content: "M.B.B.S.- Maulana Azad Restorative College (MAMC), Delhi"
+          },
+        ]
+      },
+      {
+        subheading: "Speciality Interest",
+        list: [
+          {
+            content: "Pediatric dermatology: intrigued by all infections influencing the skin amid the earliest stages, childhood, and adolescence."
+          }
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Indian Association of Dermatologists, Venereologists, and Leprologists (IADVL)"
+          },
+          {
+            content: "Diploma in Dermatology; Illustrious College of Doctors and Specialists of Glasgow"
+          },
+        ]
+      }
+    ],
+    ajitabagaikakkar: [
+      {
+        subheading: "About Dr. Ajita Bagai Kakkar",
+        description: "Dr. Ajita Bagai Kakkar, Relate Chief at Max Healthcare in Dermatology, has over 24 years of involvement in the field of dermatological treatment. She is a recognized master in skin wellbeing; her hone ranges from tending to common skin clutters to stylish dermatology medications at tall levels."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Current Role: Dr. Kakkar has been a dedicated dermatologist at Max Hospital, Panchsheel Park, since 2004, providing trusted dermatological care to her patients for nearly two decades."
+          },
+          {
+            content: "Clinical Partner at Apollo Hospital, New Delhi (2001-2004)"
+          },
+          {
+            content: "Senior Resident in Dermatology at Safdarjung Hospital, New Delhi (2000-2001)"
+          },
+          {
+            content: "Resident in Dermatology at Lok Nayak Hospital, New Delhi (1999-2000)"
+          },
+          {
+            content: "Completed focused training in dermatology and STD at the All India Institute of Medical Sciences (AIIMS), New Delhi."
+          },
+          {
+            content: "Postgraduate Residency in Dermatology at Kasturba Medical College, Manipal (1996-1999)."
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "DNB (Dermatology & Venereology)—National Board of Examinations, India"
+          },
+          {
+            content: "MD, Kasturba Restorative College (KMC), Manipal"
+          },
+          {
+            content: "MBBS - Kasturba Restorative College (KMC), Mangalore, Manipal Institute of Higher Education"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        miniheading: "Dr. Kakkar is profoundly flexible in stylish dermatology.",
+        list: [
+          {
+            content: "Acne Treatments"
+          },
+          {
+            content: "Psoriasis Management"
+          },
+          {
+            name: "Aesthetic Pharmaceutical",
+            content: "laser treatment for pigmentation, evacuation of moles and skin labels, skin break-out scar decrease, hair expulsion, chemical peels for different dermatological conditions, anti-aging medicines, PRP for facial pigmentation and hair misfortune, and mesotherapy."
+          },
+        ]
+      },
+      {
+        subheading: "Professional Memberships",
+        miniheading: "Dr. Kakkar is a dynamic part of the taking-after tip-top dermatology and corrective societies:",
+        list: [
+          {
+            content: "International Society of Dermatology"
+          },
+          {
+            content: "American Foundation of Dermatology"
+          },
+          {
+            content: "European Foundation of Dermatology"
+          },
+          {
+            content: "Association of Cutaneous Specialists of India (ACS[I])"
+          },
+          {
+            content: "Cosmetic Dermatology Society of India (CDSI)"
+          },
+          {
+            content: "American Institute of Stylish Medicine"
+          },
+        ]
+      },
+    ],
+    ranjanupadhaya: [
+      {
+        subheading: "About Dr. Ranjan Upadhaya",
+        description: "Dr. Ranjan Upadhaya is a devoted senior specialist in dermatology, specializing in laser medicines and hair transplantation. With a long time of encounter in dermatology, Dr. Upadhaya has worked at a few unmistakable healthcare teachings and gloats of monstrous encounter in skin care, restorative strategies, and hair rebuilding. His encounter is fortified by a commitment to the best conceivable dermatological care, counting progressed medicines for conditions like psoriasis and different dermatosurgical and stylish services."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Senior Specialist Dermatologist, Max Hospital, Panchsheel Stop & Max Devki Devi Healing center, Saket, Modern Delhi (July 2010 - Present)"
+          },
+          {
+            content: "Clinical Partner in Dermatology—Max Hospital, Panchsheel Stop & Max Devki Devi Clinic, Saket (June 2009 – July 2010)"
+          },
+          {
+            content: "Dermatology Inhabitant, Nanavati Clinic, Mumbai (2007 - 2009)"
+          },
+          {
+            content: "Post Graduate Dermatology Inhabitant, Dept. of Skin & STD, JJM Restorative College, Karnataka (2005 - 2007)"
+          },
+          {
+            content: "Teacher and Facilitator, Numerous national and territorial workshops on lasers and restorative procedures"
+          },
+          {
+            content: "Internship, Himalayan Organized of Therapeutic Sciences, Uttarakhand"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "Certificate in Cosmetology and Dermatosurgery—Nanavati Healing center, Mumbai"
+          },
+          {
+            content: "Advanced Course in Facial Aesthetics—National Skin Center, Singapore"
+          },
+          {
+            content: "Diploma in Dermatology, Venereology, and Disease (DDVL)—Rajiv Gandhi College of Wellbeing Sciences, Bangalore"
+          },
+          {
+            content: "Bachelor of Pharmaceutical, Lone ranger of Surgery (MBBS)—Himalayan Organized of Therapeutic Sciences, Dehradun"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Member, Indian Association of Dermatology, Venereology, and Leprology (IADVL)"
+          },
+          {
+            content: "Fellow, American Institute of Dermatology (AAD)"
+          },
+          {
+            content: "Member, Affiliation of Cutaneous Specialists of India"
+          },
+          {
+            content: "Member, Affiliation of Hair Rebuilding Specialists of India"
+          },
+        ]
+      },
+      {
+        subheading: "Awards & Recognition",
+        list: [
+          {
+            content: "Research Introduction: Part of Minoxidil 5% vs. Minoxidil 5% and Finasteride 1 mg in Treating Male Design Hairlessness (2009)"
+          },
+          {
+            content: "Advisory Board Part: Utilize of biologics in overseeing psoriasis"
+          },
+          {
+            content: "Conference Speaker: National conferences on the part of biologics in psoriasis (2011)"
+          },
+        ]
+      },
+      {
+        subheading: "Special Interest",
+        list: [
+          {
+            content: "Biological treatment in Psoriasis"
+          },
+          {
+            content: "Hair transplantation strategies and hair rebuilding solutions"
+          },
+          {
+            content: "Cosmetic dermatologic methods with a center on aesthetics and laser therapies"
+          },
+        ]
+      }
+    ],
+    a: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    a: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    a: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    a: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    a: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
     a: [
       {
         subheading: "",
