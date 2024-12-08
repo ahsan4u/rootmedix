@@ -97,7 +97,7 @@ export default  function DoctorsProfile() {
                     
                     {
                         doctorProfile?.map((details, idx)=>(
-                            <div key={idx} className="text-green-950 px-2 lg:px-0 bg-white lg:bg-transparent">
+                            <div key={idx} className="px-2 lg:px-0 bg-[#fffdff] lg:bg-transparent">
                                 {details.heading && (<h1 className="mb-1 mt-3 text-4xl text-cyan-900 font-bold border-b-4 border-dashed border-cyan-500 inline-block pr-4 pb-2">{details.heading}</h1>)}
                                 {details.subheading && (<h2 className="text-xl lg:text-2xl text-cyan-900 font-semibold mt-5 lg:border-b-4 lg:border-dashed lg:border-cyan-500 inline-block pr-4 lg:pb-1">{details.subheading}</h2>)}
                                 {details.miniheading && (<p className="font-semibold lg:mt-3 mt-1">{details.miniheading}</p>)}

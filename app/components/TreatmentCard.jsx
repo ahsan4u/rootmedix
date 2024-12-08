@@ -14,8 +14,8 @@ const TreatmentCard = ({data})=>{
         </Suspense>)}
         
         <img src={data.img} alt={data.img} className="bg-white absolute top-0 aspect-[16/17.5] object-cover rounded-lg" />
-        <img src="./img/treatmentCard.png" alt="" className="w-full absolute bottom-0 z-10"/>
-        <p className="treatment_name w-full sm:text-[15px] text-[11px] text-center font-bold mb-1 sm:py-1 py-[1px] z-10 absolute bottom-0 text-cyan-50 transition-colors duration-[0.5s]">{data.name}</p>
+        <img src="/img/treatmentCard.png" alt="" className="w-full absolute bottom-0 z-10"/>
+        <p className="w-full sm:text-[15px] text-[11px] text-center font-bold mb-1 sm:py-1 py-[1px] z-10 absolute bottom-0 text-cyan-50 transition-colors duration-[0.5s]">{data.name}</p>
     </div>)
 }
 export default TreatmentCard;
