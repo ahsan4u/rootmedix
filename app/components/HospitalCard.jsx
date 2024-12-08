@@ -10,7 +10,7 @@ function HospitalCard({data}) {
     }
 
     return (
-        <div onClick={loadingFn} className="relative bg-white sm:w-64 w-[166px] shadow-[2px_2px_5px_gray] rounded-lg sm:rounded-xl my-3 overflow-hidden cursor-pointer">
+        <div onClick={loadingFn} className="relative bg-white sm:w-64 w-[166px] shadow-[2px_2px_5px_gray] rounded-xl sm:rounded-xl my-3 overflow-hidden cursor-pointer">
             {isLoading && ( <Suspense fallback={<div className="fixed">.</div>}>
                 <Lottie animationData={loadingEffect} className="w-14 absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] z-50"/>
             </Suspense>)}

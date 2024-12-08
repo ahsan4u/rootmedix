@@ -10,7 +10,7 @@ export default function Treatments() {
     const hospitalsData = cardsdata["hospitals"];
     const servicesData = cardsdata["services"];
     return(<>
-        <div className={`grid grid-cols-[repeat(auto-fit,minmax(130px,1fr))] sm:grid-cols-[repeat(auto-fit,minmax(200px,1fr))] w-full justify-items-center mb-12`}>
+        <div className={`bg-[#fffbff] grid grid-cols-[repeat(auto-fit,minmax(130px,1fr))] sm:grid-cols-[repeat(auto-fit,minmax(200px,1fr))] w-full justify-items-center pb-12`}>
         {
             treatmentData.map((eachData, idx)=> (
                 <Link  key={idx} to='/treatments/cardiology' className="w-full hover:scale-105 transition-transform duration-500 aspect-[1/1] flex justify-center items-center flex-shrink-0">
@@ -20,9 +20,7 @@ export default function Treatments() {
         }
         </div>
 
-        <div className="mt-10">
         <ScrollDiv heading={'Best Hospitals'} cardsData = {hospitalsData} Card={HospitalsCard}/>       
-      </div>
 
       <div className="mt-12">
         <ScrollDiv heading={'Our Services'} cardsData={servicesData} Card={ServiceCard}/>

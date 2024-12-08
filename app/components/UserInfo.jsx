@@ -90,7 +90,7 @@ function UserInfo() {
 
     return (
         <div className="w-[100%] py-4 bg-transparent">
-            <h1 className="text-center lg:text-2xl text-[27px] font-serif mb-3">Get free Consultation</h1>
+            <h1 className="text-center text-black lg:text-2xl text-[27px] font-serif mb-3">Get free Consultation</h1>
             <form onSubmit={handleSubmit}>
                 <input type="text"
                 autoComplete="off"
@@ -101,7 +101,7 @@ function UserInfo() {
                 placeholder="Full Name"
                 className="block m-auto w-[80%] sm:mt-2 mt-5 py-1 text-lg sm:text-sm outline-none bg-transparent border-b-2 border-blue-400 placeholder-slate-500"/>
                 
-                <div className="relative w-[80%] m-auto">
+                <div className="relative w-[80%] m-auto text-black">
                     <input
                     value={formData.country}
                     placeholder="Select Country"
@@ -114,7 +114,7 @@ function UserInfo() {
                     <div ref={suggestRef} className="options h-0 transition-all duration-500 overflow-hidden rounded-b-xl absolute bg-[#4d5a6b] text-white"></div>
                 </div>
                 
-                <div className="m-auto w-[80%] flex sm:mt-2 mt-5">
+                <div className="m-auto w-[80%] flex sm:mt-2 mt-5 text-black">
                     <p className="std border-b-2 border-blue-400 mr-1 w-[18%] text-lg sm:text-sm py-1">{formData.std}</p>
                     <input type="number"
                     ref={number}
@@ -135,7 +135,7 @@ function UserInfo() {
                 name="email"
                 id="email"
                 placeholder="Email Address"
-                className="block m-auto w-[80%] mb-6 sm:mt-2 mt-5 py-1 text-lg sm:text-sm outline-none bg-transparent border-b-2 border-blue-400 placeholder-slate-500"/>
+                className="block m-auto w-[80%] text-black mb-6 sm:mt-2 mt-5 py-1 text-lg sm:text-sm outline-none bg-transparent border-b-2 border-blue-400 placeholder-slate-500"/>
                 
                 <textarea
                 value={formData.msg}
@@ -145,7 +145,7 @@ function UserInfo() {
                 rows= {!isMobile? "3": "4"}
                 id="patientDetails"
                 placeholder="Write your Medical Concern"
-                className="w-[82%] block m-auto outline-none rounded-md px-1 text-lg sm:text-sm placeholder-slate-500"/>
+                className="w-[82%] text-black block m-auto outline-none rounded-md px-1 text-lg sm:text-sm placeholder-slate-500"/>
                 
                 <button type="submit"
                 disabled={isLoading}

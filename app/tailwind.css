@@ -21,7 +21,7 @@ input[type="number"]::-webkit-inner-spin-button{
 }
 
 .doctors_card:hover .doctors_sub_card {
-  background-color: #587cdd;
+  background-color: #3684e2;
 } 
 
 .bestHospital:hover .bestHospital-text {
