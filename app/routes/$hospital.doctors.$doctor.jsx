@@ -64,10 +64,10 @@ export default  function DoctorsProfile() {
                 <button onClick={removeWindow} className="h-10 w-10 text-2xl pb-1 lg:scale-100 scale-150 rounded-full relative lg:right-6 lg:bottom-6 right-10 bottom-[-4px] hover:text-red-500">×</button>
             </div>
 
-            <div className="mb-20 lg:px-4 lg:flex justify-around w-[98vw] rounded-lg m-auto shadow-lg lg:bg-gradient-to-r from-purple-300 via-purple-50 to-[#f3feff] ">
+            <div className="mb-20 lg:px-4 lg:flex justify-around lg:w-[98vw] rounded-lg m-auto shadow-lg lg:bg-gradient-to-r from-purple-300 via-purple-50 to-[#f3feff] ">
                 
                 <div className="lg:sticky lg:w-[28%] lg:h-[70vh] top-[35vh] lg:bg-[#4c494d] bg-white rounded-t-3xl flex flex-col items-center">
-                    <img ref={doctorImgRef} className="lg:rounded-full lg:block lg:relative lg:bottom-[90px] fixed lg:w-[60%] w-full bg-violet-300 border-[6px] lg:border-[#4c494d]" src={doctorIntro?.img} alt={doctorIntro?.name} />
+                    <img ref={doctorImgRef} className="lg:rounded-full lg:block lg:relative lg:bottom-[90px] fixed lg:w-[60%] w-full bg-gray-700 lg:bg-violet-300 lg:border-[6px] lg:border-[#4c494d]" src={doctorIntro?.img} alt={doctorIntro?.name} />
                     <div className="text-[15px] lg:mt-[-80px] w-[78%] m-auto text-white">
                         <h2 className="text-center font-bold text-xl">{doctorIntro?.name}</h2>
                         {(!isMobile1000) && (<>
@@ -81,9 +81,10 @@ export default  function DoctorsProfile() {
                     </div>
                 </div>
 
-                <div ref={aboutRef} className="lg:w-[55%] min-h-[100vh] lg:mt-[8vh] overflow-hidden rounded-t-3xl lg:rounded-none pb-5 relative z-10 bg-[#fffcfd] lg:bg-transparent">
+                <div ref={aboutRef} className="lg:w-[55%] min-h-[100vh] lg:mt-[8vh] overflow-hidden rounded-t-3xl lg:rounded-none pb-5 relative z-10 bg-[#fffdff] lg:bg-transparent">
+                    
                     {isMobile1000 && (
-                        <div className="mb-1 py-2 text-2xl font-bold text-white bg-cyan-600 rounded-3xl">
+                        <div className="mb-1 py-2 text-2xl font-bold text-white bg-[#3d3d3d] rounded-3xl">
                             <h1 className="text-center">{doctorIntro?.name}</h1>
                             <p className="text-[15px] lg:mt-[-4px] mt-[-6px] text-center font-thin text-gray-200">{doctorIntro?.type}</p>
                             
