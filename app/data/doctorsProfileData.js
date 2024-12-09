@@ -3448,7 +3448,1622 @@ export default {
         ]
       }
     ],
-    a: [
+    lipygupta: [
+      {
+        subheading: "About Dr. Lipy Gupta",
+        description: "Dr. Lipy Gupta is an experienced dermatologist and cosmetologist working with Max Healthcare. With over 15 years of experience, Dr. Gupta has vast expertise in general dermatology, acne management, hair restoration, and aesthetic medicine. She gives gentle, personalized care to every patient's condition and brings out healthier-looking skin and boosted self-esteem for the patient. Dr. Gupta is consultable at Max Super Speciality Hospital, Saket, and Max Multi Speciality Centre, Panchsheel Park."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Consultant Dermatologist- Max Super Speciality Hospital, Saket, and Max Multi Speciality Centre, Panchsheel Park. (2015-Present)"
+          },
+          {
+            content: "Consultant Dermatologist- Max Smart Super Speciality Hospital, Saket (2013-2015)"
+          },
+          {
+            content: "Assistant Professor of Dermatology, Dr. Ram Manohar Lohia Hospital and PGIMER, New Delhi (2012 - 2013)"
+          },
+          {
+            content: "Senior Resident Dermatologist, Dr. Ram Manohar Lohia Hospital and PGIMER, New Delhi (2009 - 2012)"
+          },
+          {
+            content: "Postgraduate Resident, Dermatology, University College of Medical Sciences, Delhi (2005 - 2008)"
+          },
+          {
+            content: "Internship at Maulana Azad Medical College and Lok Nayak Hospital, Delhi (2004 - 2005)"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "MD in Dermatology, University College of Medical Sciences, Delhi"
+          },
+          {
+            content: "MBBS Maulana Azad Medical College and Lok Nayak Hospital, Delhi"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        miniheading: "Dr. Gupta's clinic deals with both medical as well as cosmetic dermatology. Special interests include:",
+        list: [
+          {
+            content: "General Dermatology: Treatment of various skin conditions such as eczema, psoriasis, and infections"
+          },
+          {
+            content: "Acne Management: Treatment for acne, acne scars, and pigmentation due to acne"
+          },
+          {
+            content: "Hair Disorders: Treatment of various hair-related conditions and hair restoration options"
+          },
+          {
+            content: "Aesthetic Medicine: Performs nonsurgical skin rejuvenation and anti-aging as well as facial enhancement treatments by Botox, dermal fillers, thread lifts, and specialized lasers for pigmentation. She also offers chemical peels to treat acne, ageing, pigmentation, and to get a youthful glow back."
+          },
+        ]
+      }
+    ],
+    deepalibhardwaj: [
+      {
+        subheading: "About Dr. Deepali Bhardwaj",
+        description: "Dr. Deepali Bhardwaj is a highly acknowledged dermatologist with immense exposure in the clinical and cosmetic fields. She has been performing exceptional contributions to skin care and aesthetics through novel interventions and patient care, considering compassion and personalization of approach. She has been honored with the position of Honorary Dermatologist at the President's Estate Clinic and is also an adjunct faculty member at AIIMS, Rishikesh. Dr. Bhardwaj brings to each consultation the best the skin needs for his every patient."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Honorary Visiting Adjunct Faculty, AIIMS, Rishikesh (May 2019 - July 2024)"
+          },
+          {
+            content: "Honorary Dermatologist, President's Estate Clinic, Rashtrapati Bhawan (2015 - 2018)"
+          },
+          {
+            content: "Senior Resident, Dermatology, Safdarjung Hospital, New Delhi (2017 - 2018)"
+          },
+          {
+            content: "Junior Residency in Emergency Medicine—AIIMS, New Delhi"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "MBBS, Bharti Vidyapeeth University, Pune (2006)"
+          },
+          {
+            content: "Postgraduate Certifications: DVDL, MD (IM), FEADV (Munich, Germany), FAAD (Tehran, Iran)"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        miniheading: "Dr. Bhardwaj is an active member of several national and international dermatology organizations:",
+        list: [
+          {
+            content: "European Society for Cosmetic and Aesthetic Dermatology (ESCAD)"
+          },
+          {
+            content: "International Society of Dermatology (ISD)"
+          },
+          {
+            content: "Indian Association of Dermatologists, Venereologists, and Leprologists (IADVL)"
+          },
+          {
+            content: "European Association of Dermatologists (EADV)"
+          },
+          {
+            content: "International League of Dermatologists Society (ILDS)"
+          },
+          {
+            content: "American Academy of Dermatology (AAD)"
+          },
+          {
+            content: "Indian Medical Association (IMA)"
+          },
+          {
+            content: "Delhi Medical Association (DMA)"
+          },
+        ]
+      },
+      {
+        subheading: "Awards",
+        list: [
+          {
+            content: "For the best of dermatology works, the doctor was honoured with a variety of rewards, like,"
+          },
+          {
+            content: "Best Dermatologist Award—Karamveer Award (2015; March)"
+          },
+          {
+            content: "Best Dermatologist Award, Federation of Indian Women Entrepreneurs. April (2015)"
+          },
+          {
+            content: "Outstanding Contribution American Association of Physicians from India, January-2017."
+          },
+          {
+            content: "Token of Excellence as the Best Dermatologist—Dr. B.R. Ambedkar Award, August 2018."
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        miniheading: "Dr. Bhardwaj Specializes in various dermatological and cosmetic services, focusing especially on the following:",
+        list: [
+          {
+            name: "Allergy Testing and Treatment",
+            content: "Cutting-edge techniques are used for identifying and treating the patient with skin allergies. Dermatology Skin Cancer diagnosis and treatment Diagnosis in time and treatment provided at initial stages"
+          },
+          {
+            name: "Scar Revisions and Skin Resurfacing",
+            content: "Includes scar treatment with acne scars, moles, skin tags and removal of warts"
+          },
+          {
+            name: "Anti-Ageing Solutions",
+            content: "Chemical peels, Botox, fillers, and threads for skin rejuvenation"
+          },
+          {
+            name: "Laser Resurfacing",
+            content: "Non-invasive treatments to give the skin a smooth, youthful appearance"
+          },
+          {
+            name: "Treatment of Vitiligo & Burns",
+            content: "Specialized techniques of skin grafting in vitiligo and post-burn scars"
+          },
+          {
+            name: "Hair Transplantation",
+            content: "FUE and strip methods for hair transplantation"
+          },
+        ]
+      },
+      {
+        subheading: "Research Papers & Publications",
+        miniheading: "Dr. Bhardwaj has been actively involved in various dermatology research and publications, such as:",
+        list: [
+          {
+            content: `"Treatment of Ice Pick Acne"Scars"-Chapter in Step-by-Step Treatment of Acne Scars (2012)`
+          },
+          {
+            content: `"Focus on Skin of Color on Retinoid"—Chapter  in The Textbook on Cosmeceuticals (2013)`
+          },
+          {
+            content: `"Efficacy of TCA Cross Role in Acne Scarring" - Published in Journal of Cutaneous and Aesthetic Surgery (2014)`
+          },
+          {
+            content: `She often writes for NDTV, The Print, Indian Express, Hindustan Times, and other regional newspapers with her knowledge on skin health.`
+          },
+        ]
+      }
+    ],
+    ambrishmithal: [
+      {
+        subheading: "About Dr. Ambrish Mithal",
+        description: "Dr. Ambrish Mithal is a leading expert in endocrinology, specializing in diabetes and bone health. Currently the Chairman and Head of Endocrinology and Diabetes at Max Healthcare in Saket, New Delhi, Dr. Mithal has dedicated over 37 years to the field, joining Max Healthcare in December 2019. Widely regarded as a thought leader in endocrinology, Dr. Mithal’s career has seen him advance diabetes care and treatment throughout India."
+      },
+      {
+        description: "Before his role at Max Healthcare, Dr. Mithal was Chairman of the Endocrinology and Diabetes Division at Medanta The Medicity from 2009 to 2019. His career also includes significant tenures as a senior consultant at Apollo Hospital, New Delhi, and as a faculty member at Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow. In 2019, Dr. Mithal was appointed to the Governing Council of the National Health Authority, responsible for overseeing national health initiatives, and he serves as the honorary president at AIIMS, Gorakhpur."
+      },
+      {
+        description: "Dr. Mithal’s expertise and dedication have earned him numerous accolades, including the prestigious Dr. B.C. Roy Award in 2017 and the International Osteoporosis Foundation President’s Award in 2016. His contributions are widely recognized in both the medical and social communities in India and internationally."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Chairman & Head, Endocrinology & Diabetes, Max Healthcare, New Delhi (2019 - Present)"
+          },
+          {
+            content: "Chairman, Division of Endocrinology & Diabetes, Medanta - The Medicity (2009 - 2019)"
+          },
+          {
+            content: "Senior Consultant, Indraprastha Apollo Hospital, New Delhi (1998 - 2009)"
+          },
+          {
+            content: "Faculty Member (Endocrinology), Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow (1988 - 1998)"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "M.B.B.S. Kanpur University, 1980"
+          },
+          {
+            content: "M.D. (Medicine) Kanpur University, 1984"
+          },
+          {
+            content: "D.M. (Endocrinology) AIIMS, New Delhi, 1987 (First DM in Endocrinology from AIIMS)"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Endocrine Society of India"
+          },
+          {
+            content: "American Society for Bone and Mineral Research"
+          },
+          {
+            content: "Founder-Secretary & President, Indian Society for Bone and Mineral Research"
+          },
+          {
+            content: "Member, Governing Council, Indian Menopause Society"
+          },
+          {
+            content: "Endocrine Society (US)"
+          },
+          {
+            content: "Editorial Board Member, Apollo Medical Journal"
+          },
+          {
+            content: "President, South Asian Society for Bone and Mineral Research (SASBMR)"
+          },
+          {
+            content: "Chairman, Bone and Joint Decade (India)"
+          },
+          {
+            content: "Member, American Society for Bone and Mineral Research, Task Force on Secondary Prevention of Fractures"
+          },
+        ]
+      },
+      {
+        subheading: "Awards",
+        list: [
+          {
+            content: "Padma Bhushan, President of India, 2015"
+          },
+          {
+            content: "Laureate Award for International Excellence in Endocrinology, 2021"
+          },
+          {
+            content: "Dr. B.C. Roy Award, Medical Council of India, 2015"
+          },
+          {
+            content: "Fogarty Fellowship—Harvard Medical School, 1993-94"
+          },
+          {
+            content: "JICA Fellowship, Japan, 1996-97"
+          },
+          {
+            content: "Boy Frame Award—American Society for Bone and Mineral Research, 2004"
+          },
+          {
+            content: "International Osteoporosis Foundation President’s Award (2016)"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        description: "Dr. Mithal’s expertise spans across endocrinology, with a particular focus on diabetes management, osteoporosis, and overall hormonal health. He is deeply committed to advancing patient care in these areas through both research and clinical practice."
+      }
+    ],
+    neerugera: [
+      {
+        subheading: "About Dr. Neeru Gera",
+        description: "Dr. Neeru Gera is a practicing endocrinologist and Director of Endocrinology at Max Hospital, Saket, New Delhi, with more than three decades of expertise in diagnosing and treating complex hormonal and metabolic disorders, including diabetes, thyroid diseases and many other endocrine conditions. Her approach will always be patient first, where every care is tailored towards her to combine medical management along with lifestyle advice that could maintain long-term well-being. She is widely appreciated for holistic treatments of both body and mind towards the upliftment of a patient's life. Dr. Gera has remained committed to research, presenting actively in various conferences regarding endocrinology. It was through this kind of hard work and research that various advancements could be made in the treatment field, resulting in better quality care for the patients."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Present Position: Director of Endocrinology at Max Healthcare, Saket, New Delhi"
+          },
+          {
+            content: "Extensive experience in endocrinology and some of the best hospitals in India, particularly in managing diabetes and hormonal conditions"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "M.B.B.S. Done from a recognized medical college in India"
+          },
+          {
+            content: "M.D. (Internal Medicine): Specialized in internal medicine with special interest in endocrinology"
+          },
+          {
+            content: "D.M. (Endocrinology): Super-specialization in endocrinology, with special interest in diabetes and hormone regulation"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Endocrine Society of India"
+          },
+          {
+            content: "American Association of Clinical Endocrinologists"
+          },
+          {
+            content: "Indian Society for Bone and Mineral Research"
+          },
+          {
+            content: "Member, South Asian Society for Bone and Mineral Research (SASBMR)"
+          },
+          {
+            content: "Awards & Recognitions"
+          },
+          {
+            content: "Honours received for outstanding contributions in the field of endocrinology by national and international medical bodies"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        list: [
+          {
+            content: "Advanced Management of Diabetes and Insulin Therapy"
+          },
+          {
+            content: "Thyroid Health and Hormonal disorders"
+          },
+          {
+            content: "Osteoporosis and Bone Health"
+          },
+        ]
+      }
+    ],
+    khalidjfarooqui: [
+      {
+        subheading: "About Dr. Khalid J Farooqui",
+        description: "Dr. Khalid J. Farooqui is a principal consultant and specializes in endocrinology & diabetes, managing various complicated metabolic & hormonal problems over two decades. Being one of the empathizing practitioners, he takes individualistic approaches with every patient for better health results and comes up with suitable, individually designed treatments."
+      },
+      {
+        subheading: "Experience",
+        miniheading: "Dr. Farooqui practices at leading institutions in Gurgaon and Delhi",
+        list: [
+          {
+            content: "Medanta The Medicity, Gurgaon, Sector 38"
+          },
+          {
+            content: "Max Hospital, Sushant Lok I, Gurgaon"
+          },
+          {
+            content: "Max Super Speciality Hospital, Saket East Wing, Delhi"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "MBBS: Aligarh Muslim University, 2004"
+          },
+          {
+            content: "MD (General Medicine): Aligarh Muslim University, 2008"
+          },
+          {
+            content: "DM (Endocrinology): Sher-I-Kashmir Institute of Medical Sciences, Srinagar, 2013"
+          }
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Endocrine Society of India"
+          },
+          {
+            content: "Research Society for the Study of Diabetes in India (RSSDI)"
+          },
+        ]
+      },
+      {
+        subheading: "Awards & Recognition",
+        list: [
+          {
+            content: "Received for outstanding work in the field of endocrinology and diabetes management"
+          },
+          {
+            content: "Patients give him good ratings and peer group recognition in the medical community"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        list: [
+          {
+            name: "Diabetes Management",
+            content: "Type 1 and Type 2 diabetes, gestational diabetes, and pediatric diabetes."
+          },
+          {
+            name: "Thyroid Disorders",
+            content: "hypothyroidism, hyperthyroidism, and thyroid nodules."
+          },
+          {
+            name: "Adrenal Disorders",
+            content: "Cushing's syndrome and adrenal insufficiency."
+          },
+          {
+            name: "Neuroendocrinology",
+            content: "The treatment of hormonal disorders that occur as a direct result of disorders in the brain and nervous system."
+          },
+          {
+            name: "Bioidentical Hormone Therapy",
+            content: "Custom hormone replacement for both males and females in terms of specific individualized needs."
+          },
+        ]
+      },
+      {
+        subheading: "Research Articles",
+        description: "Written multiple articles related to endocrine studies, which were published in several journals, wherein focus areas include new improvements in diabetes and hormone therapies."
+      }
+    ],
+    adityadutta: [
+      {
+        subheading: "About Dr. Aditya Dutta",
+        description: "Dr. Aditya Dutta is a hardworking consultant in endocrinology and diabetes who takes care of patients with hormonal and metabolic problems in a holistic manner. He is particularly famous for his empathetic attitude towards patients. The spectrum of endocrine disorders he deals with are diabetes, thyroid diseases, growth and bone disorders, PCOS, and menopause-related problems. He merges clinical excellence with education for the patient for long-term health changes."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Consultant at Max Healthcare"
+          },
+          {
+            content: "Endocrinology Experience: 5 years, including 3.5 years at PGIMER, Chandigarh, and 1.5 years at VMMC and Safdarjung Hospital, New Delhi"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "MBBS: Maulana Azad Medical College, New Delhi"
+          },
+          {
+            content: "MD (Medicine): Lady Hardinge Medical College, New Delhi"
+          },
+          {
+            content: "DM (Endocrinology): PGIMER, Chandigarh"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Endocrine Society of India"
+          },
+          {
+            content: "Awards & Recognitions"
+          },
+          {
+            content: "Ranked 1 at PGIMER, Chandigarh"
+          },
+          {
+            content: "Authored multiple research publications in national and international journals"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        list: [
+          {
+            content: "Diabetes Management"
+          },
+          {
+            content: "Thyroid Disorders"
+          },
+          {
+            content: "Growth Disorders"
+          },
+          {
+            content: "PCOS (Polycystic Ovary Syndrome)"
+          },
+          {
+            content: "Pituitary and Adrenal Disorders"
+          },
+          {
+            content: "Hyper/Hypoparathyroidism"
+          },
+          {
+            content: "Metabolic Bone Disorders and Osteoporosis"
+          },
+          {
+            content: "Hypogonadism and Menopause Care"
+          },
+        ]
+      }
+    ],
+    rutujasharma: [
+      {
+        subheading: "About Dr. Rutuja Sharma",
+        description: "Associated consultant working with the specialty of diabetes and endocrinology at Max Healthcare, over 32 years experience of management of diabetes and its complications, especially the diabetic foot care aspect, being an excellent educator both of the patients as well as of the healthcare team with experience of workshops conducted in raising awareness about diabetic foot disorders."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Associated Consultant at Max Healthcare"
+          },
+          {
+            content: "Diabetic Foot Education Program; conducting workshops for doctors along with SALSA & IWGDF (2015-Present)"
+          },
+          {
+            content: "Rotary Diabetes Centre, New Delhi"
+          },
+          {
+            content: "Podiatrist & Diabetologist (December 2015-October 2019)"
+          },
+          {
+            content: "Sugar Clinic, Indraprastha Apollo Hospital, New Delhi"
+          },
+          {
+            content: "Podiatrist (January 2014-October 2015)"
+          },
+          {
+            content: "Clinical Associate and Podiatrist at Apollo Centre of Obesity, Diabetes, and Endocrinology (ACODE, Apollo Hospital New Delhi) (August 2012-DDecember 2013)"
+          },
+          {
+            content: "Research fellow in the Diabetes Clinic & Research Centre, Nagpur, from 2004 to 2011."
+          },
+          {
+            content: "Fellowship in the Diabetes Foot Clinic of King's College Hospital, London, UK, in the year 2002"
+          },
+          {
+            content: "Fellow at the Institute for Studies on Diabetes Foundation Inc. (ISDFI), Philippines, in 1998"
+          },
+          {
+            content: "Research Fellow and Clinical Associate at the Diabetes Clinic & Research Centre, Nagpur, March 1997 to February 2011"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "Certificate Course in Management of Thyroid Disorders, Public Health Foundation of India, New Delhi (2017)"
+          },
+          {
+            content: "Train the Trainer in Diabetic Footcare, University of Rheine, Germany (2010)"
+          },
+          {
+            content: "Certificate Course in Diabetes, Public Health Foundation of India, New Delhi (2014)"
+          },
+          {
+            content: "IDF Fellowship at the Diabetes Foot Clinic of King's College Hospital, London, UK (2002)"
+          },
+          {
+            content: "Member, Organizing Committee for the National Workshop on Podiatry in Diabetic Foot (September 1999)"
+          },
+          {
+            content: "Podiatry & Footcare Training completed in the Philippines, 1999"
+          },
+          {
+            content: "Diploma in Obstetrics & Gynecology, Indian College of Maternal and Child Health, Calcutta, 1997"
+          },
+          {
+            content: "MBBS, BLDE Association's Shri BM Patil Medical College, Karnataka University, 1992"
+          },
+        ]
+      },
+      {
+        subheading: "Awards & Recognition",
+        list: [
+          {
+            content: "The Vuk Vrhovac Award (1999) as part of a team led by Dr. Sharad Pendsey"
+          },
+          {
+            content: "Eli Lilly, Boehringer Mannheim Amputation Prevention Award (1998)—also as part of Dr. Sharad Pendsey's team"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        list: [
+          {
+            content: "Endocrinology and Diabetes"
+          },
+          {
+            content: "Disease Management: Diabetic foot disease management"
+          },
+          {
+            content: "Over all, Diabetes Care"
+          },
+        ]
+      }
+    ],
+    sumitmrig: [
+      {
+        subheading: "About Dr. Sumit Mrig",
+        description: "Dr. Sumit Mrig is one of the most reputed and youngest cochlear implant surgeons in India and Asia. With more than 17 years of experience, he has performed more than 350 successful cochlear implants in pediatrics and adults. His patients come from 8 countries. Dr. Mrig is the first Indian surgeon to have an independent cochlear implant program in Africa. He has mentored more than 14 centers in India, initiating cochlear implant programs and providing hands-on training to make this life-changing procedure accessible to a larger population."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Dr. Sumit Mrig is an elite ENT surgeon at Max Healthcare, and he is one of the youngest cochlear implant specialists in India and Asia."
+          },
+          {
+            content: "He was a senior consultant and head of ENT and cochlear implant surgery from June 2010 through April 2016. He shaped the department."
+          },
+          {
+            content: "He has done more than 350 successful cochlear implant surgeries that have hugely impacted the lives of patients, both pediatric and adult."
+          },
+          {
+            content: "Has patients coming from 8 countries, where he has special care."
+          },
+          {
+            content: "He pioneered India's outreach in ENT by setting up the first independent cochlear implant program in Africa."
+          },
+          {
+            content: "Has been invited as a mentor surgeon and helped launch cochlear implant programs at more than 14 centers across India."
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "DNB (ENT) - 2008"
+          },
+          {
+            content: "MS (ENT) Maurana Azad Medical College and Lok Nayak Hospital, 2007"
+          },
+          {
+            content: "MBBS-UCMS and GTB Hospital, Delhi University, 2002"
+          },
+        ]
+      },
+      {
+        subheading: "Awards and Recognitions",
+        list: [
+          {
+            content: "Susruta Award for Excellence in ENT Max Healthcare Annual Awards, 2019"
+          },
+          {
+            content: "MAX CEO's Award Recognition of exemplary service, 2018"
+          },
+          {
+            content: "VALYOU Award at URJA-Max Healthcare Institute Limited, 2017"
+          },
+          {
+            content: "Bharat Excellence Award: Awarded for contributions towards the prevention of deafness in India"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        list: [
+          {
+            name: "Cochlear Implants and Deafness Treatment",
+            content: "Specialist in cochlear implants, BAHA implants, and bone bridge devices for children and adults."
+          },
+          {
+            name: "Sleep Apnea and Snoring",
+            content: "Experienced in surgical management of sleep apnea and associated snoring problems."
+          },
+          {
+            name: "Vertigo Disorders",
+            content: "Treatments for vertigo and balance disorders."
+          },
+          {
+            name: "Sialendoscopy",
+            content: "The extraction of salivary gland stones using less invasive approaches."
+          },
+          {
+            name: "Advanced Skull Base Surgery",
+            content: "Specialized in anterior and lateral skull base surgery."
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Life Member: CIGICON, AOICON, DELHI AOI, RHINOCON, and ISOCON"
+          },
+          {
+            content: "Executive Committee Member: CIGICON"
+          },
+        ]
+      }
+    ],
+    dariusjijina: [
+      {
+        subheading: "About Dr. Darius Jijina",
+        description: "Dr. Darius Jijina is an experienced ENT specialist with almost four decades of experience in the treatment of a wide variety of ear, nose, and throat conditions. Senior postings in the best of the hospitals and having experience from years in ENT care, where he has developed himself into a reliable name for service in rhinology and allergy management, including child-centric ENT care. Presently, he is working at Max Healthcare as a principal consultant. Previously, as director of ENT, in Fortis Memorial Research Institute, Gurgaon."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Present Position: Principal Consultant at Max Healthcare"
+          },
+          {
+            content: "Previous Experience: Director of ENT, at Fortis Memorial Research Institute, Gurgaon"
+          },
+          {
+            content: "Head of ENT Department, Max Hospitals (Saket, Panchsheel, Gurgaon)"
+          },
+          {
+            content: "Consultant at Holy Angels Hospital, Orthonova Hospital, G.M. Modi Hospital, and Batra Hospital, Delhi"
+          },
+          {
+            content: "Senior Residency in ENT at Dr. R.M.L. Hospital, New Delhi"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "1980: M.B.B.S. from Armed Forces Medical College, Pune"
+          },
+          {
+            content: "1984: M.S. in ENT from Armed Forces Medical College, Pune"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        miniheading: "Dr. Jijina is an active member of many renowned professional bodies, including:",
+        list: [
+          {
+            content: "Association of Otolaryngologists of India"
+          },
+          {
+            content: "Association of Pediatric Otolaryngologists of India"
+          },
+          {
+            content: "All India Rhinology Society"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interest",
+        miniheading: "Dr. Jijina's specialty areas are as follows:",
+        list: [
+          {
+            name: "Rhinology",
+            content: "Advanced management of disorders in the nose"
+          },
+          {
+            name: "Allergy and Immunology",
+            content: "Focus on nasal allergies, sinusitis, etc."
+          },
+          {
+            name: "Pediatric Otolaryngology",
+            content: "Complete treatment for ENT disorders in children"
+          }
+        ]
+      }
+    ],
+    ajitmansingh: [
+      {
+        subheading: "About Dr. Ajit Man Singh",
+        description: "Dr. Ajit Man Singh has vast experience in dealing with complex problems concerning the ears, nose, and throat as an ENT specialist. He has carried his career for more than three decades; he has earned tremendous skills in advanced ENT procedure experience, especially endoscopic sinus surgery. International exposure encompasses work with the Oxford Regional Health Authority and includes many years of experience carrying through prominent roles in a top healthcare institution across different strata in India. Work is currently being carried forward in the capacity of being the principal consultant with Max Healthcare, providing the highest-quality services to patients in understanding vast knowledge and specific skill competencies."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Present: Max Healthcare, Principal Consultant"
+          },
+          {
+            content: "Distinguished Previous Designations"
+          },
+          {
+            content: "Oxford Regional Health Authority"
+          },
+          {
+            content: "Senior Research Associate, AIIMS, New Delhi"
+          },
+          {
+            content: "Head of Department, ENT at Vimhans Hospital"
+          },
+          {
+            content: "Senior ENT Head and Neck Surgeon, Batra Hospital, Delhi"
+          },
+          {
+            content: "Senior Consultant in Otolaryngology (ENT) and Head & Neck Surgery"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "D.N.B.: National Board of Examinations"
+          },
+          {
+            content: "D.L.O.: Diploma in Laryngology and Otology, Royal College of Surgeons"
+          },
+          {
+            content: "F.R.C.S.: Fellow of the Royal College of Surgeons, Edinburgh, UK"
+          },
+          {
+            content: "M.S. in Otolaryngology: AIIMS, New Delhi"
+          },
+          {
+            content: "M.B.B.S.: AIIMS, New Delhi"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        miniheading: "Dr. Singh is an active member of several premier medical bodies:",
+        list: [
+          {
+            content: "Association of Otolaryngologists of India"
+          },
+          {
+            content: "Indian Medical Association"
+          },
+          {
+            content: "Delhi Medical Association"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interest",
+        miniheading: "Some areas where Dr. Singh specializes include:",
+        list: [
+          {
+            name: "Endoscopic Sinus Surgery",
+            content: "Interested in carrying out minimally invasive procedures to treat conditions affecting the sinuses"
+          },
+        ]
+      }
+    ],
+    malabhattacharya: [
+      {
+        subheading: "About Dr. Mala Bhattacharya",
+        description: "She has more than 23 years of experience in this field. She is the present employee of Max Healthcare and diagnosed and managed tough ENT and head & neck cases with utmost care. She believes in the scientific approach towards patients and hence ensures good quality of life for them through advanced and precise surgery. MBBS: Completed basic medical education and thus lays a strong foundation in the speciality of ENT.  MS (ENT): advanced postgraduate training in ENT with an emphasis on surgical intervention and specialist patient care."
+      },
+      {
+        subheading: "Work Experience",
+        description: "Dr. Bhattacharya has more than two decades of clinical experience in ENT and head & neck surgery; she has particular expertise managing difficult ENT cases. Since her association with Max Healthcare, she has used the most modern, advanced medical techniques and technology as part of the delivery of care for her patients."
+      },
+      {
+        subheading: "Membership",
+        list: [
+          {
+            content: "Member, Indian Medical Association—active member of the east Delhi branch. "
+          },
+          {
+            content: "Association of Otolaryngologists of India (AOI): Actively participating member of the national and Delhi chapters."
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        miniheading: "Dr. Mala Bhattacharya has vast experience in ENT and head & neck surgeries, such as:",
+        list: [
+          {
+            name: "Endoscopic Sinus Surgery",
+            content: "Highly experienced in minimally invasive sinus surgery "
+          },
+          {
+            name: "Skull Base Surgery",
+            content: "Highly experienced in complex surgeries of the skull base with very delicate structures."
+          },
+          {
+            name: "Cochlear Implants",
+            content: "Highly skilled in the surgical placement of cochlear implants for hearing improvement in patients with severe loss."
+          },
+          {
+            name: "Otological Surgeries",
+            content: "Highly experienced in various ear surgeries related to numerous disorders."
+          },
+          {
+            name: "Head & Neck Surgery",
+            content: "Highly skilled in dealing with conditions associated with head and neck regions."
+          },
+        ]
+      }
+    ],
+    bharatbhushankhatri: [
+      {
+        subheading: "About Dr. Bharat Bhushan Khatri",
+        description: "Dr. Bharat Bhushan Khatri has over 34 years of practice experience as an ENT specialist. Given his M.S. in ENT, he has built a well-established clinical practice of more than three decades, making him a seasoned and dependable ENT consultant. Dr. Khatri currently works as a senior consultant at Max Super Speciality Hospital, Saket, and has been a part of the Max group for seven years."
+      },
+      {
+        description: "He has performed more than 1,000 procedures of tympanoplasty in his practice; this is a testament to his passion and commitment to better hearing in patients and their lives in general. Some of the notable residencies that he has finished on his journey include service in some of the main hospitals in Mumbai and Delhi. He was an honorary consultant at Max Hospital, Patparganj; Moolchand Medicity; and Kailash Super Speciality Hospital in Noida. Earlier in his practice, he has had major exposure to experience as registrar and senior resident in Hindu Ch. Hospital at Sonipat and Moolchand Hospital."
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "MBBS: University of Rajasthan, S.P. Medical College, Bikaner"
+          },
+          {
+            content: "MS (ENT) University of Rajasthan, S.P. Medical College, Bikaner"
+          },
+        ]
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Over 34 years of ENT practice with 32 years of clinical experience post-MS"
+          },
+          {
+            content: "Senior Consultant, ENT-Max Super Speciality Hospital, Saket, Delhi 7 years"
+          },
+          {
+            content: "Hon. Consultant, Max Hospital Patparganj, Moolchand Medicity, Kailash Super Speciality Hospital Noida"
+          },
+          {
+            content: "Former Registrar & Sr. Resident Hindu Ch. Hospital, Sonipat, and Moolchand Hospital"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Life Member, Association of Otolaryngologists of India (AOI)"
+          },
+          {
+            content: "Life Member, All India Rhinology Society"
+          },
+          {
+            content: "Life Member, Delhi Branch of the Association of Otolaryngologists of India"
+          },
+          {
+            content: "Life Member, Indian Society of Otology"
+          },
+          {
+            content: "Governing Body Member, Association of Otolaryngologists of India (2005-2006)"
+          },
+          {
+            content: "Governing Body Member, All India Rhinology Society (2003-2004)"
+          },
+          {
+            content: "Honorary Treasurer, All India Rhinology Society (2005-2008)"
+          },
+        ]
+      },
+      {
+        subheading: "Awards & Recognitions",
+        list: [
+          {
+            content: "Dr. C. A. Amesur Alias H. H. Vasudevanand Travel Fellowship Award - 1992 (awarded by the Association of Otolaryngologists of India)"
+          }
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        miniheading: "Dr. Khatri has keen interests and special expertise in various specialized ENT surgeries, such as:",
+        list: [
+          {
+            content: "Microlaryngeal Surgery"
+          },
+          {
+            content: "Cosmetic Nose Surgery"
+          },
+          {
+            content: "Endoscopic Sinus Surgery"
+          },
+          {
+            content: "Surgery for Obstructive Sleep Apnea"
+          },
+        ]
+      }
+    ],
+    anujsinghal: [
+      {
+        subheading: "About Dr. Anuj Singhal",
+        description: "Dr. Anuj Singhal has specialization in the management of conditions related to ears, nose, and throat with more than three decades of experience in the field of ENT. His focus is on utilizing sophisticated ENT techniques mainly for the treatment of challenging conditions with the goal of bettering patient outcomes. He currently operates from two of the most renowned premises in New Delhi, the Max Super Speciality Hospital, Saket, and the South Delhi ENT Clinic, Lajpat Nagar. He is a reliable ENT care specialist because he practices with an empathetic and patient-centered attitude. His practice domain comprises general as well as specialized treatments like surgeries that enhance hearing and nasal functionality."
+      },
+      {
+        subheading: "Work Experience",
+        miniheading: "Dr. Singhal has 32+ years of experience in ENT. His professional practice includes key roles at the following places:",
+        list: [
+          {
+            content: "Max Super Speciality Hospital, Saket, Senior Consultant in ENT"
+          },
+          {
+            content: "Max Multi Speciality Centre, Panchsheel Park"
+          },
+          {
+            content: "South Delhi ENT Clinic, Lajpat Nagar"
+          },
+          {
+            content: "During his practice, he has honed his practice in many ENT operations; he specializes more in ear microsurgery and more advanced sinus surgery."
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "MBBS done from one of the well-established medical colleges in India"
+          },
+          {
+            content: "MS (ENT) - Maulana Azad Medical College, New Delhi 1992"
+          },
+          {
+            content: "Fellowship Royal College of Surgeons UK, which gave him a global view of the ENT practice as well as surgical technique."
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        miniheading: "Dr. Singhal's areas of interest include a wide range of ENT surgeries, especially in advanced techniques in the following areas:",
+        list: [
+          {
+            content: "Endoscopic Sinus Surgery"
+          },
+          {
+            content: "Micro Ear Surgery"
+          },
+          {
+            content: "Hearing Implant Surgery"
+          },
+          {
+            content: "Pediatric ENT Services"
+          },
+          {
+            content: "Cosmetic Nasal Surgery"
+          },
+          {
+            content: "Surgery for Obstructive Sleep Apnea"
+          },
+        ]
+      },
+      {
+        description: "These are the areas where Dr. Singhal is focused on providing comprehensive ENT solutions for adults and children."
+      },
+      {
+        subheading: "Memberships",
+        miniheading: "Dr. Singhal is an active member of all the professional ENT organizations and has done much for the cause of advancement of otolaryngology in India. He is a member of:",
+        list: [
+          {
+            content: "Association of Otolaryngologists of India"
+          },
+          {
+            content: "All India Rhinology Society"
+          },
+        ]
+      },
+      {
+        description: "He keeps himself updated with the current ENT research through these memberships and, thus, subjects his patients to the present practices and innovation."
+      },
+      {
+        subheading: "Awards & Recognitions",
+        list: [
+          {
+            content: "He has garnered a plethora of accolades through his professional life that denote his hard work and commitment to the ENT specialty."
+          }
+        ]
+      }
+    ],
+    shakuntalanaglot: [
+      {
+        subheading: "About Dr. Shakuntala Naglot",
+        description: "Dr. Shakuntala Naglot is an experienced ENT specialist with over 15 years of experience in the management of diseases related to the ear, nose, and throat. She is presently working with Max Healthcare. She has acquired vast knowledge in managing ENT disorders in children and adults. Known for her compassionate approach, she provides effective treatment to her patients along with personalized care."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Dr. Naglot has worked for a year at Max Healthcare. She has been an important part of delivering quality ENT services. Before joining Max, she completed her three-year senior residency at Lady Hardinge Medical College, Delhi, which helped her hone her clinical skills and knowledge in ENT care."
+          }
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "MS in ENT, Lady Hardinge Medical College, Delhi"
+          },
+          {
+            content: "MBBS, Lady Hardinge Medical College, Delhi"
+          },
+        ]
+      },
+      {
+        description: "Well-prepared with a strong educational background and advanced trainings, Dr. Naglot has the whole approach to ENT medicine, for which she is confident with complex cases."
+      },
+      {
+        subheading: "Membership",
+        list: [
+          {
+            content: "Delhi Medical Council"
+          },
+          {
+            content: "In being a member of the Delhi Medical Council, Dr. Naglot strictly adheres to maintaining high medical practice and keeping updated on changes in the care of the ears, nose, and throat."
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interest",
+        list: [
+          {
+            content: "Ear Surgeries"
+          },
+          {
+            content: "Pediatric ENT"
+          },
+        ]
+      },
+      {
+        description: "She has an avid interest in ear surgeries and pediatric ENT, focusing more on the safe and effective treatment for ear-related disorders, particularly in younger patients."
+      }
+    ],
+    vivekraj: [
+      {
+        subheading: "About Dr. Vivek Raj",
+        description: "He has more than 34 years of experience in the general practice of medicine, with more than 20 years of experience in the clinical practice of gastroenterology. Based on his wealth of experience, Dr. Raj is the Principal Director & Head of Gastroenterology & Hepatology with Max Healthcare, with a practice in innovative and high-value care for patients."
+      },
+      {
+        subheading: "Work Experience",
+        description: "Dr. Vivek Raj has 20 years of focused clinical practice in gastroenterology and has extensive experience in conducting advanced endoscopic and interventional procedures. He has been working at Max Healthcare since then and has served through various positions in his extensive career to contribute to the care of patients and advance medical research in his specialty."
+      },
+      {
+        subheading: "Educational Background",
+        list: [
+          {
+            content: "M.B.B.S., Maulana Azad Medical College, Delhi"
+          },
+          {
+            content: "EUS Training from the University of Montreal, Canada"
+          },
+          {
+            content: "Fellowship in ERCP and Advanced Interventional Endoscopy from Boston, USA"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interest",
+        miniheading: "Dr. Vivek Raj's interests lie within gastroenterology and some core areas, as enumerated below:",
+        list: [
+          {
+            content: "Therapeutic ERCP"
+          },
+          {
+            content: "EUS"
+          },
+          {
+            content: "Hepatology: Hepatitis B & C"
+          },
+          {
+            content: "Motility Disorders Gastrointestinal"
+          },
+          {
+            content: "Capsule Endoscopy"
+          },
+          {
+            content: "Endoscopic Surgery"
+          },
+          {
+            content: "Inflammatory Bowel Disease-IBD"
+          },
+        ]
+      },
+      {
+        subheading: "Membership",
+        miniheading: "Dr. Raj engages himself in various professional bodies to be updated on the issues pertaining to the practice and advancement of the discipline.",
+        list: [
+          {
+            content: "Royal College of Physicians, London"
+          },
+          {
+            content: "American College of Gastroenterology"
+          },
+          {
+            content: "Indian Society of Gastroenterology"
+          },
+          {
+            content: "American Gastroenterological Association"
+          },
+          {
+            content: "American Society of Gastrointestinal Endoscopy"
+          },
+        ]
+      }
+    ],
+    kaushalmadan: [
+      {
+        subheading: "About Dr. Kaushal Madan",
+        description: "Dr. Kaushal Madan is the best hepatologist with excellent leadership in liver and digestive well-being. As this doctor has more than two decades of experience under his belt, he has healed numerous patients suffering from various diseases related to liver disease and diseases of the digestive system. Currently, he is leading the clinical hepatology department at Max Healthcare with advanced care and guidance for liver health. His wide working experience and continuous contribution in India and globally to the treatment of liver diseases clearly portray his knowledge and dedication in the field of hepatology."
+      },
+      {
+        subheading: "Work Experience",
+        miniheading: "Some of the important positions in his career are held at renowned institutions:",
+        list: [
+          {
+            content: "Principal Director & Head, Clinical Hepatology, Max Healthcare"
+          },
+          {
+            content: "Artmares Centre of Excellence Digestive and Liver Diseases"
+          },
+          {
+            content: "Associate Director, Medanta, The Medicine"
+          },
+          {
+            content: "Assistant Professor-Hepatology, Institute of Liver & Biliary Sciences"
+          },
+          {
+            content: "Senior Research Officer, AIIMS"
+          },
+          {
+            content: "Senior Research Associate, AIIMS"
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        miniheading: "Solid academic background with specialized liver health and gastroenterology skills in liver health and gastroenterology:",
+        list: [
+          {
+            content: "Research Fellowship from the Japanese Society of Gastroenterology at Kinki University School of Medicine, Osaka, Japan (2005)"
+          },
+          {
+            content: "DM in Gastroenterology from All India Institute of Medical Sciences (AIIMS)"
+          },
+          {
+            content: "DNB in Internal Medicine from the National Board of Examinations"
+          },
+          {
+            content: "MD in Internal Medicine from Maulana Azad Medical College (MAMC), University of Delhi"
+          },
+          {
+            content: "MBBS from Maulana Azad Medical College (MAMC), University of Delhi"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        miniheading: "The other renowned organizations in which he is an active member and that have reflected his commitment toward continued learning and sharing of knowledge are:",
+        list: [
+          {
+            content: "Member, American Association for the Study of Liver Disease (AASLD)"
+          },
+          {
+            content: "Member, Indian Society of Gastroenterology (ISG)"
+          },
+          {
+            content: "Member, Liver Transplant Society of India (LTSI)"
+          },
+          {
+            content: "Member, Indian Society of Organ Transplantation (ISOT)"
+          },
+          {
+            content: "Secretary General of the Indian National Association for the Study of the Liver from 2018-2021"
+          },
+        ]
+      },
+      {
+        subheading: "Awards",
+        miniheading: "Some of the many accolades he has achieved in his life include these, which tell a great deal about him and the work he did in these years:",
+        list: [
+          {
+            content: "Sudhir Rehan Gold Medal in Medicine (1997)"
+          },
+          {
+            content: "Rakesh Tandon Book Prize for Best Outgoing DM Gastroenterology Student in 2003"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Areas",
+        miniheading: "He specializes in some of the areas where his expertise is most deep.",
+        list: [
+          {
+            content: "Hepatitis B & C"
+          },
+          {
+            content: "Non-alcoholic Fatty Liver Disease (NAFLD)"
+          },
+          {
+            content: "Cirrhosis"
+          },
+          {
+            content: "Liver Cancer"
+          },
+        ]
+      },
+      {
+        subheading: "Research Articles and Publications",
+        list: [
+          {
+            content: "More than 50 research articles published in peer-reviewed journals are authored by Dr. Madan."
+          }
+        ]
+      },
+    ],
+    suneelchakravarty: [
+      {
+        subheading: "About Dr. Suneel Chakravarty",
+        description: "Dr. Suneel Chakravarty is a gastroenterologist and hepatologist with over 17 years of experience in the treatment of different diseases of the digestive and liver systems. He is associated with Max Healthcare and, through his knowledge and skills, adds value to his patients. Years of dedicated work and research have enhanced his expertise, and thus, he is one of the most trusted figures in his field."
+      },
+      {
+        subheading: "Work Experience",
+        miniheading: "He has worked at various leading positions, and some of the important positions he had in his life are listed below:",
+        list: [
+          {
+            content: "Principal Consultant, Gastroenterology, Hepatology & Endoscopy at Max Healthcare"
+          },
+          {
+            content: "He has been serving as a senior consultant at Max Healthcare since November 2007."
+          },
+          {
+            content: "He served as a senior research associate at All India Institute of Medical Sciences, New Delhi."
+          },
+          {
+            content: "He had worked as a clinical registerer at Nizam's Institute of Medical Sciences, Hyderabad."
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        miniheading: "He was trained comprehensively in the fields of medicine and gastroenterology:",
+        list: [
+          {
+            content: "MBBS from Andhra Medical College, Visakhapatnam, Andhra Pradesh"
+          },
+          {
+            content: "MD in Medicine from Nizam's Institute of Medical Sciences, Hyderabad"
+          },
+          {
+            content: "DM in Gastroenterology from All India Institute of Medical Sciences (AIIMS), New Delhi"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        miniheading: "Dr. Chakravarty is an active member of many leading medical societies that keep him updated and connected in his specialty:",
+        list: [
+          {
+            content: "Indian Society of Gastroenterology (ISG)"
+          },
+          {
+            content: "Indian Association for Study of Liver (INASL)"
+          },
+          {
+            content: "Society of Gastrointestinal Endoscopy India (SGEI)"
+          },
+          {
+            content: "Society of Interventional GI Endoscopy of India (SIGE)"
+          },
+        ]
+      },
+      {
+        subheading: "Awards",
+        miniheading: "Dr. Chakravarty has won awards and accolades for academic achievement and excellence in the field in the following areas:",
+        list: [
+          {
+            content: "7 Gold Medals in MBBS, Best Outgoing Student, among others"
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        miniheading: "The areas of interest in gastroenterology by Dr. Chakravarty are as follows:",
+        list: [
+          {
+            content: "Therapeutic Endoscopy"
+          },
+          {
+            content: "Endoscopic Ultrasound (EUS)"
+          },
+          {
+            content: "Viral Hepatitis"
+          },
+          {
+            content: "Inflammatory Bowel Diseases (IBD)"
+          },
+        ]
+      },
+      {
+        subheading: "Research Papers & Publications",
+        miniheading: "The important research contributions by the doctor are as follows:",
+        list: [
+          {
+            content: "Publication of research papers and orations at various conferences."
+          },
+          {
+            content: "Best Paper Award in Plenary Session at INASL 2006 for his study on hepatic vein outflow tract obstruction in the North Indian population."
+          },
+          {
+            content: "Publications on topics like hepatitis A and pancreatitis, eradication of Helicobacter pylori and its association with CYP polymorphisms, and methotrexate-induced pancytopenia"
+          },
+        ]
+      },
+    ],
+    abhishekdeo: [
+      {
+        subheading: "About Dr. Abhishek Deo",
+        description: "Dr. Abhishek Deo is a specialist gastroenterology consultant with an interest in liver and digestive health. For more than 15 years now, he has been recognized as the best for handling complicated gastrointestinal and liver disease. Dr. Deo practices at Max Super Specialty Hospital in Saket, New Delhi, and has garnered a patient-friendly approach with innovative solutions to medicine practice."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Associate Director in Gastroenterology, Max Healthcare, Saket, New Delhi."
+          },
+          {
+            content: "He has worked in some of the most renowned hospitals in the UK, where he gained experience in therapeutic and diagnostic endoscopy, management of liver disease, and hepatology."
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "MBBS from one of the top medical schools in India"
+          },
+          {
+            content: "MRCP and CCT (UK): Completed advanced certification and training in the UK and thus has an internationally accepted qualification in gastroenterology."
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Indian Society of Gastroenterology (ISG)"
+          },
+          {
+            content: "Indian Association for Study of Liver (INASL)"
+          },
+          {
+            content: "Society of Gastrointestinal Endoscopy India (SGEI)"
+          },
+        ]
+      },
+      {
+        subheading: "Awards",
+        list: [
+          {
+            content: "Dr. Deo received several awards and further achieved the highest award for his work in research over liver disease and therapeutic endoscopy."
+          }
+        ]
+      },
+      {
+        subheading: "Specialty Interest",
+        miniheading: "Some of Dr. Deo's most keen interests are:",
+        list: [
+          {
+            content: "Therapeutic and Diagnostic Endoscopy"
+          },
+          {
+            content: "Liver Diseases Treatment"
+          },
+          {
+            content: "Advanced endoscopic procedures"
+          },
+          {
+            content: "Management of Viral Hepatitis and Digestive Diseases"
+          },
+        ]
+      },
+      {
+        subheading: "Research Papers and Publication",
+        description: "Dr. Deo published many articles in peer review journals with research on issues related to liver disease and advancements in endoscopy and gastrointestinal health. This research has helped in a more comprehensive understanding of complicated disorders of the GI tract and liver and has provided added worth to the field."
+      }
+    ],
+    vikassingla: [
+      {
+        subheading: "About Dr. Vikas Singla",
+        description: "Highly Experienced Dr. Vikas Singla is an advanced endoscopist, not only because of his skill in procedures but also the fact that he deals extensively with patients suffering from issues related to the pancreas, the bile duct, and diseases of the alimentary system. With over 15 years of medical experience behind him, Max Healthcare has him currently as the Senior Director and Head, Gastroenterology. He has pioneered many treatments, particularly innovative work, especially in terms of the advanced endoscopic techniques as well as treatments for cancer at the onset."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Senior Director & Head at Max Healthcare, leading the gastroenterology division."
+          },
+          {
+            content: "Consultant at the Institute of Liver, Gastroenterology, and Pancreatico-biliary Sciences, Sir Ganga Ram Hospital (2011-22021)."
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            content: "DM in Gastroenterology and Hepatology from All India Institute of Medical Sciences (AIIMS), 2009"
+          },
+          {
+            content: "MD in Medicine from AIIMS, 2005"
+          },
+          {
+            content: "MBBS from SPMC, Bikaner, 2002"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        list: [
+          {
+            content: "Member of the Indian Society of Gastroenterology"
+          },
+          {
+            content: "Society of Gastrointestinal Endoscopy of India"
+          },
+          {
+            content: "Indian Association for Study of Liver Diseases"
+          },
+        ]
+      },
+      {
+        subheading: "Awards",
+        list: [
+          {
+            content: "Over 100 research articles have been published in top journals across the globe."
+          },
+          {
+            content: "An excellent endoscopist and accomplished advanced procedure performer. First to introduce third-space endoscopy in North India, used to treat complex gastrointestinal conditions."
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        miniheading: "Dr. Singla operates in:",
+        list: [
+          {
+            name: "Pancreatic and Biliary Disorders",
+            content: "Treats ailments related to the pancreas as well as the bile ducts."
+          },
+          {
+            name: "Inflammatory Bowel Disease (IBD)",
+            content: "The treatment of chronic digestive diseases, such as Crohn's disease and ulcerative colitis."
+          },
+          {
+            name: "Early Gastrointestinal (GI) Cancers",
+            content: "Detection and minimal invasive treatment of early digestive system cancers."
+          },
+          {
+            name: "Functional GI Disorders",
+            content: "Management of disorders such as irritable bowel syndrome (IBS)."
+          },
+          {
+            name: ".....",
+            content: ""
+          },
+          {
+            name: "",
+            content: ""
+          },
+          {
+            name: "",
+            content: ""
+          },
+          {
+            name: "",
+            content: " confusion till here"
+          },
+        ]
+      },
+      {
+        subheading: "Research Papers & Publications",
+        miniheading: "Dr. Singla is a prolific medical researcher. He has published widely in research papers and publications:",
+        list: [
+          {
+            content: "Published more than 100 articles in high-impact peer-reviewed medical journals, contributing valuable insights in gastroenterology and hepatology."
+          },
+          {
+            content: "Focused on pancreatic and biliary disorders extensively. His research includes advanced diagnostics and treatment methods."
+          },
+          {
+            content: "Authored work on IBD for improving therapeutic and management strategies for patients suffering from conditions like Crohn's disease and ulcerative colitis."
+          },
+          {
+            content: "Early gastric cancer and early pancreatic carcinoma pioneer, promoting early diagnosis through minimally invasive means of treatment."
+          },
+          {
+            content: "Received considerable work on functional disorders in the GI tract and imparted new understanding with proper therapeutic approaches to complex GI conditions such as irritable bowel syndrome."
+          },
+          {
+            content: "Therapeutic endoscopic techniques by improving EUS and ERCP techniques for handling severe and complex gastrointestinal disease disorders."
+          },
+        ]
+      }
+    ],
+    dddd: [
       {
         subheading: "",
         description: ""
@@ -3460,9 +5075,33 @@ export default {
             content: ""
           }
         ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
       }
     ],
-    a: [
+    dddd: [
       {
         subheading: "",
         description: ""
@@ -3474,9 +5113,33 @@ export default {
             content: ""
           }
         ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
       }
     ],
-    a: [
+    dddd: [
       {
         subheading: "",
         description: ""
@@ -3488,9 +5151,33 @@ export default {
             content: ""
           }
         ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
       }
     ],
-    a: [
+    dddd: [
       {
         subheading: "",
         description: ""
@@ -3502,9 +5189,33 @@ export default {
             content: ""
           }
         ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
       }
     ],
-    a: [
+    dddd: [
       {
         subheading: "",
         description: ""
@@ -3516,12 +5227,554 @@ export default {
             content: ""
           }
         ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
       }
     ],
-    a: [
+    dddd: [
       {
         subheading: "",
         description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    dddd: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    dddd: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    dddd: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    dddd: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    dddd: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    dddd: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    dddd: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    dddd: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    dddd: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    dddd: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    dddd: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    dddd: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      }
+    ],
+    dddd: [
+      {
+        subheading: "",
+        description: ""
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
+      },
+      {
+        subheading: "",
+        list: [
+          {
+            content: ""
+          }
+        ]
       },
       {
         subheading: "",

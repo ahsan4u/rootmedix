@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import doctorsProfileData from "../data/doctorsProfileData";
 import cardData from "../data/cards"
 import ServiceCard from "../components/ServiceCard";
+import TreatmentCard from "../components/TreatmentCard"
 import ScrollDiv from "../components/ScrollDiv";
 import UserInfo from "../components/UserInfo";
 import { useParams } from "@remix-run/react";
@@ -20,7 +21,8 @@ export default  function DoctorsProfile() {
     const {hospital, doctor} = useParams();
     const doctorProfile = doctorsProfileData[hospital][doctor];
     const doctorIntro = cardData["doctors"][doctor];
-    const services = cardData["services"];
+    const servicesData = cardData["services"];
+    const treatmentsData = cardData["treatments"];
 
     function popupWindow() {
         if(!popupForm.current.style.opacity) {
@@ -123,7 +125,8 @@ export default  function DoctorsProfile() {
                 <UserInfo/>
             </div>)}
 
-            <ScrollDiv heading={'Our Services'} cardsData = {services} Card={ServiceCard} count={4}/>
+            <div className="mb-10"><ScrollDiv heading={'Treatments'} cardsData = {treatmentsData} Card={TreatmentCard} count={6} scroll={true}/></div>
+            <ScrollDiv heading={'Our Services'} cardsData = {servicesData} Card={ServiceCard} count={4}/>
         </>
     )
 }

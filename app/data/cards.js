@@ -413,22 +413,184 @@ export default {
     },
     ranjanupadhaya: {
       img: "/img/doctors/ranjanupadhaya.png",
-      name: "Dr. Ajita Bagai Kakkar",
+      name: "Dr. Ranjan Upadhaya",
       type: "Senior Consultant",
       speciality: "Dermatology",
       experiance: "Experience: 17+ Years",
       hospital: "Max Hospital Saket, Delhi",
       link: "/maxsaket/doctors/ranjanupadhaya"
     },
-    ranjanupadhaya: {
-      img: "/img/doctors/ranjanupadhaya.png",
-      name: "Dr. Ajita Bagai Kakkar",
+    lipygupta: {
+      img: "/img/doctors/lipygupta.png",
+      name: "Dr. Lipy Gupta",
+      type: "Consultant",
+      speciality: "Dermatology",
+      experiance: "Experience: 15+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/lipygupta"
+    },
+    deepalibhardwaj: {
+      img: "/img/doctors/deepalibhardwaj.png",
+      name: "Dr. Deepali Bhardwaj",
       type: "Senior Consultant",
       speciality: "Dermatology",
+      experiance: "Experience: 24+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/deepalibhardwaj"
+    },
+    ambrishmithal: {
+      img: "/img/doctors/ambrishmithal.png",
+      name: "Dr. Ambrish Mithal",
+      type: "Chairman & Head",
+      speciality: "Endocrinology",
+      experiance: "Experience: 37+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/ambrishmithal"
+    },
+    neerugera: {
+      img: "/img/doctors/neerugera.png",
+      name: "Dr. Neeru Gera",
+      type: "Director",
+      speciality: "Endocrinology",
+      experiance: "Experience: 33+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/neerugera  "
+    },
+    khalidjfarooqui: {
+      img: "/img/doctors/khalidjfarooqui.png",
+      name: "Dr. Khalid J Farooqui",
+      type: "Principal Consultant",
+      speciality: "Endocrinology & Diabetes",
+      experiance: "Experience: 11+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/khalidjfarooqui  "
+    },
+    adityadutta: {
+      img: "/img/doctors/adityadutta.png",
+      name: "Dr. Aditya Dutta",
+      type: "Consultant",
+      speciality: "Endocrinology & Diabetes",
+      experiance: "Experience: 4+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/adityadutta  "
+    },
+    rutujasharma: {
+      img: "/img/doctors/rutujasharma.png",
+      name: "Dr. Rutuja Sharma",
+      type: "Associate Consultant",
+      speciality: "Endocrinology",
+      experiance: "Experience: 32+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/rutujasharma  "
+    },
+    sumitmrig: {
+      img: "/img/doctors/sumitmrig.png",
+      name: "Dr. Sumit Mrig",
+      type: "Associate Director",
+      speciality: "ENT (Ear, Nose, and Thorat)",
       experiance: "Experience: 17+ Years",
       hospital: "Max Hospital Saket, Delhi",
-      link: "/maxsaket/doctors/ranjanupadhaya"
-    },  
+      link: "/maxsaket/doctors/sumitmrig  "
+    },
+    dariusjijina: {
+      img: "/img/doctors/dariusjijina.png",
+      name: "Dr. Darius Jijina",
+      type: "Principal Consultant",
+      speciality: "ENT (Ear, Nose, and Thorat)",
+      experiance: "Experience: 39+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/dariusjijina  "
+    },
+    ajitmansingh: {
+      img: "/img/doctors/ajitmansingh.png",
+      name: "Dr. Ajit Man Singh",
+      type: "Principal Consultant",
+      speciality: "ENT (Ear, Nose, and Thorat)",
+      experiance: "Experience: 34+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/ajitmansingh"
+    },
+    malabhattacharya: {
+      img: "/img/doctors/malabhattacharya.png",
+      name: "Dr. Mala Bhattacharya",
+      type: "Senior Consultant",
+      speciality: "ENT (Ear, Nose, and Thorat)",
+      experiance: "Experience: 23+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/malabhattacharya"
+    },
+    bharatbhushankhatri: {
+      img: "/img/doctors/bharatbhushankhatri.png",
+      name: "Dr. Bharat Bhushan Khatri",
+      type: "Sr Consultant",
+      speciality: "ENT (Ear, Nose, and Thorat)",
+      experiance: "Experience: 34+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/bharatbhushankhatri"
+    },
+    anujsinghal: {
+      img: "/img/doctors/anujsinghal.png",
+      name: "Dr. Anuj Singhal",
+      type: "Sr Consultant",
+      speciality: "ENT (Ear, Nose, and Thorat)",
+      experiance: "Experience: 32+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/anujsinghal"
+    },
+    shakuntalanaglot: {
+      img: "/img/doctors/shakuntalanaglot.png",
+      name: "Dr. Shakuntala Naglot",
+      type: "Consultant",
+      speciality: "ENT (Ear, Nose, and Thorat)",
+      experiance: "Experience: 15+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/shakuntalanaglot"
+    },
+    vivekraj: {
+      img: "/img/doctors/vivekraj.png",
+      name: "Dr. Vivek Raj",
+      type: "Principal Director",
+      speciality: "Gastroenterology",
+      experiance: "Experience: 34+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/vivekraj"
+    },
+    kaushalmadan: {
+      img: "/img/doctors/kaushalmadan.png",
+      name: "Dr. Kaushal Madan",
+      type: "Principal Director",
+      speciality: "Gastroenterology",
+      experiance: "Experience: 22+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/kaushalmadan"
+    },
+    suneelchakravarty: {
+      img: "/img/doctors/suneelchakravarty.png",
+      name: "Dr. Suneel Chakravarty",
+      type: "Principal Consultant",
+      speciality: "Gastroenterology",
+      experiance: "Experience: 17+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/suneelchakravarty"
+    },
+    abhishekdeo: {
+      img: "/img/doctors/abhishekdeo.png",
+      name: "Dr. Abhishek Deo",
+      type: "Associate Director",
+      speciality: "Gastroenterology",
+      experiance: "Experience: 15+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/abhishekdeo"
+    },
+    vikassingla: {
+      img: "/img/doctors/vikassingla.png",
+      name: "Dr Vikas Singla",
+      type: "Sr. Director & HOD",
+      speciality: "Gastroenterology",
+      experiance: "Experience: 15+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/vikassingla"
+    },
   },
 
   hospitals: [
