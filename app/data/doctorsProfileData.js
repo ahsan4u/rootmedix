@@ -5063,193 +5063,502 @@ export default {
         ]
       }
     ],
-    dddd: [
+    vipulgautam: [
       {
-        subheading: "",
-        description: ""
+        subheading: "About Dr. Vipul Gautam",
+        description: "Dr. Vipul Gautam is an outstanding consultant in pediatric liver and biliary sciences practicing at Max Healthcare. His years of experience in the fields of pediatric hepatology, gastroenterology, and liver transplant procedures are an asset to him for giving the best quality of care to children suffering from serious conditions of the liver and the gastrointestinal tract. Dr. Gautam has been working in various prestigious institutions with a motive to improve the pediatric care in the country."
       },
       {
-        subheading: "",
+        subheading: "Work Experience",
         list: [
           {
-            content: ""
+            content: "Max Healthcare: He is now working as a consultant who specializes in liver and biliary sciences."
+          },
+          {
+            content: "Institute of Liver and Biliary Sciences, New Delhi: Formerly, he was the senior resident in pediatric hepatology, endoscopy, and liver transplant."
+          },
+          {
+            content: "Geetanjali Medical College, Udaipur: Formerly, he used to work as an assistant professor in the Department of Pediatrics."
+          },
+          {
+            content: "VMMC and Safdarjung Hospital, New Delhi: Formerly, he used to work as a senior resident in pediatrics."
+          },
+        ]
+      },
+      {
+        subheading: "Education & Training",
+        miniheading: "Dr. Gautam is very academically qualified. The qualifications include pediatrics, a super-specialty in pediatric hepatology.",
+        list: [
+          {
+            content: "MBBS, undergraduate medicine."
+          },
+          {
+            content: "MD (Pediatrics), from Vardhman Mahavir Medical College and Safdarjung Hospital, New Delhi."
+          },
+          {
+            content: "DM (Pediatric Hepatology), trained at the Institute of Liver and Biliary Sciences, New Delhi."
+          },
+        ]
+      },
+      {
+        subheading: "Membership",
+        list: [
+          {
+            content: "Dr. Gautam participates in several professional bodies to improve pediatric gastroenterology and hepatology (IAP Indian Academy of Pediatrics)."
+          },
+          {
+            content: "Indian Society of Pediatric Gastroenterology, Hepatology, and Nutrition (ISPGHAN)"
+          },
+          {
+            content: "Liver Transplant Society of India (LTSI)"
+          },
+          {
+            content: "European Society for Pediatric Gastroenterology, Hepatology, and Nutrition (ESPGHAN)"
+          },
+          {
+            content: "American Association for the Study of Liver Diseases (AASLD)"
+          },
+        ]
+      },
+      {
+        subheading: "Awards",
+        miniheading: "Dr. Gautam got many prestigious awards and accolades over his career span.",
+        list: [
+          {
+            content: "He constantly remained in the top brackets in medical entrance exams ranging from undergraduate level to super specialty level."
+          },
+          {
+            content: "Won a research grant by the Indian Council of Medical Research (ICMR) in 2020."
+          },
+          {
+            content: "Completed a certified course on biomedical research under ICMR, New Delhi, 2021."
+          },
+          {
+            content: "Young Investigator Award from Asian Pacific Digestive Week, Malaysia, 2021."
+          },
+          {
+            content: "Young Investigator Award from ESPGHAN at the Denmark conference 2022."
+          },
+          {
+            content: "Awards received for oral and poster presentations in several national and international medical conferences."
+          },
+          {
+            content: "Published hundreds of research papers on pediatric liver and digestive health."
+          },
+          {
+            content: "Reviewer with various renowned medical journals."
           }
         ]
       },
       {
-        subheading: "",
+        subheading: "Specialty Interest",
+        miniheading: "Areas of interest and specialty for Dr. Gautam include:",
         list: [
           {
-            content: ""
-          }
+            content: "Pediatric liver transplant"
+          },
+          {
+            content: "Pediatric Gastroenterology, Hepatology and Nutrition"
+          },
+          {
+            content: "Pediatric Endoscopy Procedures"
+          },
+          {
+            content: "Nutritional counseling in children with GI problems"
+          },
+        ]
+      },
+    ],
+    sanjivsaigal: [
+      {
+        subheading: "About Dr. Sanjiv Saigal",
+        description: "The above profile sums up Dr. Sanjiv Saigal as a leading liver specialist and one of the highly experienced liver transplant experts, holding over 27 years of professional service experience. Being the current Principal Director and Head of Liver Transplant and Biliary Sciences at Max Healthcare, he has undertaken over 3,400 successful liver transplants to regain good health and quality of life for many. He can easily be crowned one of the most prominent leaders with experience in liver care while dealing with all sorts of liver conditions."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Dr. Saigal has a long-term career with some of the best health care centers:"
+          },
+          {
+            content: "Senior Director, Hepatology & Liver Transplant—Medanta Medicity, Gurugram (2010–2020)"
+          },
+          {
+            content: "Consultant, Hepatology & Gastroenterology, Sir Ganga Ram Hospital, New Delhi (2002–2010)"
+          },
+          {
+            content: "Dr. Saigal is currently practicing at Max Healthcare and doing advanced treatments for complex liver diseases and conditions."
+          },
         ]
       },
       {
-        subheading: "",
+        subheading: "Education & Training",
         list: [
           {
-            content: ""
-          }
+            content: "CCST in Gastroenterology, United Kingdom, 2005"
+          },
+          {
+            content: "MRCP, Royal College of Physicians, Edinburgh, UK (1999)"
+          },
+          {
+            content: "DM in Gastroenterology, G.B. Pant Hospital, Delhi (1998)"
+          },
+          {
+            content: "DNB in Gastroenterology—National Board of Examinations, Delhi (1996)"
+          },
+          {
+            content: "MD in Medicine, PGI Chandigarh (1994)"
+          },
+          {
+            content: "M.B.B.S. (Gold Medalist)—Calcutta University (1989)"
+          },
         ]
       },
       {
-        subheading: "",
+        subheading: "Specialty Interests",
+        miniheading: "Dr. Saigal's areas of special interest and expertise include:",
         list: [
           {
-            content: ""
-          }
+            content: "Liver Transplant"
+          },
+          {
+            content: "Cirrhosis and Portal Hypertension"
+          },
+          {
+            content: "Liver Cancer"
+          },
+          {
+            content: "Alcoholic Liver Disease"
+          },
+          {
+            content: "Non-alcoholic Fatty Liver Disease (NAFLD)"
+          },
+          {
+            content: "Viral Hepatitis"
+          },
+          {
+            content: "Drug-induced liver disease"
+          },
+        ]
+      },
+      {
+        subheading: "Memberships",
+        miniheading: "Dr. Saigal is an active member of many medical associations:",
+        list: [
+          {
+            content: "American Association for the Study of Liver Diseases"
+          },
+          {
+            content: "Liver Transplantation Society of India; Vice President (2020)"
+          },
+          {
+            content: "Member Education Committee—International Liver Transplantation Society"
+          },
+          {
+            content: "Asia Pacific Association for the Study of Liver (APASL)"
+          },
+          {
+            content: "Governing Council Member—Indian Association for the Study of Liver (2011-2013)"
+          },
+          {
+            content: "National Academy of Medical Sciences (MAMS), New Delhi"
+          },
+          {
+            content: "Indian Association for Study of Liver"
+          },
+          {
+            content: "Indian Society of Gastroenterology"
+          },
+          {
+            content: "Congress of Asian Society of Transplantation"
+          },
+          {
+            content: "Indian Medical Association"
+          },
+        ]
+      },,
+      {
+        subheading: "Awards",
+        miniheading: "Awards received by Dr. Saigal for his work and research in liver care are:",
+        list: [
+          {
+            content: "INLAKS Foundation Scholar, King's College Hospital, London, UK"
+          },
+          {
+            content: "Human Care Award (2018)"
+          },
+          {
+            content: "IMA Eminent Speaker, 2014"
+          },
+          {
+            content: "Gold Medal—Calcutta University"
+          },
+          {
+            content: "National Pfizer Award"
+          },
+          {
+            content: "More than 125 indexed publications in medical journals"
+          },
+        ]
+      },
+    ],
+    vikramkumar: [
+      {
+        subheading: "About Dr. Vikram Kumar",
+        description: "Dr. Vikram Kumar is a dedicated pediatrician with an intense focus on gastroenterology, hepatology, and liver transplant. He has treated thousands of patients suffering from complex liver and gastrointestinal disorders. He teaches at some of India's premier healthcare institutions. He tries to ensure sensitive care for children."
+      },
+      {
+        subheading: "Work Experience",
+        list: [
+          {
+            content: "Principal Consultant, Max Healthcare"
+          },
+          {
+            content: "Jaypee Hospital, Noida, India, Senior Consultant Paediatrics, Paediatric Gastroenterology & Hepatology"
+          },
+          {
+            content: "Associate Consultant, Department of Paediatrics, Fortis Memorial Research Institute Gurgaon, India Attending Consultant Paediatric Gastroenterology, Hepatology & Liver Transplantation Medanta, Gurgaon, India Consultant, Phase 3 Rota Virus Vaccine Trial Society for Applied Studies, New Delhi, India Senior Research Officer, All India Institute of Medical Sciences (AIIMS), New Delhi, India Senior Resident, AIIMS, New Delhi, India Education & Training MBBS"
+          },
+          {
+            content: "MD (Paediatrics): All India Institute of Medical Sciences (AIIMS), New Delhi"
+          },
+          {
+            content: "Special Course: Health in Numbers: Quantitative Methods in Clinical & Public Health Research, Harvard University, USA"
+          },
+        ]
+      },
+      {
+        subheading: "Membership",
+        list: [
+          {
+            content: "International Liver Transplantation Society (ILTS)"
+          },
+          {
+            content: "Commonwealth Association of Pediatric Gastroenterology and Nutrition (CAPGAN)"
+          },
+          {
+            content: "Indian Celiac Society"
+          },
+          {
+            content: "European Society of Pediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN)"
+          },
+          {
+            content: "Indian Society of Pediatric Gastroenterology, Hepatology and Nutrition (ISPHGAN)"
+          },
+          {
+            content: "Liver Transplant Society of India (LTSI)"
+          },
+          {
+            content: "Pediatric Infectious Diseases Conference (PEDICON)"
+          },
+        ]
+      },
+      {
+        subheading: "Awards and Honors",
+        list: [
+          {
+            content: "Harvard University Biostatistics Training: Specialized training in biostatistics from Harvard University. It has provided him with better skills for clinical research."
+          },
+          {
+            content: "Hepatitis B Research: Co-investigator in an international, multi-center study on hepatitis B in children."
+          },
+          {
+            content: "Research papers: He has written 16 original research articles that include original studies, reviews, case reports, and editorials published in well-reputed national and international journals."
+          },
+          {
+            content: "Book chapters: He has contributed many chapters to books on medical pediatric gastroenterology and hepatology."
+          },
+          {
+            content: "Conference Faculty: Guest faculty for national and international conferences and seminars in pediatric gastroenterology and hepatology."
+          },
+          {
+            content: "Guest Lecture: Guest lectures and expertise sharing with undergraduate, postgraduate, and higher medical students of IGNOU."
+          },
+          {
+            content: "Journal Reviewer: Editorial board reviewer of JPGN."
+          },
+        ]
+      },
+      {
+        subheading: "Specialty Interests",
+        list: [
+          {
+            content: "Pediatric Liver Transplant"
+          },
+          {
+            content: "Pediatric liver diseases"
+          },
+          {
+            content: "Pediatric gastroenterology and hepatology"
+          },
+          {
+            content: "Pediatric Endoscopy and Colonoscopy"
+          },
         ]
       }
     ],
-    dddd: [
+    shwetasingh: [
       {
-        subheading: "",
-        description: ""
+        subheading: "About Dr. Shweta Singh",
+        description: "Dr. Shweta Singh is an expert in anesthesiology and critical care with an emphasis on liver transplant and biliary sciences. She has over 16 years of experience, has pioneered advancements in liver transplant anesthesia and has been instrumental in establishing protocols and standards for critical care in liver transplantation. She was instrumental in setting up the first transplant anesthesia program at the ILBS and performing its first liver transplant. Her work also encompasses developing comprehensive pre- and post-transplant management protocols that cater to both recipients and donors."
       },
       {
-        subheading: "",
+        subheading: "Education and Training",
         list: [
           {
-            content: ""
-          }
+            content: "MBBS: King George's Medical College, Lucknow, 1998"
+          },
+          {
+            content: "MD (Anesthesiology): GSVM Medical College, Kanpur, 2003"
+          },
+          {
+            content: "Advanced Training: Liver Transplant Anaesthesia and Critical Care, King's College Liver ITU, London"
+          },
         ]
       },
       {
-        subheading: "",
+        subheading: "Work Experience",
         list: [
           {
-            content: ""
-          }
+            content: "Faculty and Additional Professor at ILBS, New Delhi, since 2008"
+          },
+          {
+            content: "Initiated and operationalized liver transplant services in critical care settings at ILBS"
+          },
+          {
+            content: "She currently works as the Senior Director for Max Super Specialty Hospital, where her interests are centered on the critical care state of liver transplant anesthesia and care."
+          },
         ]
       },
       {
-        subheading: "",
+        subheading: "Specialty Interest",
         list: [
           {
-            content: ""
-          }
+            content: "Liver Transplant and Anaesthesia"
+          },
+          {
+            content: "Critical Care for diseases due to liver and biliary conditions"
+          },
+          {
+            content: "Clinical care related to management of various metabolic, inflammatory, or infectious conditions affecting the state of the liver"
+          },
         ]
       },
       {
-        subheading: "",
+        subheading: "Professional Associations",
         list: [
           {
-            content: ""
-          }
-        ]
-      }
-    ],
-    dddd: [
-      {
-        subheading: "",
-        description: ""
-      },
-      {
-        subheading: "",
-        list: [
+            content: "Delhi Medical Council"
+          },
           {
-            content: ""
-          }
-        ]
-      },
-      {
-        subheading: "",
-        list: [
-          {
-            content: ""
-          }
-        ]
-      },
-      {
-        subheading: "",
-        list: [
-          {
-            content: ""
-          }
-        ]
-      },
-      {
-        subheading: "",
-        list: [
-          {
-            content: ""
-          }
+            content: "Indian Medical Association or IMA"
+          },
         ]
       }
     ],
-    dddd: [
+    vipulgautam: [
       {
-        subheading: "",
-        description: ""
+        subheading: "About Dr. Vipul Gautam",
+        description: "Dr. Vipul Gautam is an outstanding consultant in pediatric liver and biliary sciences practicing at Max Healthcare. His years of experience in the fields of pediatric hepatology, gastroenterology, and liver transplant procedures are an asset to him for giving the best quality of care to children suffering from serious conditions of the liver and the gastrointestinal tract. Dr. Gautam has been working in various prestigious institutions with a motive to improve the pediatric care in the country."
       },
       {
-        subheading: "",
+        subheading: "Work Experience",
         list: [
           {
-            content: ""
-          }
+            content: "Max Healthcare: He is now working as a consultant who specializes in liver and biliary sciences."
+          },
+          {
+            content: "Institute of Liver and Biliary Sciences, New Delhi: Formerly, he was the senior resident in pediatric hepatology, endoscopy, and liver transplant."
+          },
+          {
+            content: "Geetanjali Medical College, Udaipur: Formerly, he used to work as an assistant professor in the Department of Pediatrics."
+          },
+          {
+            content: "VMMC and Safdarjung Hospital, New Delhi: Formerly, he used to work as a senior resident in pediatrics."
+          },
         ]
       },
       {
-        subheading: "",
+        subheading: "Education & Training",
+        miniheading: "Dr. Gautam is very academically qualified. The qualifications include pediatrics, a super-specialty in pediatric hepatology.",
         list: [
           {
-            content: ""
-          }
+            content: "MBBS, undergraduate medicine."
+          },
+          {
+            content: "MD (Pediatrics), from Vardhman Mahavir Medical College and Safdarjung Hospital, New Delhi."
+          },
+          {
+            content: "DM (Pediatric Hepatology), trained at the Institute of Liver and Biliary Sciences, New Delhi."
+          },
         ]
       },
       {
-        subheading: "",
+        subheading: "Membership",
         list: [
           {
-            content: ""
-          }
+            content: "Dr. Gautam participates in several professional bodies to improve pediatric gastroenterology and hepatology (IAP Indian Academy of Pediatrics)."
+          },
+          {
+            content: "Indian Society of Pediatric Gastroenterology, Hepatology, and Nutrition (ISPGHAN)"
+          },
+          {
+            content: "Liver Transplant Society of India (LTSI)"
+          },
+          {
+            content: "European Society for Pediatric Gastroenterology, Hepatology, and Nutrition (ESPGHAN)"
+          },
+          {
+            content: "American Association for the Study of Liver Diseases (AASLD)"
+          },
         ]
       },
       {
-        subheading: "",
+        subheading: "Awards",
+        miniheading: "Dr. Gautam got many prestigious awards and accolades over his career span.",
         list: [
           {
-            content: ""
-          }
-        ]
-      }
-    ],
-    dddd: [
-      {
-        subheading: "",
-        description: ""
-      },
-      {
-        subheading: "",
-        list: [
+            content: "He constantly remained in the top brackets in medical entrance exams ranging from undergraduate level to super specialty level."
+          },
           {
-            content: ""
-          }
-        ]
-      },
-      {
-        subheading: "",
-        list: [
+            content: "Won a research grant by the Indian Council of Medical Research (ICMR) in 2020."
+          },
           {
-            content: ""
-          }
-        ]
-      },
-      {
-        subheading: "",
-        list: [
+            content: "Completed a certified course on biomedical research under ICMR, New Delhi, 2021."
+          },
           {
-            content: ""
-          }
+            content: "Young Investigator Award from Asian Pacific Digestive Week, Malaysia, 2021."
+          },
+          {
+            content: "Young Investigator Award from ESPGHAN at the Denmark conference 2022."
+          },
+          {
+            content: "Awards received for oral and poster presentations in several national and international medical conferences."
+          },
+          {
+            content: "Published hundreds of research papers on pediatric liver and digestive health."
+          },
+          {
+            content: "Reviewer with various renowned medical journals."
+          },
         ]
       },
       {
-        subheading: "",
+        subheading: "Specialty Interest",
+        miniheading: "Areas of interest and specialty for Dr. Gautam include:",
         list: [
           {
-            content: ""
-          }
+            content: "Pediatric liver transplant"
+          },
+          {
+            content: "Pediatric Gastroenterology, Hepatology and Nutrition"
+          },
+          {
+            content: "Pediatric Endoscopy Procedures"
+          },
+          {
+            content: "Nutritional counseling in children with GI problems"
+          },
         ]
       }
     ],

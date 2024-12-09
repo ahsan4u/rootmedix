@@ -591,6 +591,51 @@ export default {
       hospital: "Max Hospital Saket, Delhi",
       link: "/maxsaket/doctors/vikassingla"
     },
+    vipulgautam: {
+      img: "/img/doctors/vipulgautam.png",
+      name: "Dr. Vipul Gautam",
+      type: "Consultant",
+      speciality: "Liver and Biliary Scientist",
+      experiance: "Experience: 10+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/vipulgautam"
+    },
+    sanjivsaigal: {
+      img: "/img/doctors/sanjivsaigal.png",
+      name: "Dr. Sanjiv Saigal",
+      type: "Principal Director",
+      speciality: "Liver Transplant",
+      experiance: "Experience: 27+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/sanjivsaigal"
+    },
+    vikramkumar: {
+      img: "/img/doctors/vikramkumar.png",
+      name: "Dr. Vikram Kumar",
+      type: "Consultant",
+      speciality: "Pediatric Gastroenterology",
+      experiance: "Experience: 18+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/vikramkumar"
+    },
+    shwetasingh: {
+      img: "/img/doctors/shwetasingh.png",
+      name: "Dr. Shweta Singh",
+      type: "Senior Director",
+      speciality: "Liver Transplant",
+      experiance: "Experience: 16+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/shwetasingh"
+    },
+    vipulgautam: {
+      img: "/img/doctors/vipulgautam.png",
+      name: "Dr. Vipul Gautam",
+      type: "Consultant",
+      speciality: "Liver and Biliary Sciences",
+      experiance: "Experience: 10+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/vipulgautam"
+    },
   },
 
   hospitals: [
