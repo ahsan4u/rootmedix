@@ -349,7 +349,7 @@ export default {
       link: "/maxsaket/doctors/anupamgoel"
     },
     mitendrasinghyadav: {
-      img: "/img/doctors/anupamgoel.png",
+      img: "/img/doctors/mitendrasinghyadav.png",
       name: "Dr. Mitendra Singh Yadav",
       type: "Assistant Director",
       speciality: "Interventional Cardiology",
@@ -410,15 +410,6 @@ export default {
       experiance: "Experience: 24+ Years",
       hospital: "Max Hospital Saket, Delhi",
       link: "/maxsaket/doctors/ajitabagaikakkar"
-    },
-    ranjanupadhaya: {
-      img: "/img/doctors/ranjanupadhaya.png",
-      name: "Dr. Ranjan Upadhaya",
-      type: "Senior Consultant",
-      speciality: "Dermatology",
-      experiance: "Experience: 17+ Years",
-      hospital: "Max Hospital Saket, Delhi",
-      link: "/maxsaket/doctors/ranjanupadhaya"
     },
     lipygupta: {
       img: "/img/doctors/lipygupta.png",
@@ -635,6 +626,24 @@ export default {
       experiance: "Experience: 10+ Years",
       hospital: "Max Hospital Saket, Delhi",
       link: "/maxsaket/doctors/vipulgautam"
+    },
+    jagadeeshkrishnamurthy: {
+      img: "/img/doctors/jagadeeshkrishnamurthy.png",
+      name: "Dr. Jagadeesh Krishnamurthy",
+      type: "Consultant",
+      speciality: "HPB Surgeon",
+      experiance: "Experience: 12+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/jagadeeshkrishnamurthy"
+    },
+    peushsahni: {
+      img: "/img/doctors/peushsahni.png",
+      name: "Dr. Peush Sahni",
+      type: "Sr. Consultant",
+      speciality: "Liver Transplant",
+      experiance: "Experience: 40+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/peushsahni"
     },
   },
 

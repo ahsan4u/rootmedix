@@ -128,9 +128,10 @@ function Navbar() {
                         </div>
                     </div>
 
-                    {isMobile && (<button onClick={toggleNavbar} className='lg:hidden block sidebarBtn p-[9px] bg-[#243355] mr-2 rounded-full z-50 transition-colors duration-500'>
-                        <Lottie lottieRef={menubarRef} animationData={menuEffect} loop={false} autoplay={false} className='w-7 h-7 filter invert'/>
-                    </button>)}
+                    <button onClick={toggleNavbar} className='lg:hidden block  sidebarBtn p-[9px] bg-[#243355] mr-2 rounded-full z-50 transition-colors duration-500'>
+                        <div className={`w-7 ${isMobile && ('hidden')} aspect-square text-white font-bold`}>⁐</div>
+                        {isMobile && (<Lottie lottieRef={menubarRef} animationData={menuEffect} loop={false} autoplay={false} className='w-7 h-7 filter invert'/>)}
+                    </button>
                 </div>
             </div>
 

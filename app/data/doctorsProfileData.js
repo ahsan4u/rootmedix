@@ -3357,97 +3357,6 @@ export default {
         ]
       },
     ],
-    ranjanupadhaya: [
-      {
-        subheading: "About Dr. Ranjan Upadhaya",
-        description: "Dr. Ranjan Upadhaya is a devoted senior specialist in dermatology, specializing in laser medicines and hair transplantation. With a long time of encounter in dermatology, Dr. Upadhaya has worked at a few unmistakable healthcare teachings and gloats of monstrous encounter in skin care, restorative strategies, and hair rebuilding. His encounter is fortified by a commitment to the best conceivable dermatological care, counting progressed medicines for conditions like psoriasis and different dermatosurgical and stylish services."
-      },
-      {
-        subheading: "Work Experience",
-        list: [
-          {
-            content: "Senior Specialist Dermatologist, Max Hospital, Panchsheel Stop & Max Devki Devi Healing center, Saket, Modern Delhi (July 2010 - Present)"
-          },
-          {
-            content: "Clinical Partner in Dermatology—Max Hospital, Panchsheel Stop & Max Devki Devi Clinic, Saket (June 2009 – July 2010)"
-          },
-          {
-            content: "Dermatology Inhabitant, Nanavati Clinic, Mumbai (2007 - 2009)"
-          },
-          {
-            content: "Post Graduate Dermatology Inhabitant, Dept. of Skin & STD, JJM Restorative College, Karnataka (2005 - 2007)"
-          },
-          {
-            content: "Teacher and Facilitator, Numerous national and territorial workshops on lasers and restorative procedures"
-          },
-          {
-            content: "Internship, Himalayan Organized of Therapeutic Sciences, Uttarakhand"
-          },
-        ]
-      },
-      {
-        subheading: "Education & Training",
-        list: [
-          {
-            content: "Certificate in Cosmetology and Dermatosurgery—Nanavati Healing center, Mumbai"
-          },
-          {
-            content: "Advanced Course in Facial Aesthetics—National Skin Center, Singapore"
-          },
-          {
-            content: "Diploma in Dermatology, Venereology, and Disease (DDVL)—Rajiv Gandhi College of Wellbeing Sciences, Bangalore"
-          },
-          {
-            content: "Bachelor of Pharmaceutical, Lone ranger of Surgery (MBBS)—Himalayan Organized of Therapeutic Sciences, Dehradun"
-          },
-        ]
-      },
-      {
-        subheading: "Memberships",
-        list: [
-          {
-            content: "Member, Indian Association of Dermatology, Venereology, and Leprology (IADVL)"
-          },
-          {
-            content: "Fellow, American Institute of Dermatology (AAD)"
-          },
-          {
-            content: "Member, Affiliation of Cutaneous Specialists of India"
-          },
-          {
-            content: "Member, Affiliation of Hair Rebuilding Specialists of India"
-          },
-        ]
-      },
-      {
-        subheading: "Awards & Recognition",
-        list: [
-          {
-            content: "Research Introduction: Part of Minoxidil 5% vs. Minoxidil 5% and Finasteride 1 mg in Treating Male Design Hairlessness (2009)"
-          },
-          {
-            content: "Advisory Board Part: Utilize of biologics in overseeing psoriasis"
-          },
-          {
-            content: "Conference Speaker: National conferences on the part of biologics in psoriasis (2011)"
-          },
-        ]
-      },
-      {
-        subheading: "Special Interest",
-        list: [
-          {
-            content: "Biological treatment in Psoriasis"
-          },
-          {
-            content: "Hair transplantation strategies and hair rebuilding solutions"
-          },
-          {
-            content: "Cosmetic dermatologic methods with a center on aesthetics and laser therapies"
-          },
-        ]
-      }
-    ],
     lipygupta: [
       {
         subheading: "About Dr. Lipy Gupta",
@@ -5021,20 +4930,18 @@ export default {
             content: "Management of disorders such as irritable bowel syndrome (IBS)."
           },
           {
-            name: ".....",
-            content: ""
+            content: "Therapeutic endoscopic ultrasound (EUS) and endoscopic retrograde cholangiopancreatography (ERCP) for bile duct and pancreatic diseases."
           },
           {
-            name: "",
-            content: ""
+            name: "Endoscopic Treatments for Obesity",
+            content: "Helping patients manage obesity through non-surgical means."
           },
           {
-            name: "",
-            content: ""
+            content: "Peroral Endoscopic Myotomy (POEM) for achalasia cardia, a disorder of swallowing."
           },
           {
-            name: "",
-            content: " confusion till here"
+            name: "Endoscopic Submucosal Dissection (ESD):",
+            content: "Early GI cancers and large polyps can be safely removed."
           },
         ]
       },
@@ -5562,81 +5469,217 @@ export default {
         ]
       }
     ],
-    dddd: [
+    jagadeeshkrishnamurthy: [
       {
-        subheading: "",
-        description: ""
+        subheading: "About Dr. Jagadeesh Krishnamurthy",
+        description: "Dr. Jagadeesh Krishnamurthy is a very focused surgeon in multi-organ transplantation and HPB surgery. Currently working at Max Healthcare, he has done excellent work with complex liver, kidney, and pancreas transplants. His career reflects tremendous expertise in abdominal organ transplantation, which makes him the best for patients looking for advanced surgical care."
       },
       {
-        subheading: "",
+        subheading: "Work Experience",
+        subheading: "He has served through a variety of acclaimed medical institutions and hence amassed broad experience both at national as well as international levels.",
         list: [
           {
-            content: ""
-          }
+            content: "Consultant in HPB surgery and liver transplantation at Max Healthcare, Delhi, since 2020."
+          },
+          {
+            content: "ASTS Fellow in Abdominal Organ Transplant at Jackson Memorial Hospital, Miami, FL, USA, during 2018-22020"
+          },
+          {
+            content: "Senior Resident/Fellow in HPB Surgery & Liver Transplant at Kokilaben Dhirubhai Ambani Hospital, Mumbai, during 2017-2018."
+          },
+          {
+            content: "HCG Hospital, Bengaluru (2016-2017): Sr. Resident/FFellow, HPB Surgery & Liver Transplant."
+          },
+          {
+            content: "Recanati/Miller Transplant Institute, 2016: Observer in Solid Organ Transplant & HPB Surgery"
+          },
+          {
+            content: "Indraprastha Apollo Hospital, Delhi, 2015-16, Sr. Resident, Minimal Access & GI Surgery,"
+          },
+          {
+            content: "Post Graduate Institute of Medical Education & Research, PGIMER (2012-115): MS in General Surgery,"
+          },
         ]
       },
       {
-        subheading: "",
+        subheading: "Education & Training",
+        subheading: "Dr. Jagadeesh Krishnamurthy is a graduate of the most prestigious universities. He has a strong educational background in surgery and transplantation due to the following reasons as well:",
         list: [
           {
-            content: ""
-          }
+            name: "FACS",
+            content: "Completed his Fellowship in Multi-Organ Transplantation (Kidney, Liver, Pancreas, and Intestine) from the University of Miami, USA"
+          },
+          {
+            name: "MS (General Surgery)",
+            content: "Received from PGIMER, Chandigarh, one of India's best medical colleges"
+          },
+          {
+            name: "MBBS",
+            content: "From Bengaluru Medical College & Research Institute"
+          },
         ]
       },
       {
-        subheading: "",
+        subheading: "Membership",
+        miniheading: "Dr. Krishnamurthy is involved in multiple prestigious medical societies that are on the move towards progress in surgery and organ transplantation.",
         list: [
           {
-            content: ""
-          }
+            content: "Liver Transplant Society of India"
+          },
+          {
+            content: "American Society of Transplant Surgeons"
+          },
+          {
+            content: "International Hepato-Pancreato-Biliary Association (IHPBA)"
+          },
+          {
+            content: "Fellow of the American College of Surgeons (FACS)"
+          },
         ]
       },
       {
-        subheading: "",
+        subheading: "Awards",
+        miniheading: "Dr. Krishnamurthy received the following rewards throughout his career in medical research and practice:",
         list: [
           {
-            content: ""
-          }
+            content: `Best Poster Presentation: "Bile exfoliative cytology in malignant obstructive jaundice," XXV National Conference of the Indian Association of Surgical Gastroenterology`
+          },
+          {
+            content: `Poster presentation selected at SAGES 2016, Boston, Bile exfoliative cytology in cases of malignant jaundice.`
+          },
+          {
+            content: `Oral Presentation Award: XXVI National Conference of the Indian Association of Surgical Gastroenterology for work on "ALPPS case series for liver malignancies.".`
+          },
+          {
+            content: `First Robotic ALPPS Procedure in India: Dr. Jagadeesh, for the first time, has successfully performed a robotic ALPPS procedure for metastases of colorectal carcinoma.`
+          },
+          {
+            content: `The Award for Intestinal Autotransplantation: Innovative work in intestinal autotransplantation for pancreatic tumors with complications, presented at the 2020 ASTS Winter Symposium.`
+          },
+          {
+            content: `Organizing Secretary for the 6th World Congress of the International Living Donor Liver Transplant Group (iLDLTG) and the LTSI annual meeting.`
+          },
         ]
-      }
+      },
+      {
+        subheading: "Specialty Interests",
+        miniheading: "Dr. Jagadeesh is primarily interested in:",
+        list: [
+          {
+            content: "Liver"
+          },
+          {
+            content: "Kidney"
+          },
+          {
+            content: "Pancreas Transplants"
+          },
+          {
+            content: "HPB Surgery (Liver, Pancreas, and Biliary Tract)"
+          },
+          {
+            content: "Minimally Invasive and Robotic Surgery Techniques"
+          },
+          {
+            content: "Novel Surgical Techniques in Transplant Surgery"
+          },
+        ]
+      },
     ],
-    dddd: [
+    peushsahni: [
       {
-        subheading: "",
-        description: ""
+        subheading: "Dr. Peush Sahni",
+        description: "Dr. Peush Sahni is a qualified Sr. consultant and head of department (HOD) academic at MCLBS with more than 40 years of experience. He is recognized to be a trained gastroenterological surgeon with exposure to liver transplantation and most of his experience has been in surgery and actively promoting the cause of medical education. During the course of his career, he has held important positions: Chief of Dr. KL Wig Centre for Medical Education Technology and Innovation, 2020-2023, and Head, Department of Gastrointestinal Surgery and Liver Transplantation, AIIMS, 2010-2023."
       },
       {
-        subheading: "",
+        subheading: "Work Experience",
         list: [
           {
-            content: ""
-          }
+            content: "Max Healthcare, HOD Academics, Senior Consultant—Dr. KL Wig, Chief of the Gastrointestinal Surgery and Liver Transplantation Department at AIIMS from 2010 to 2023, Center for Medical Education, Technology, and Innovation."
+          },
+          {
+            content: "Professor of Liver Transplantation and Gastrointestinal Surgery (2007–2023)"
+          },
+          {
+            content: "Extra Professor of Liver Transplantation and Gastrointestinal Surgery (2000-2007)"
+          },
+          {
+            content: "Gastrointestinal Surgery and Liver Transplantation Associate Professor (1996-2000)"
+          },
+          {
+            content: "Gastrointestinal Surgery and Liver Transplantation Assistant Professor (1991-1996)"
+          },
+          {
+            content: "Dr. Sahni is one of the most seasoned experts in the area, having worked as a senior consultant in the Department of Gastrointestinal Surgery and Liver Transplantation for 38 years."
+          },
         ]
       },
       {
-        subheading: "",
+        subheading: "Education & Training",
         list: [
           {
-            content: ""
-          }
+            content: "PhD in Gastrointestinal Surgery"
+          },
+          {
+            content: "Master of Surgery (MS) in General Surgery"
+          },
+          {
+            content: "Bachelor of Medicine and Bachelor of Surgery (MBBS)"
+          },
         ]
       },
       {
-        subheading: "",
+        subheading: "Memberships",
+        miniheading: "He is an active member of various international and national reputed medical societies. He remains updated about the cutting edge in medical sciences and serves the international fraternity as well.",
         list: [
           {
-            content: ""
-          }
+            content: "Association of Surgeons of India (ASI)"
+          },
+          {
+            content: "Indian Association of Surgical Gastroenterology (IASG)"
+          },
+          {
+            content: "Indian National Association for Study of the Liver (INASL)"
+          },
+          {
+            content: "International Hepato-Pancreato Biliary Association (IHPBA)"
+          },
+          {
+            content: "Indian Society of Organ Transplantation (ISOT)"
+          },
+          {
+            content: "Liver Transplant Society of India (LTSI)"
+          },
+          {
+            content: "World Association of Medical Editors (WAME)"
+          },
+          {
+            content: "Indian Association of Medical Journal Editors (IAMJE)"
+          },
         ]
       },
       {
-        subheading: "",
+        subheading: "Awards & Honours",
+        miniheading: "Dr. Sahni has received several awards and editorial positions for his service and commitment.",
         list: [
           {
-            content: ""
-          }
+            content: "Editor, The National Medical Journal of India"
+          },
+          {
+            content: "Special Section Editor, Gastroenterology Journal"
+          },
+          {
+            content: "Professor Chalapathi Rao Memorial Oration"
+          },
+          {
+            content: "The Association of Surgeons of India presented the S.K. Bhansali Oration."
+          },
         ]
-      }
+      },
+      {
+        subheading: "Specialty Interests",
+        description: "He is interested in medical education, liver transplantation, and gastrointestinal surgery. He has made prolific contributions in these areas both through innovation and editorial leadership, as well as through his own surgical practice, both in academics and in clinical care and training he is pushing forward."
+      },
     ],
     dddd: [
       {
