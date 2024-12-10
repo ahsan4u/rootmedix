@@ -445,7 +445,7 @@ export default {
       speciality: "Endocrinology",
       experiance: "Experience: 33+ Years",
       hospital: "Max Hospital Saket, Delhi",
-      link: "/maxsaket/doctors/neerugera  "
+      link: "/maxsaket/doctors/neerugera"
     },
     khalidjfarooqui: {
       img: "/img/doctors/khalidjfarooqui.png",
