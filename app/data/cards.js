@@ -454,7 +454,7 @@ export default {
       speciality: "Endocrinology & Diabetes",
       experiance: "Experience: 11+ Years",
       hospital: "Max Hospital Saket, Delhi",
-      link: "/maxsaket/doctors/khalidjfarooqui  "
+      link: "/maxsaket/doctors/khalidjfarooqui"
     },
     adityadutta: {
       img: "/img/doctors/adityadutta.png",
@@ -463,7 +463,7 @@ export default {
       speciality: "Endocrinology & Diabetes",
       experiance: "Experience: 4+ Years",
       hospital: "Max Hospital Saket, Delhi",
-      link: "/maxsaket/doctors/adityadutta  "
+      link: "/maxsaket/doctors/adityadutta"
     },
     rutujasharma: {
       img: "/img/doctors/rutujasharma.png",
@@ -472,7 +472,7 @@ export default {
       speciality: "Endocrinology",
       experiance: "Experience: 32+ Years",
       hospital: "Max Hospital Saket, Delhi",
-      link: "/maxsaket/doctors/rutujasharma  "
+      link: "/maxsaket/doctors/rutujasharma"
     },
     sumitmrig: {
       img: "/img/doctors/sumitmrig.png",
@@ -481,7 +481,7 @@ export default {
       speciality: "ENT (Ear, Nose, and Thorat)",
       experiance: "Experience: 17+ Years",
       hospital: "Max Hospital Saket, Delhi",
-      link: "/maxsaket/doctors/sumitmrig  "
+      link: "/maxsaket/doctors/sumitmrig"
     },
     dariusjijina: {
       img: "/img/doctors/dariusjijina.png",
@@ -490,7 +490,7 @@ export default {
       speciality: "ENT (Ear, Nose, and Thorat)",
       experiance: "Experience: 39+ Years",
       hospital: "Max Hospital Saket, Delhi",
-      link: "/maxsaket/doctors/dariusjijina  "
+      link: "/maxsaket/doctors/dariusjijina"
     },
     ajitmansingh: {
       img: "/img/doctors/ajitmansingh.png",
