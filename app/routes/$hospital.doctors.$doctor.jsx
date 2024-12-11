@@ -49,7 +49,7 @@ export default  function DoctorsProfile() {
         }
 
         window.onscroll = ()=>{
-            if(window.scrollY > 500) {
+            if(window.innerWidth < 1000 && window.scrollY > 500) {
                 doctorImgRef.current && doctorImgRef.current.classList.add('hidden');
             } else {
                 doctorImgRef.current && doctorImgRef.current.classList.remove('hidden');
@@ -69,7 +69,9 @@ export default  function DoctorsProfile() {
             <div className="mb-20 lg:px-4 lg:flex justify-around lg:w-[98vw] rounded-lg m-auto shadow-lg lg:bg-gradient-to-r from-purple-300 via-purple-50 to-[#f3feff] ">
                 
                 <div className="lg:sticky lg:w-[28%] lg:h-[70vh] top-[35vh] lg:bg-[#4c494d] bg-white rounded-t-3xl flex flex-col items-center">
-                    <img ref={doctorImgRef} className="lg:rounded-full lg:block lg:relative lg:bottom-[90px] fixed lg:w-[60%] w-full bg-gray-700 lg:bg-violet-300 lg:border-[6px] lg:border-[#4c494d]" src={doctorIntro?.img} alt={doctorIntro?.name} />
+                    <div ref={doctorImgRef} className="lg:relative lg:bottom-[90px] lg:rounded-full bg-red-700 fixed lg:w-[60%] w-full aspect-square">
+                        <img className="lg:rounded-full w-full lg:block bg-gray-700 text-white text-center lg:bg-violet-300 lg:border-[6px] lg:border-[#4c494d]" src={doctorIntro?.img} alt={doctorIntro?.name} />
+                    </div>
                     <div className="text-[15px] lg:mt-[-80px] w-[78%] m-auto text-white">
                         <h2 className="text-center font-bold text-xl">{doctorIntro?.name}</h2>
                         {(!isMobile1000) && (<>
@@ -98,12 +100,12 @@ export default  function DoctorsProfile() {
                     )}
                     
                     {
-                        doctorProfile?.map((details, idx)=>(
+                        doctorProfile.map((details, idx)=>(
                             <div key={idx} className="px-2 lg:px-0 bg-[#fffdff] lg:bg-transparent">
                                 {details.heading && (<h1 className="mb-1 mt-3 text-4xl text-cyan-900 font-bold border-b-4 border-dashed border-cyan-500 inline-block pr-4 pb-2">{details.heading}</h1>)}
                                 {details.subheading && (<h2 className="text-xl lg:text-2xl text-cyan-900 font-semibold mt-5 lg:border-b-4 lg:border-dashed lg:border-cyan-500 inline-block pr-4 lg:pb-1">{details.subheading}</h2>)}
                                 {details.miniheading && (<p className="font-semibold lg:mt-3 mt-1">{details.miniheading}</p>)}
-                                {details.description && (<p className="lg:mt-3 mt-1">{details.description}</p>)}
+                                {details.description && (<p className="lg:mt-1 mt-1">{details.description}</p>)}
                                 {details.list && ( <ol className={`mt-1 ml-5 list-disc ${!details.description && ('lg:mt-3 mt-1')}`}>
                                     {
                                         details.list.map((data, idx)=>(

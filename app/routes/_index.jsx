@@ -43,7 +43,7 @@ export default function Home() {
     </div>
     
     {isMobile && (
-    <div className="my-7 bg-gradient-to-b from-white via-white to-blue-300 overflow-hidden rounded-3xl border-t border-dotted border-[#dddfe2] w-[95vw] shadow-xl m-auto">
+    <div className="my-7 bg-gradient-to-b from-white via-blue-50 to-[#4d8fe0] overflow-hidden rounded-3xl border-t border-dotted border-[#dddfe2] w-[95vw] shadow-xl m-auto">
         <UserInfo/>
     </div>)}
   </>)

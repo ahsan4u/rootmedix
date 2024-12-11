@@ -16,7 +16,7 @@ function InTreatment() {
                         items.map((item, idx)=>(
                             <Link key={idx} to="/cardiology/heart-transplant" className='w-[90%] hover:scale-105 transition-all duration-500'>
                             <div className='flex aspect-[16/10] rounded-2xl drop-shadow-xl overflow-hidden lg:mb-6 mb-3 relative'>
-                                <div className='text-white w-[65%] flex flex-col justify-between pl-2 py-2 h-full bg-[url("/img/treatment-card.png")] bg-[length:100%_100%] z-20 rounded-l-2xl'>
+                                <div className='text-white w-[65%] flex flex-col justify-between pl-2 py-2 h-full bg-[url("/img/treatment-card.png")] brightness-[0.95] contrast-[1.1] bg-[length:100%_100%] z-20 rounded-l-2xl'>
                                     <h2 className='font-bold text-2xl lg:text-3xl'>{item.name}</h2>
                                     <p className='lg:text-xs font-serif text-[10px] w-[60%]'>{item.info}</p>
                                 </div>

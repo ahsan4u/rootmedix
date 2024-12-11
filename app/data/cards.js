@@ -411,6 +411,24 @@ export default {
       hospital: "Max Hospital Saket, Delhi",
       link: "/maxsaket/doctors/ajitabagaikakkar"
     },
+    ranjanupadhaya: {
+      img: "/img/doctors/ranjanupadhaya.png",
+      name: "Dr. Ranjan Upadhaya",
+      type: "Senior Consultant",
+      speciality: "Dermatology",
+      experiance: "Experience: 17+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/ranjanupadhaya"
+    },
+    rahulnagar: {
+      img: "/img/doctors/rahulnagar.png",
+      name: "Dr. Rahul Nagar",
+      type: "Consultant",
+      speciality: "Dermatology",
+      experiance: "Experience: 17+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/rahulnagar"
+    },
     lipygupta: {
       img: "/img/doctors/lipygupta.png",
       name: "Dr. Lipy Gupta",
@@ -581,6 +599,15 @@ export default {
       experiance: "Experience: 15+ Years",
       hospital: "Max Hospital Saket, Delhi",
       link: "/maxsaket/doctors/vikassingla"
+    },
+    pankajsingh: {
+      img: "/img/doctors/pankajsingh.png",
+      name: "Dr. Pankaj Singh",
+      type: "Senior Consultant",
+      speciality: "Gastroenterology",
+      experiance: "Experience: 9+ Years",
+      hospital: "Max Hospital Saket, Delhi",
+      link: "/maxsaket/doctors/pankajsingh"
     },
     vipulgautam: {
       img: "/img/doctors/vipulgautam.png",

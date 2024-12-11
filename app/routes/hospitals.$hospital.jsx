@@ -36,7 +36,7 @@ function HospitalInfo() {
                 </div>
               </div>
             </div>
-            <img src={hospitalInfo?hospitalInfo.img: '/img/loading.gif'} alt="Hospital" className={`rounded-lg mx-1 mt-2 lg:m-0 lg:rounded-none lg:w-72 object-cover`} />
+            <img src={hospitalInfo?hospitalInfo.img: '/img/loading.gif'} alt="Hospital" className={`rounded-lg mx-1 mt-2 lg:m-0 lg:rounded-none lg:w-72 object-cover saturate-[1.4]`} />
           </div>
 
           <div className=" px-2 lg:px-10 bg-[#fffdff] lg:bg-none tracking-tighter">

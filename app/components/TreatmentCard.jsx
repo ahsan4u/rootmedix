@@ -8,7 +8,7 @@ const TreatmentCard = ({data})=>{
     function loadingFn() { setIsLoading(true) }
 
     return(
-    <div onClick={loadingFn} className="filter saturate-[1.33] sm:w-[150px] w-[105px] lg:mt-5 mt-3 mb-3 rounded-xl aspect-[8/11] relative overflow-hidden shadow-[2px_2px_5px_gray]">
+    <div onClick={loadingFn} className="filter saturate-[1.3] sm:w-[150px] w-[105px] lg:mt-5 mt-3 mb-3 rounded-xl aspect-[8/11] relative overflow-hidden shadow-[2px_2px_5px_gray]">
         {isLoading && ( <Suspense fallback={<div className="fixed">.</div>}>
             <Lottie animationData={loadingEffect} className="w-14 absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] z-50" style={{filter: 'invert(0.7)'}}/>
         </Suspense>)}
