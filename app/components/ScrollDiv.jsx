@@ -54,7 +54,7 @@ function ScrollDiv({heading, cardsData, Card, link,  count, seeMore, scroll}) {
 
     return (
         <div className="border-b border-dotted border-gray-500 rounded-b-3xl w-[98vw] m-auto">
-            <div className="flex justify-between bg-gradient-to-r from-cyan-200 via-blue-400 to-blue-500 rounded-t-lg overflow-hidden items-center px-3">
+            <div className="filter saturate-[1.4] flex justify-between bg-gradient-to-r from-cyan-200 via-blue-400 to-blue-500 rounded-t-lg overflow-hidden items-center px-3">
                 <h2 className="sm:text-[26px] text-[18px] font-bold py-1">{heading}</h2>
                 {seeMore && <Link to={link} className="font-bold"><img src="/img/seemore.png" alt="see-more" className="w-7 hover:scale-110 hue-rotate-60"/></Link>}
             </div>

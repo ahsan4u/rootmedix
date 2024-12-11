@@ -9,8 +9,8 @@ function DoctorCard({data}) {
         setIsLoading(true);
     }
     return(
-        <div onClick={loadingFn} className='doctors_card bg-[#3d3d3d] lg:w-60 w-[170px] shadow-[2px_2px_5px_gray] overflow-hidden rounded-3xl lg:mb-4 my-3 relative'>
-            
+
+        <div onClick={loadingFn} className='doctors_card filter saturate-[1.4] bg-[rgb(40,40,40)] lg:w-60 w-[170px] shadow-[2px_2px_5px_gray] overflow-hidden rounded-3xl lg:mb-4 my-3 relative'> {/* we change bg color from  bg-[rgb(61,61,61)] to bg-[rgb(40,40,40)] because here the filter affect the whole card*/}
             {isLoading && ( <Suspense fallback={<div className="fixed">.</div>}>
                 <Lottie animationData={loadingEffect} className="w-14 absolute z-50"/>
             </Suspense>)}

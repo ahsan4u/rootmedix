@@ -10,7 +10,7 @@ function ServiceCard({data}) {
     }
 
     return(
-        <div onClick={loadingFn} className="ourServices relative bg-white sm:w-64 w-[166px] shadow-[2px_2px_5px_gray] rounded-xl my-3 overflow-hidden">
+        <div onClick={loadingFn} className="filter saturate-[1.4] brightness-[0.9] contrast-[1.2] relative bg-white sm:w-64 w-[166px] shadow-[2px_2px_5px_gray] rounded-xl my-3 overflow-hidden">
             {isLoading && ( <Suspense fallback={<div className="fixed">.</div>}>
                 <Lottie animationData={loadingEffect} className="w-14 absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] z-50" style={{filter: 'invert(0.7)'}}/>
             </Suspense>)}

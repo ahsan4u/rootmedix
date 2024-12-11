@@ -51,7 +51,7 @@ function Navbar() {
             MobileSearchCont.current.style.cssText = 'top: 11px; right: 62px; transition: top 0.5s ease-in-out, right 0.2s ease-in-out;';
             langSidebarDiv.current.style.width = '198px';
             MobileSearchContButton.current.style.margin = null;
-            MobileSearchContButton.current.style.background = '#243355';
+            MobileSearchContButton.current.style.background = '#1c2842';
             mobileSearchIcon.current.style.color = 'white';
             
             navBarToggle.current.style.width= '80vw';
@@ -99,7 +99,7 @@ function Navbar() {
                 MobileSearchCont.current.style.cssText = 'top: 11px; right: 62px; transition: top 0.5s ease-in-out, right 0.2s ease-in-out;';
                 langSidebarDiv.current.style.width = '198px';
                 MobileSearchContButton.current.style.margin = null;
-                MobileSearchContButton.current.style.background = '#243355';
+                MobileSearchContButton.current.style.background = '#1c2842';
                 mobileSearchIcon.current.style.color = 'white';
             }
         }
@@ -107,8 +107,8 @@ function Navbar() {
     
     return (
         <>
-            <div className="topBar sticky top-0 lg:static z-20 lg:shadow-[inset_0_0_3px_darkcyan] bg-gradient-to-r from-cyan-100 via-blue-300 to-blue-400 h-16 flex justify-between items-center lg:pr-3">
-                <Link to='/'><img src="/img/logo.png" alt="Root-Medix" className='drop-shadow-sm filter contrast-150 ml-1 h-11 lg:h-12 lg:ml-2'/></Link>
+            <div className="topBar filter saturate-[1.5] sticky top-0 lg:static z-20 lg:shadow-[inset_0_0_3px_darkcyan] bg-gradient-to-r from-cyan-100 via-blue-300 to-blue-400 h-16 flex justify-between items-center lg:pr-3">
+                <Link to='/'><img src="/img/logo.png" alt="Root-Medix" className='drop-shadow-sm filter brightness-[0.8] contrast-125 saturate-[1.4] ml-1 h-11 lg:h-12 lg:ml-2'/></Link>
                 <div ref={langSidebarDiv} className='flex justify-between items-center w-[198px] lg:w-[550px] transition-all duration-500'>
                     <select name="language" id="lang" className='lg:shadow-md hover:scale-105 outline-none border-2 border-[#122d3a21] lg:border-none bg-transparent lg:bg-white text-sm lg:text-[16px] px-1 lg:px-5 h-9 lg:h-10 rounded-xl transition-transform duration-500'>
                         <option value="eng">English</option>
@@ -124,11 +124,11 @@ function Navbar() {
                             id="search"
                             placeholder="Search here..."
                             className='lg:w-72 w-[90%] lg:h-10 h-12 pl-3 lg:text-black text-white lg:block hidden outline-none text-md bg-transparent'/>
-                            <button ref={MobileSearchContButton} onClick={MobileSearch} className='bg-[#243355] lg:mx-0.5 lg:w-9 w-11 aspect-[1/1] text-white rounded-full transition-colors duration-500'><i ref={mobileSearchIcon} className="fa-solid fa-magnifying-glass" style={{color: "white"}}></i></button>
+                            <button ref={MobileSearchContButton} onClick={MobileSearch} className='bg-[#1c2842] lg:mx-0.5 lg:w-9 w-11 aspect-[1/1] text-white rounded-full transition-colors duration-500'><i ref={mobileSearchIcon} className="fa-solid fa-magnifying-glass" style={{color: "white"}}></i></button>
                         </div>
                     </div>
 
-                    <button onClick={toggleNavbar} className='lg:hidden block  sidebarBtn p-[9px] bg-[#243355] mr-2 rounded-full z-50 transition-colors duration-500'>
+                    <button onClick={toggleNavbar} className='lg:hidden block  sidebarBtn p-[9px] bg-[#1c2842] mr-2 rounded-full z-50 transition-colors duration-500'>
                         <div className={`w-7 ${isMobile && ('hidden')} aspect-square text-white font-bold`}>⁐</div>
                         {isMobile && (<Lottie lottieRef={menubarRef} animationData={menuEffect} loop={false} autoplay={false} className='w-7 h-7 filter invert'/>)}
                     </button>
