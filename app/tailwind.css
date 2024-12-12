@@ -8,12 +8,15 @@
   user-select: none;
 }
 
+body {
+  background-color: #fffbff;
+}
+
 ::-webkit-scrollbar { width: 0; }
 
 input[type="number"]::-webkit-inner-spin-button{
   -webkit-appearance: none;
 }
-
 
 .treatment_card_div:hover .treatment_name {
   background-color: rgb(59, 98, 134);

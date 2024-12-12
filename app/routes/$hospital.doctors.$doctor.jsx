@@ -45,7 +45,6 @@ export default  function DoctorsProfile() {
     useEffect(()=> {
         if(window.innerWidth < 1000) {
             aboutRef.current.style.marginTop = `${doctorImgRef.current.offsetWidth-60}px`;
-                        
         }
 
         window.onscroll = ()=>{
@@ -70,7 +69,7 @@ export default  function DoctorsProfile() {
                 
                 <div className="lg:sticky lg:w-[28%] lg:h-[70vh] top-[35vh] lg:bg-[#4c494d] bg-white rounded-t-3xl flex flex-col items-center">
                     <div ref={doctorImgRef} className="lg:relative lg:bottom-[90px] lg:rounded-full bg-red-700 fixed lg:w-[60%] w-full aspect-square">
-                        <img className="lg:rounded-full w-full lg:block bg-gray-700 text-white text-center lg:bg-violet-300 lg:border-[6px] lg:border-[#4c494d]" src={doctorIntro?.img} alt={doctorIntro?.name} />
+                        <img className="lg:rounded-full w-full lg:block bg-gray-700 text-white lg:text-[140px] text-[260px] text-center lg:bg-violet-300 lg:border-[6px] lg:border-[#4c494d]" src={doctorIntro?.img} alt="👴🏻" />
                     </div>
                     <div className="text-[15px] lg:mt-[-80px] w-[78%] m-auto text-white">
                         <h2 className="text-center font-bold text-xl">{doctorIntro?.name}</h2>

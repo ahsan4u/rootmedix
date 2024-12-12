@@ -17,7 +17,7 @@ function ScrollDiv({heading, cardsData, Card, link,  count, seeMore, scroll}) {
             } else if(scrollCont < 1000) {
                 margin = (scrollCont - (treatmentCard.offsetWidth* ((count >= 6)? 4: 3)))/ ((count == 6)? 8: 6);
             } else {
-                margin = (scrollCont - (treatmentCard.offsetWidth* ((count >= 6)? 6: 4)))/ ((count == 6)? 12: 8);
+                margin = (scrollCont - (treatmentCard.offsetWidth* ((count >= 6)? 5: 4)))/ ((count == 6)? 10    : 8);
             }
             treatmentCard.style.paddingLeft = `${margin}px`;
             treatmentCard.style.paddingRight = `${margin}px`;
