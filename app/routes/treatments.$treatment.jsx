@@ -2,18 +2,16 @@ import { Link } from 'react-router-dom';
 import ScrollDiv from '../components/ScrollDiv';
 import DoctorCard from '../components/DoctorCard';
 import ServiceCard from '../components/ServiceCard';
-import cards from '../data/cards';
+import {cardiology, doctors, services} from '../data/cards';
 
 function InTreatment() {
-    const items = cards["cardiology"];
-    const services = cards["services"];
-    const maxDoctors = Object.keys(cards["doctors"]).map((key)=> cards["doctors"][key]);
+    const maxDoctors = Object.keys(doctors.maxsaket).map((key)=> doctors.maxsaket[key]);
 
     return (
         <>
             <div className='grid grid-cols-[repeat(auto-fit,minmax(195px,1fr))] sm:grid-cols-[repeat(auto-fit,minmax(300px,1fr))] justify-items-center w-full justify-around bg-[#faf6f6] pt-5 pb-12'>
                     {
-                        items.map((item, idx)=>(
+                        cardiology.map((item, idx)=>(
                             <Link key={idx} to="/cardiology/heart-transplant" className='w-[90%] hover:scale-105 transition-all duration-500'>
                             <div className='flex aspect-[16/10] rounded-2xl drop-shadow-xl overflow-hidden lg:mb-6 mb-3 relative'>
                                 <div className='text-white w-[65%] flex flex-col justify-between pl-2 py-2 h-full bg-[url("/img/treatment-card.png")] brightness-[0.95] contrast-[1.1] bg-[length:100%_100%] z-20 rounded-l-2xl'>

@@ -3,15 +3,13 @@ import TreatmentCard from "../components/TreatmentCard";
 import ScrollDiv     from "../components/ScrollDiv";
 import ServiceCard   from '../components/ServiceCard';
 import hospitals     from '../data/hospitals';
-import cardsData     from '../data/cards';
+import {treatments, services}     from '../data/cards';
 import { useParams } from '@remix-run/react';
 
 
 function HospitalInfo() {
   const {hospital} = useParams();
   const hospitalInfo = hospitals[hospital];
-  const newTreatment = cardsData["treatments"];
-  const services = cardsData["services"];
 
   return (
     <>
@@ -76,7 +74,7 @@ function HospitalInfo() {
       </div>
 
       <div className="mt-10">
-        <ScrollDiv heading={'Browse by Specialist'} cardsData = {newTreatment} Card={TreatmentCard} count={6}/>          
+        <ScrollDiv heading={'Browse by Specialist'} cardsData = {treatments} Card={TreatmentCard} count={6}/>          
       </div>
 
       <div className="mt-12">

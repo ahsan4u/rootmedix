@@ -1,4 +1,4 @@
-import cardsData   from "../data/cards"
+import {doctors, services}   from "../data/cards"
 import React       from "react";
 import UserInfo    from "../components/UserInfo";
 import ScrollDiv   from '../components/ScrollDiv';
@@ -9,8 +9,7 @@ import { useParams } from "@remix-run/react";
 function TreatmentPage() {
     const {treatment, subtreatment} = useParams();
     console.log(`Treatment: ${treatment} & SubTreatment: ${subtreatment}`);
-    const maxDoctors = Object.keys(cardsData["doctors"]).map(key=>cardsData["doctors"][key]);
-    const services = cardsData["services"];
+    const maxDoctors = Object.keys(doctors.maxsaket).map(key=>doctors.maxsaket[key]);
 
     return(
         <>
