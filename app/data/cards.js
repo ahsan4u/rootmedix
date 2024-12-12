@@ -1,5 +1,4 @@
-export default {
-  treatments: [
+  export const treatments = [
     {
       name: "Cardiology",
       img: "/img/treatment/cardiology.png",
@@ -55,9 +54,9 @@ export default {
       img: "/img/treatment/neorology.png",
       link: "/treatments/cardiology"
     }
-  ],
+  ]
 
-  cardiology: [
+  export const cardiology = [
     {
       name: "ASD",
       info: "Atrial Septal Defect",
@@ -93,9 +92,10 @@ export default {
       info: "Atrial Septal Defect",
       img: "/img/asd.png"
     }
-  ],
+  ]
 
-  doctors: {
+  export const doctors = {
+    maxsaket: {
     anandkumar: {
       img: "/img/doctors/AnandKumar.png",
       name: "Dr. Anant Kumar",
@@ -673,8 +673,20 @@ export default {
       link: "/maxsaket/doctors/peushsahni"
     },
   },
+    blkmax: {
+      ramjimehrotra: {
+        img: "/img/doctors/ramjimehrotra.png",
+        name: "Dr. Ramji Mehrotra",
+        type: "Vice Chairman",
+        speciality: "Cardiac Sciences",
+        experiance: "Experience: 27+ Years",
+        hospital: "BLK MX Hospital, Delhi",
+        link: "/blkmax/doctors/ramjimehrotra"
+      },
+    },
+  }
 
-  hospitals: [
+  export const hospitals = [
     {
       name: "Max Hospital, Saket",
       img: "/img/hospital/max-saket.jpg",
@@ -699,9 +711,9 @@ export default {
       place: "New Delhi",
       link: "/hospitals/aakash"
     }
-  ],
+  ]
   
-  services: [
+  export const services = [
     {
       name: "Talk To Expert",
       img: "/img/services/talkToExpert.png"
@@ -719,4 +731,3 @@ export default {
       img: "/img/services/second-openion.png"
     }
   ]
-}

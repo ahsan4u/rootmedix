@@ -1,9 +1,9 @@
-import cardsdata from "../data/cards";
+import {doctors} from "../data/cards";
 import DoctorCard from "../components/DoctorCard"
 import { Link } from "@remix-run/react";
 
 export default function Doctors() {
-    const newData = Object.keys(cardsdata["doctors"]).map(key=>cardsdata["doctors"][key]);
+    const newData = Object.keys(doctors.maxsaket).map(key=>doctors.maxsaket[key]);
     return(<>
     <div className="pb-10">
 

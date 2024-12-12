@@ -5,7 +5,7 @@ import HospitalCard from '../components/HospitalCard';
 import ServiceCard from '../components/ServiceCard';
 import DoctorCard from '../components/DoctorCard';
 import UserInfo from '../components/UserInfo';
-import data from '../data/cards';
+import {treatments, hospitals, doctors, services} from '../data/cards';
 import { useEffect, useState } from 'react';
 
 
@@ -18,10 +18,7 @@ export const meta = () => {
 
 export default function Home() {
   const [isMobile, setMobile] = useState(false);
-  const bestTreatments = data["treatments"]
-  const hospitals = data["hospitals"];
-  const services = data["services"];
-  const bestDoctors = Object.keys(data["doctors"]).map(key=>data["doctors"][key]);
+  const bestDoctors = Object.keys(doctors.maxsaket).map(key=>doctors.maxsaket[key]);
 
   useEffect(()=> {
     window.innerWidth < 640? setMobile(true):setMobile(false);
@@ -30,7 +27,7 @@ export default function Home() {
   return (<>
     <Poster/>
     <div className="mt-1 mb-6 lg:mt-10 lg:mb-14">
-       <ScrollDiv heading={'Browse by Specialist'} cardsData={bestTreatments} link={'/our-treatments'} Card={TreatmentCard} count={6} seeMore={true} scroll={true}/>    
+       <ScrollDiv heading={'Browse by Specialist'} cardsData={treatments} link={'/our-treatments'} Card={TreatmentCard} count={6} seeMore={true} scroll={true}/>    
     </div>
     <div className="mt-4 mb-6 lg:mt-10 lg:mb-14">
         <ScrollDiv heading={'Best Hospitals'} cardsData={hospitals} Card={HospitalCard} count={4}/>
