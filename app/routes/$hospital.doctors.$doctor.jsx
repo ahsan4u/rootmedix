@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import doctorsProfileData from "../data/doctorsProfileData";
+import {maxsaket} from "../data/doctorsProfileData";
 import {doctors, treatments, services} from "../data/cards"
 import ServiceCard from "../components/ServiceCard";
 import TreatmentCard from "../components/TreatmentCard"
@@ -19,7 +19,7 @@ export default  function DoctorsProfile() {
     })
     
     const {hospital, doctor} = useParams();
-    const doctorProfile = doctorsProfileData[hospital][doctor];
+    const doctorProfile = maxsaket[doctor];
     const doctorIntro = doctors[hospital][doctor];
 
     function popupWindow() {
