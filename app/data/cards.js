@@ -645,15 +645,6 @@
       hospital: "Max Hospital Saket, Delhi",
       link: "/maxsaket/doctors/shwetasingh"
     },
-    vipulgautam: {
-      img: "/img/doctors/vipulgautam.png",
-      name: "Dr. Vipul Gautam",
-      type: "Consultant",
-      speciality: "Liver and Biliary Sciences",
-      experiance: "Experience: 10+ Years",
-      hospital: "Max Hospital Saket, Delhi",
-      link: "/maxsaket/doctors/vipulgautam"
-    },
     jagadeeshkrishnamurthy: {
       img: "/img/doctors/jagadeeshkrishnamurthy.png",
       name: "Dr. Jagadeesh Krishnamurthy",

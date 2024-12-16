@@ -182,8 +182,8 @@ function Navbar() {
             </div>
 
             <ol ref={searchSuggestionRef} className="fixed lg:top-[55px] top-[120px] top lg:right-4 rounded-xl bg-[#3a3a3a] text-white z-50 lg:w-80 w-[96vw] ml-[2vw] lg:max-h-[205px] max-h-[280px] transition-all duration-500 overflow-y-scroll">
-                {data.map((item, idx)=>(<div className='flex justify-between items-center hover:bg-gray-800 lg:py-2 py-3 border-b border-dotted border-gray-500 pl-2'>
-                    <li key={idx} onClick={()=>redirectTo(item.link)}>{item.name}</li>
+                {data.map((item, idx)=>(<div key={idx} className='flex justify-between items-center hover:bg-gray-800 lg:py-2 py-3 border-b border-dotted border-gray-500 pl-2'>
+                    <li onClick={()=>redirectTo(item.link)}>{item.name}</li>
                     {isLoading && <Suspense fallback={<div>.</div>} ><Lottie animationData={loadingEffect} className="w-8 mr-2"/></Suspense>}
                 </div>))}
             </ol>
