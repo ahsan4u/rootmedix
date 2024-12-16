@@ -18,7 +18,7 @@ export const meta = () => {
 
 export default function Home() {
   const [isMobile, setMobile] = useState(false);
-  const bestDoctors = Object.keys(doctors.maxsaket).map(key=>doctors.maxsaket[key]);
+  const bestDoctors = Object.keys(doctors.maxsaket).map(key=>doctors.maxsaket[key]).slice(0, 12);
 
   useEffect(()=> {
     window.innerWidth < 640? setMobile(true):setMobile(false);

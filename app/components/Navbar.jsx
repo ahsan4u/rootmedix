@@ -1,13 +1,19 @@
-import React from 'react';
-import { Suspense } from 'react';
+import React, { Suspense } from 'react';
 const Lottie = React.lazy(() => import("lottie-react"));
 import menuEffect from '../animated Icon/menuV2.json';
+import loadingEffect from "../animated Icon/loading.json"
 import { useEffect, useRef, useState } from 'react';
-import { Link, useLocation } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
+import {doctors} from "../data/cards";
 
 function Navbar() {
+    const allDoctors = Object.keys(doctors.maxsaket).map(key=>doctors.maxsaket[key]);
+    const [data, setData] = useState([]);
+    const [isLoading, setLoading] = useState(false);
+    const navigate = useNavigate();
     const [isMobile, setMobile] = useState(false);
     const menubarRef = useRef(null);
+    const searchSuggestionRef = useRef(null);
     const mobileSearchIcon = useRef(null);
     const navBarToggle = useRef(null);
     const MobileSearchCont = useRef(null);
@@ -22,12 +28,29 @@ function Navbar() {
     },[]);
     
     useEffect(()=> {
+        // removing sideBar
         if(navBarToggle.current.style.opacity) {
             navBarToggle.current.style.width= '0';
             navBarToggle.current.style.opacity= null;
             document.querySelector('html').style.overflow = 'scroll';
             menubarRef.current.playSegments([40, 0], true);
         }
+        // removing search bar for mobile
+        if(window.innerWidth < 1000) {
+            MobileSearchContInputDiv.current.style.width = '46px';
+            MobileSearchContInputDiv.current.style.background = 'transparent';
+            MobileSearchContInput.current.style.display = 'none';
+            MobileSearchCont.current.style.cssText = 'top: 11px; right: 62px; transition: top 0.5s ease-in-out, right 0.2s ease-in-out;';
+            langSidebarDiv.current.style.width = '198px';
+            MobileSearchContButton.current.style.margin = null;
+            MobileSearchContButton.current.style.background = '#1c2842';
+            mobileSearchIcon.current.style.color = 'white';
+        }
+
+        // remove search's suggestions
+        MobileSearchContInput.current.value = "";
+        setLoading(false);
+        setData([]);
     },[location])
     
     useEffect(()=> {
@@ -82,7 +105,7 @@ function Navbar() {
                 }
 
                 inputDiv.style.width = '98vw';
-                inputDiv.style.background = 'rgb(82,82,82)';
+                inputDiv.style.background = '#3a3a3a';
                 langSidebarDiv.current.style.width = '143px';
                 MobileSearchCont.current.style.cssText = 'top: 68px; right: 1vw; transition: top 0.2s ease-in-out, right 0.5s ease-in-out;';
                 MobileSearchContButton.current.style.margin = '4px';
@@ -104,6 +127,27 @@ function Navbar() {
             }
         }
     }
+
+    function setSuggestions(e) {
+        let val = e.target.value.toLowerCase().replaceAll(".", "").replaceAll(" ", "").replace("doctor", "dr").replace("doctors", "dr");
+        let newData = allDoctors.filter(doctor=>{
+            if(doctor.name.toLowerCase().replace(".", "").replaceAll(" ", "").includes(val) || "doctors".includes(e.target.value) || "dr".includes(e.target.value)) {
+                return {name: doctor.name, id: doctor.link};
+            }
+        });
+        if(e.target.value == "") {
+            newData = [];
+        }
+        setData(newData);
+    }
+    
+    function redirectTo(link) {
+        MobileSearchContInput.current.value = "";
+        setData([]);
+        navigate(link);
+        setLoading(true);
+    }
+
     
     return (
         <>
@@ -120,6 +164,8 @@ function Navbar() {
                         <div ref={MobileSearchContInputDiv} className='lg:bg-white rounded-full overflow-hidden lg:w-full w-[46px] flex lg:justify-start justify-end items-center transition-all duration-500'>
                             <input type="text"
                             ref={MobileSearchContInput}
+                            onInput={setSuggestions}
+                            autoComplete='off'
                             name="search"
                             id="search"
                             placeholder="Search here..."
@@ -135,7 +181,14 @@ function Navbar() {
                 </div>
             </div>
 
-            <ol className='navBar lg:sticky md:sticky lg:top-0 z-50 flex justify-end lg:justify-start w-full'>
+            <ol ref={searchSuggestionRef} className="fixed lg:top-[55px] top-[120px] top lg:right-4 rounded-xl bg-[#3a3a3a] text-white z-50 lg:w-80 w-[96vw] ml-[2vw] lg:max-h-[205px] max-h-[280px] transition-all duration-500 overflow-y-scroll">
+                {data.map((item, idx)=>(<div className='flex justify-between items-center hover:bg-gray-800 lg:py-2 py-3 border-b border-dotted border-gray-500 pl-2'>
+                    <li key={idx} onClick={()=>redirectTo(item.link)}>{item.name}</li>
+                    {isLoading && <Suspense fallback={<div>.</div>} ><Lottie animationData={loadingEffect} className="w-8 mr-2"/></Suspense>}
+                </div>))}
+            </ol>
+
+            <ol className='navBar lg:sticky md:sticky lg:top-0 z-40 flex justify-end lg:justify-start w-full'>
                 <div ref={navBarToggle} style={{backdropFilter: 'blur(6px)'}} className='lg:flex lg:bg-[transparent] bg-[#525252] fixed z-50 top-16 lg:static w-0 overflow-hidden opacity-0 lg:opacity-100 lg:w-full h-full lg:h-auto lg:gap-2 lg:pl-2 lg:py-1 text-md lg:text-[16px] transition-all duration-500'>
                     <Link to='/'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px] cursor-pointer'>Home</li></Link>
                     <Link to='/our-doctors'><li className='text-white lg:text-black lg:bg-blue-200 hover:bg-gray-500 lg:hover:bg-blue-300 shadow-lg hover:scale-105 transition-all duration-500 px-7 xl:px-8 lg:px-5 rounded-full py-4 lg:py-[6px]'>Doctors</li></Link>
