@@ -5,7 +5,7 @@ import { Link, useParams } from "@remix-run/react";
 export default function Doctors() {
     const {doctor} = useParams();
     const newData = Object.keys(doctors.maxsaket).map(key=>doctors.maxsaket[key]).filter(item=> {
-        if(item.speciality.toLowerCase().includes(doctor)) return item;
+        if(item.speciality.toLowerCase().replaceAll(" ", "").includes(doctor)) return item;
     })
     return(<>
     <div className="pb-10">

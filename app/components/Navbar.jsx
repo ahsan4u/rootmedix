@@ -1,14 +1,12 @@
-import React, { Suspense } from 'react';
+import React from 'react';
 const Lottie = React.lazy(() => import("lottie-react"));
 import menuEffect from '../animated Icon/menuV2.json';
-import loadingEffect from "../animated Icon/loading.json"
 import { useEffect, useRef, useState } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import suggestionList from "../data/searchList";
 
 function Navbar() {
     const [data, setData] = useState([]);
-    const [isLoading, setLoading] = useState(false);
     const navigate = useNavigate();
     const [isMobile, setMobile] = useState(false);
     const menubarRef = useRef(null);
@@ -48,7 +46,6 @@ function Navbar() {
 
         // remove search's suggestions
         MobileSearchContInput.current.value = "";
-        setLoading(false);
         setData([]);
     },[location])
     
@@ -180,10 +177,9 @@ function Navbar() {
                 </div>
             </div>
 
-            <ol ref={searchSuggestionRef} className="fixed lg:top-[55px] top-[120px] top lg:right-4 rounded-xl bg-[#3a3a3a] text-white z-50 lg:w-80 w-[96vw] ml-[2vw] lg:max-h-[205px] max-h-[280px] transition-all duration-500 overflow-y-scroll">
-                {data.map((item, idx)=>(<div key={idx} className='flex justify-between items-center hover:bg-gray-800 lg:py-2 py-3 border-b border-dotted border-gray-500 pl-2'>
-                    <li onClick={()=>redirectTo(item.link)}>{item.name}</li>
-                    {isLoading && <Suspense fallback={<div>.</div>} ><Lottie animationData={loadingEffect} className="w-8 mr-2"/></Suspense>}
+            <ol ref={searchSuggestionRef} className="lg:absolute fixed lg:top-[55px] top-[120px] top lg:right-4 rounded-xl bg-[#3a3a3a] text-white z-50 lg:w-80 w-[96vw] ml-[2vw] lg:max-h-[205px] max-h-[280px] transition-all duration-500 overflow-y-scroll">
+                {data.map((item, idx)=>(<div>
+                    <li onClick={()=>redirectTo(item.link)} key={idx} className='hover:bg-gray-800 lg:py-2 py-3 border-b border-dotted border-gray-500 pl-2'>{item.name}</li>
                 </div>))}
             </ol>
 
