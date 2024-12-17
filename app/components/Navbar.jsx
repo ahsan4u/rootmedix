@@ -4,10 +4,9 @@ import menuEffect from '../animated Icon/menuV2.json';
 import loadingEffect from "../animated Icon/loading.json"
 import { useEffect, useRef, useState } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
-import {doctors} from "../data/cards";
+import suggestionList from "../data/searchList";
 
 function Navbar() {
-    const allDoctors = Object.keys(doctors.maxsaket).map(key=>doctors.maxsaket[key]);
     const [data, setData] = useState([]);
     const [isLoading, setLoading] = useState(false);
     const navigate = useNavigate();
@@ -130,9 +129,9 @@ function Navbar() {
 
     function setSuggestions(e) {
         let val = e.target.value.toLowerCase().replaceAll(".", "").replaceAll(" ", "").replace("doctor", "dr").replace("doctors", "dr");
-        let newData = allDoctors.filter(doctor=>{
-            if(doctor.name.toLowerCase().replace(".", "").replaceAll(" ", "").includes(val) || "doctors".includes(e.target.value) || "dr".includes(e.target.value)) {
-                return {name: doctor.name, id: doctor.link};
+        let newData = suggestionList.filter(item=>{
+            if(item.name.toLowerCase().replace(".", "").replaceAll(" ", "").includes(val) || "doctors".includes(e.target.value) || "dr".includes(e.target.value)) {
+                return {name: item.name, id: item.link};
             }
         });
         if(e.target.value == "") {
