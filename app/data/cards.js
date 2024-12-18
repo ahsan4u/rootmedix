@@ -679,7 +679,7 @@ export const blkmax = {
     name: "Dr. Shahid Mahdi",
     type: "Cardiologist",
     speciality: "Heart & Vascular Institute",
-    experiance: "Experience: 27+ Years",
+    experiance: "Experience: 24+ Years",
     hospital: "BLK MX Hospital, Delhi",
     link: "/blkmax/doctors/shahidmahdi"
   },

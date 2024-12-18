@@ -7384,6 +7384,56 @@
         description: "Yes, Dr. Mehrotra established pediatric cardiac surgery programs in renowned hospitals, and advanced treatment was provided to young hearts with congenital heart defects."
       }
     ],
+    shahidmahdi: [
+      {
+        subheading: "About Dr. Shahid Mahdi",
+        description: "Dr. Shahid Mahdi is a senior interventional cardiologist and specialist in cardiac intensive care with experience dating back over 24 years in cardiology. With an aptitude for diagnosing complex cardiac conditions, Dr. Mahdi cares for patients suffering from coronary artery disease, heart failure, and other serious cardiac emergencies. His personal touch and clinical acumen have marked him as one of the cardiac caregivers to be reckoned with."
+      },
+      {
+        subheading: "Work Experience",
+        description: "He is currently the Director of Heart Centre at BLK-Max Super Speciality Hospital, New Delhi. Mahdi has had extensive experience working within many prestigious institutions within his professional life and has gained vast experience in clinical and interventional cardiology. In this position, he handles highly advanced cardiovascular treatments while keeping high standards in patient care.",
+      },
+      {
+        subheading: "Areas of Interest",
+        description: "The wide experience area of Dr. Mahdi includes cardiac interventional and therapeutic procedures like coronary artery disease, heart valve repair and replacement, coronary angioplasty and stenting, coronary artery bypass grafting, aortic aneurysm repair, and heart failure management. This is not only inclusive but also limited to the cardiac interventions, with minimal access as well. He is a person with extensive skills with outstanding results in traditional and minimal access cardiac interventions."
+      },
+      {
+        subheading: "Education & Training",
+        list: [
+          {
+            name: "MBBS",
+            content: "Dr. Mahdi has graduated from the first medical degree that lays a very strong foundation in medicine."
+          },
+          {
+            content: "DNB (Diplomate of National Board), For training in cardiology."
+          },
+          {
+            content: "Fellowship in Cardiology, This is in Singapore General Hospital in Singapore, where he enhanced his skills in advanced cardiac procedures and the care of critically ill patients."
+          },
+        ]
+      },
+      {
+        subheading: "Frequently Asked Questions",
+        miniheading: "Q 1: What kind of heart conditions does Dr. Mahdi treat?",
+        description: "Dr. Mahdi can treat heart conditions ranging from blocked arteries to heart failure and failing heart valves. He mainly does prevention so that the problem doesn't get worse, as well as doing procedures like angioplasty and bypass surgery."
+      },
+      {
+        miniheading: "Q 2: How does Dr. Mahdi address an emergency heart situation?",
+        description: "He makes rapid responses in cases of emergencies. BLK-Max provides him with a team as well as equipment, which means that patients get prompt, effective treatment, whether it's about a heart attack or another dangerous heart condition."
+      },
+      {
+        miniheading: "Q 3: What can I expect if I need to undergo heart valve surgery?",
+        description: "Dr. Mahdi will determine the best course of action for you—sometimes, instead of a replacement valve, a valve can be repaired. He utilizes as many minimally invasive techniques as possible, meaning smaller incisions, a quicker recovery, and less discomfort."
+      },
+      {
+        miniheading: "Q 4: Are there plans for Dr. Mahdi to assist with my treatment if I have advanced heart failure?",
+        description: "Yes, he is well experienced in treating severe heart failure, including heart transplants. He will guide you through all the steps and shall discuss the best management or treatment options for your condition if you are a candidate."
+      },
+      {
+        miniheading: "Q 5: Does Dr. Mahdi give advice on lifestyle changes for better heart health?",
+        description: "Definitely! Dr. Mahdi is a believer in the lifestyle choice power, so therefore he provides nearly individualized advice on diet, exercise, and other healthy habits. He wants to treat patients with heart conditions but also prevent them."
+      }
+    ],
     dddd: [
       {
         subheading: "",
@@ -7503,7 +7553,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -7643,7 +7693,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -7783,7 +7833,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -7923,7 +7973,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -8063,7 +8113,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -8203,7 +8253,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -8343,7 +8393,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -8483,7 +8533,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -8623,7 +8673,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -8763,7 +8813,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -8903,7 +8953,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -9043,7 +9093,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -9183,7 +9233,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -9323,7 +9373,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -9463,7 +9513,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -9603,7 +9653,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -9743,7 +9793,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -9883,7 +9933,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -10023,7 +10073,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -10163,7 +10213,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -10303,7 +10353,7 @@
         ]
       },
       {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
@@ -10443,147 +10493,7 @@
         ]
       },
       {
-        subheading: "",
-        miniheading: "",
-        description: ""
-      },
-      {
-        miniheading: "",
-        description: ""
-      },
-      {
-        miniheading: "",
-        description: ""
-      },
-      {
-        miniheading: "",
-        description: ""
-      },
-      {
-        miniheading: "",
-        description: ""
-      }
-    ],
-    dddd: [
-      {
-        subheading: "",
-        description: ""
-      },
-      {
-        subheading: "",
-        miniheading: "",
-        list: [
-          {
-            content: ""
-          },
-          {
-            content: ""
-          },
-          {
-            content: ""
-          },
-          {
-            content: ""
-          },
-          {
-            content: ""
-          },
-          {
-            content: ""
-          },
-        ]
-      },
-      {
-        subheading: "",
-        list: [
-          {
-            content: ""
-          },
-          {
-            content: ""
-          },
-          {
-            content: ""
-          },
-          {
-            content: ""
-          },
-        ]
-      },
-      {
-        subheading: "",
-        miniheading: "",
-        list: [
-          {
-            name: "",
-            content: ""
-          },
-          {
-            name: "",
-            content: ""
-          },
-          {
-            name: "",
-            content: ""
-          },
-          {
-            name: "",
-            content: ""
-          },
-          {
-            name: "",
-            content: ""
-          },
-          {
-            name: "",
-            content: ""
-          },
-          {
-            name: "",
-            content: ""
-          },
-          {
-            name: "",
-            content: ""
-          },
-          {
-            name: "",
-            content: ""
-          },
-        ]
-      },
-      {
-        subheading: "",
-        miniheading: "",
-        list: [
-          {
-            content: ""
-          },
-          {
-            content: ""
-          },
-          {
-            content: ""
-          },
-          {
-            content: ""
-          },
-          {
-            content: ""
-          },
-          {
-            content: ""
-          },
-          {
-            content: ""
-          },
-          {
-            content: ``
-          },
-        ]
-      },
-      {
-        subheading: "",
+        subheading: "Frequently Asked Questions",
         miniheading: "",
         description: ""
       },
