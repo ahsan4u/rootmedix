@@ -1,6 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import {maxsaket} from "../data/doctorsProfileData";
-import {doctors, treatments, services} from "../data/cards"
+import {treatments, services} from "../data/cards"
 import ServiceCard from "../components/ServiceCard";
 import TreatmentCard from "../components/TreatmentCard"
 import ScrollDiv from "../components/ScrollDiv";
@@ -11,6 +10,8 @@ export default  function DoctorsProfile() {
     const popupForm = useRef(null);
     const aboutRef = useRef(null);
     const doctorImgRef = useRef(null);
+    const [doctorIntro, setDoctorIntro] = useState([]);
+    const [doctorProfile, setDoctorProfile] = useState([]);
     const [isMobile600, setMobile600] = useState(false);
     const [isMobile1000, setMobile1000] = useState(false);
     useEffect(()=> {
@@ -19,9 +20,11 @@ export default  function DoctorsProfile() {
     })
     
     const {hospital, doctor} = useParams();
-    const doctorProfile = maxsaket[doctor];
-    const doctorIntro = doctors[hospital][doctor];
-
+    useEffect(() => {
+        import("../data/cards").then((module) => setDoctorIntro(module[hospital][doctor]));
+        import("../data/doctorsProfileData").then((module) => setDoctorProfile(module[hospital][doctor]));
+    }, []);
+    
     function popupWindow() {
         if(!popupForm.current.style.opacity) {
             popupForm.current.style.opacity= '1';

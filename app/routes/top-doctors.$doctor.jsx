@@ -1,10 +1,10 @@
-import { doctors } from "../data/cards";
+import { blkmax, maxsaket } from "../data/cards";
 import DoctorCard from "../components/DoctorCard"
 import { Link, useParams } from "@remix-run/react";
 
 export default function Doctors() {
     const {doctor} = useParams();
-    const newData = Object.keys(doctors.maxsaket).map(key=>doctors.maxsaket[key]).filter(item=> {
+    const newData = Object.keys({...blkmax,...maxsaket}).map(key=>({...blkmax,...maxsaket}[key])).filter(item=> {
         if(item.speciality.toLowerCase().replaceAll(" ", "").includes(doctor)) return item;
     })
     return(<>

@@ -1,4 +1,4 @@
-import { doctors } from "./cards"
+import { maxsaket, blkmax } from "./cards"
 export default [
     {
         name: "Top Doctors For Cardiolog",
@@ -40,12 +40,12 @@ export default [
         name: "Top Hospitals In India",
         link: "/our-hospitals"
     },
-    ...(Object.keys(doctors.maxsaket).map(key=>doctors.maxsaket[key])),
-
     {
         name: "Treatments",
         link: "/our-treatments"
     },
+    ...(Object.keys(maxsaket).map(key=>maxsaket[key])),
+    ...(Object.keys(blkmax).map(key=>blkmax[key])),
     {
         name: "Max Saket Hospital New Delhi",
         link: "/hospitals/maxsaket"

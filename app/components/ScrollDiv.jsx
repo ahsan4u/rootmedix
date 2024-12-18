@@ -10,6 +10,8 @@ function ScrollDiv({heading, cardsData, Card, link,  count, seeMore, scroll}) {
 
     useEffect(()=> {
         treatmentsRef.current.forEach((treatmentCard)=> {
+            treatmentCard.style.marginLeft = `0`;
+            treatmentCard.style.marginRight = `0`;
             const scrollCont = cardsContainer.current.offsetWidth;
             let margin = 0;
             if(scrollCont < 700) {
@@ -66,7 +68,7 @@ function ScrollDiv({heading, cardsData, Card, link,  count, seeMore, scroll}) {
                             key={idx}
                             to={cardData.link}
                             ref={elmnt=>treatmentsRef.current[idx]=elmnt}
-                            className="snap-start hover:scale-105 transition-all duration-500"
+                            className="snap-start lg:mx-10 mx-5 hover:scale-105 transition-all duration-300"
                         >
                         <Card data={cardData}/>
                         </Link>

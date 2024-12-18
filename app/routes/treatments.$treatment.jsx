@@ -2,10 +2,10 @@ import { Link } from 'react-router-dom';
 import ScrollDiv from '../components/ScrollDiv';
 import DoctorCard from '../components/DoctorCard';
 import ServiceCard from '../components/ServiceCard';
-import {cardiology, doctors, services} from '../data/cards';
+import {cardiology, maxsaket, services} from '../data/cards';
 
 function InTreatment() {
-    const maxDoctors = Object.keys(doctors.maxsaket).map((key)=> doctors.maxsaket[key]);
+    const maxDoctors = Object.keys(maxsaket).map((key)=> maxsaket[key]);
 
     return (
         <>

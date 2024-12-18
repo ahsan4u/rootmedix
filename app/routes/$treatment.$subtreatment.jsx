@@ -1,4 +1,4 @@
-import {doctors, services}   from "../data/cards"
+import {maxsaket, services}   from "../data/cards"
 import React       from "react";
 import UserInfo    from "../components/UserInfo";
 import ScrollDiv   from '../components/ScrollDiv';
@@ -9,7 +9,7 @@ import { useParams } from "@remix-run/react";
 function TreatmentPage() {
     const {treatment, subtreatment} = useParams();
     console.log(`Treatment: ${treatment} & SubTreatment: ${subtreatment}`);
-    const maxDoctors = Object.keys(doctors.maxsaket).map(key=>doctors.maxsaket[key]);
+    const maxDoctors = Object.keys(maxsaket).map(key=>maxsaket[key]);
 
     return(
         <>

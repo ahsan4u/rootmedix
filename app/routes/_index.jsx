@@ -5,7 +5,7 @@ import HospitalCard from '../components/HospitalCard';
 import ServiceCard from '../components/ServiceCard';
 import DoctorCard from '../components/DoctorCard';
 import UserInfo from '../components/UserInfo';
-import {treatments, hospitals, doctors, services} from '../data/cards';
+import {treatments, hospitals, maxsaket, services} from '../data/cards';
 import { useEffect, useState } from 'react';
 
 
@@ -18,7 +18,7 @@ export const meta = () => {
 
 export default function Home() {
   const [isMobile, setMobile] = useState(false);
-  const bestDoctors = Object.keys(doctors.maxsaket).map(key=>doctors.maxsaket[key]).slice(0, 12);
+  const bestDoctors = Object.keys(maxsaket).map(key=>maxsaket[key]).slice(0, 12);
 
   useEffect(()=> {
     window.innerWidth < 640? setMobile(true):setMobile(false);
