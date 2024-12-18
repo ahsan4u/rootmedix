@@ -141,7 +141,6 @@ function Navbar() {
         MobileSearchContInput.current.value = "";
         setData([]);
         navigate(link);
-        setLoading(true);
     }
 
     
@@ -178,9 +177,7 @@ function Navbar() {
             </div>
 
             <ol ref={searchSuggestionRef} className="lg:absolute fixed lg:top-[55px] top-[120px] top lg:right-4 rounded-xl bg-[#3a3a3a] text-white z-50 lg:w-80 w-[96vw] ml-[2vw] lg:max-h-[205px] max-h-[280px] transition-all duration-500 overflow-y-scroll">
-                {data.map((item, idx)=>(<div>
-                    <li onClick={()=>redirectTo(item.link)} key={idx} className='hover:bg-gray-800 lg:py-2 py-3 border-b border-dotted border-gray-500 pl-2'>{item.name}</li>
-                </div>))}
+                {data.map((item, idx)=>(<li  key={idx} onClick={()=>redirectTo(item.link)} className='hover:bg-gray-800 lg:py-2 py-3 border-b border-dotted border-gray-500 pl-2'>{item.name}</li>))}
             </ol>
 
             <ol className='navBar lg:sticky md:sticky lg:top-0 z-40 flex justify-end lg:justify-start w-full'>

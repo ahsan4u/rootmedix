@@ -141,23 +141,23 @@
       },
       {
         subheading: "Frequently Asked Question",
-        miniheading: "Where is Dr. Anant Kumar currently working?",
+        miniheading: "Q. 1: Where is Dr. Anant Kumar currently working?",
         description: "He practices at Max Hospital, Saket Complex, and Max Hospital, Vaishali. He holds the position of Head at the departments of Urology, Renal Transplant, and Robotic Surgery."
       },
       {
-        miniheading: "What is Dr. Anant Kumar's specialty?",
+        miniheading: "Q. 2: What is Dr. Anant Kumar's specialty?",
         description: "Dr. Kumar is highly experienced in performing kidney transplantation, robotic-assisted urological surgeries, laparoscopic urology, uro-oncology, laser prostate surgery, and reconstructive urology."
       },
       {
-        miniheading: "How many kidneys has Dr. Anant Kumar transplanted?",
+        miniheading: "Q. 3: How many kidneys has Dr. Anant Kumar transplanted?",
         description: "Over 30 years, she has performed more than 3,500 kidney transplants."
       },
       {
-        miniheading: "What are the new surgical techniques done by Dr. Anant Kumar?",
+        miniheading: "Q. 4: What are the new surgical techniques done by Dr. Anant Kumar?",
         description: "The surgical techniques mainly adopted by Dr. Kumar are robotic-assisted surgeries, laparoscopic donor nephrectomy, and laser prostate surgeries that include HOLEP with Lumenis machines."
       },
       {
-        miniheading: "How many years is it for Dr. Anant Kumar to conduct robotic surgeries?",
+        miniheading: "Q. 5: How many years is it for Dr. Anant Kumar to conduct robotic surgeries?",
         description: "Dr. Kumar has over 6 years' experience of robotic-assisted surgery, with more than 500 successful robot procedures performed on patients."
       },
     ],
@@ -266,23 +266,23 @@
       },
       {
         subheading: "Frequently Asked Questions",
-        miniheading: "What are Dr. Kumud Rai’s specialties?",
+        miniheading: "Q. 1: What are Dr. Kumud Rai’s specialties?",
         description: "Dr. Rai specializes in Vascular and Endovascular Surgery, with expertise in Aortic Aneurysm Repair, Peripheral Bypass Surgery, Varicose Veins Treatment, and Carotid Endarterectomy."
       },
       {
-        miniheading: "What is the process for booking an appointment with Dr. Kumud Rai?",
+        miniheading: "Q. 2: What is the process for booking an appointment with Dr. Kumud Rai?",
         description: "You can book an appointment with Dr. Kumud Rai by calling +91 92688 80303. He consults at Max Super Speciality Hospital locations in Saket, Gurgaon, and Patparganj."
       },
       {
-        miniheading: "Which notable awards has Dr. Kumud Rai received?",
+        miniheading: "Q. 3: Which notable awards has Dr. Kumud Rai received?",
         description: "Dr. Rai has been awarded the Sena Medal by the President of India for his services during the Kargil War. He has also received the Pioneer in Vascular Surgery Award (2015) and the Presidential Citation Award from the Society for Vascular Surgery (2015)."
       },
       {
-        miniheading: "What are some of the key procedures Dr. Kumud Rai performs?",
+        miniheading: "Q. 4: What are some of the key procedures Dr. Kumud Rai performs?",
         description: "Dr. Rai performs a variety of vascular procedures, including Aortic Aneurysm Repair, Peripheral Bypass Surgery, Varicose Veins Treatment (Laser & RFA), dialysis Access Procedures, and Carotid Endarterectomy."
       },
       {
-        miniheading: "What is EVAR, and does Dr. Kumud Rai perform it?",
+        miniheading: "Q. 5: What is EVAR, and does Dr. Kumud Rai perform it?",
         description: "EVAR stands for Endovascular Aneurysm Repair, a minimally invasive procedure to treat aortic aneurysms. Dr. Rai is highly skilled in performing EVAR, along with other complex vascular surgeries."
       },
     ],
@@ -349,23 +349,23 @@
       },
       {
         subheading: "Frequently Asked Questions",
-        miniheading: "To which center does Dr. Vineet Arya report?",
+        miniheading: "Q. 1: To which center does Dr. Vineet Arya report?",
         description: "Kalpavriksh Super Speciality Center, Dwarka, Delhi, and Max Super Speciality Hospital, Saket East Wing, Delhi."
       },
       {
-        miniheading: "What specialities does Dr. Vineet Arya practice?",
+        miniheading: "Q. 2: What specialities does Dr. Vineet Arya practice?",
         description: "Dr. Arya is an expert in vascular surgery and treatment of arterial thrombosis, brain aneurysms, cerebrovascular disorders, DVT, etc."
       },
       {
-        miniheading: "Since when has Dr. Vineet Arya been practicing?",
+        miniheading: "Q. 3: Since when has Dr. Vineet Arya been practicing?",
         description: "He has 17 years of practice, of which he has been a specialist in the area of vascular surgery for 10 years."
       },
       {
-        miniheading: "Where did Dr. Vineet Arya do his MBBS?",
+        miniheading: "Q. 4: Where did Dr. Vineet Arya do his MBBS?",
         description: "MBBS, MS in General Surgery from the University of Delhi. DNB Peripheral Vascular Surgery from Sir Ganga Ram Hospital, New Delhi."
       },
       {
-        miniheading: "Does Dr. Vineet Arya treat Deep Vein Thrombosis (DVT)?",
+        miniheading: "Q. 5: Does Dr. Vineet Arya treat Deep Vein Thrombosis (DVT)?",
         description: "Dr. Arya does treat DVT as part of his practice."
       },
     ],
@@ -499,23 +499,23 @@
       },
       {
         subheading: "Frequently Asked Questions",
-        miniheading: "Which field has Dr. Viveka Kumar specialized in specifically?",
+        miniheading: "Q. 1: Which field has Dr. Viveka Kumar specialized in specifically?",
         description: "Dr. Kumar is an interventional cardiologist with expertise in cardiac electrophysiology and structural heart disease. He has experience in complex angioplasties, pacemaker implantation, and TAVI."
       },
       {
-        miniheading: "What is the procedure to book an appointment with Dr. Viveka Kumar?",
+        miniheading: "Q. 2: What is the procedure to book an appointment with Dr. Viveka Kumar?",
         description: "You can book an appointment with Dr. Viveka Kumar at Max Super Speciality Hospital, Saket (Smart) or Max Super Speciality Hospital, Saket by calling +917860898936."
       },
       {
-        miniheading: "What procedures does Dr. Viveka Kumar perform?",
+        miniheading: "Q. 3: What procedures does Dr. Viveka Kumar perform?",
         description: "Dr. Kumar performs various cardiac procedures, including TAVI, complex coronary angioplasties, pacemaker and ICD implantation, valvuloplasty, and peripheral angioplasty."
       },
       {
-        miniheading: "Which notable awards have been awarded to Dr. Viveka Kumar?",
+        miniheading: "Q. 4: Which notable awards have been awarded to Dr. Viveka Kumar?",
         description: "Dr. Kumar has received several prestigious awards, such as the Chikitsa Ratna Award, Vidya Ratna Award, and the International Award of Excellence in Cardiology. The Government of Iraq also honored him for his contributions to cardiac care."
       },
       {
-        miniheading: "What is TAVI, and does Dr. Kumar perform it?",
+        miniheading: "Q. 5: What is TAVI, and does Dr. Kumar perform it?",
         description: "TAVI (Transcatheter Aortic Valve Implantation) is a minimally invasive procedure to replace a narrowed aortic valve. Dr. Kumar has extensive experience in performing TAVI and is highly regarded as an expert in this field."
       },
     ],
@@ -623,23 +623,23 @@
       },
       {
         subheading: "Frequently Asked Question",
-        miniheading: "What are Dr. Vivek Vasudeo's areas of expertise?",
+        miniheading: "Q. 1: What are Dr. Vivek Vasudeo's areas of expertise?",
         description: "Dr. Vivek Vasudeo is a uro-oncology and robotic surgeon with his interest mainly in complex surgery such as robot-assisted radical prostatectomy, partial nephrectomy, and cystectomy. He also does reconstructive urology and endourology."
       },
       {
-        miniheading: "Where does Dr. Vivek Vasudeo practice currently?",
+        miniheading: "Q. 2: Where does Dr. Vivek Vasudeo practice currently?",
         description: "He is currently practicing as a Consultant in Urology at Max Healthcare where he provides his expertise to urological surgeries with minimal invasive approach, which includes robotic-assisted surgery."
       },
       {
-        miniheading: "What is the type of surgeries that Dr. Vasudeo performs?",
+        miniheading: "Q. 3: What is the type of surgeries that Dr. Vasudeo performs?",
         description: "Amongst several surgeries, Dr. Vasudeo is specialized in surgeries like robot-assisted prostatectomy, nephrectomy, and cystectomy, besides advanced endourological procedures and reconstructive urology surgeries."
       },
       {
-        miniheading: "Does Dr. Vivek Vasudeo publish in various researches?",
+        miniheading: "Q. 4: Does Dr. Vivek Vasudeo publish in various researches?",
         description: "Yes, Dr. Vasudeo has published a number of research papers in national as well as international journals. He frequently presents his papers in leading medical conferences."
       },
       {
-        miniheading: "What are the different memberships of Dr. Vivek Vasudeo?",
+        miniheading: "Q. 5: What are the different memberships of Dr. Vivek Vasudeo?",
         description: "Dr. Vasudeo is a member of the following prestigious organizations: Urological Society of India (USI), North Zone USI (NZUSI), and Association of Surgeons of India (ASI)."
       },
     ],
@@ -791,23 +791,23 @@
       },
       {
         subheading: "Frequently Asked QuestionFrequently Asked Question",
-        miniheading: "What is Dr. Rohit Kaushal's specialty?",
+        miniheading: "Q. 1: What is Dr. Rohit Kaushal's specialty?",
         description: "The specialties of Dr. Kaushal include urology, kidney transplants, robotic surgeries, and laparoscopy and male sexual dysfunction and infertility, female urology, and endourology."
       },
       {
-        miniheading: "Currently, in which hospital is Dr. Rohit Kaushal practicing?",
+        miniheading: "Q. 2: Currently, in which hospital is Dr. Rohit Kaushal practicing?",
         description: "He is a Sr. Consultant to Max Healthcare and presents expertise in Urology, Robotic Surgery, and procedures of kidney transplants."
       },
       {
-        miniheading: "What kind of surgeries does Dr. Kaushal perform?",
+        miniheading: "Q. 3: What kind of surgeries does Dr. Kaushal perform?",
         description: "His major work includes kidney transplantation and all types of robotic surgery, a range of laparoscopic procedures. However, his special area of skills includes male infertility treatments and treatments concerned with andrology."
       },
       {
-        miniheading: "Is there some other medical work of Dr. Rohit Kaushal?",
+        miniheading: "Q. 4: Is there some other medical work of Dr. Rohit Kaushal?",
         description: "Dr. Kaushal has published vast research articles in national and international journals and also made regular international presentations."
       },
       {
-        miniheading: "What memberships does Dr. Rohit Kaushal hold?",
+        miniheading: "Q. 5: What memberships does Dr. Rohit Kaushal hold?",
         description: "The Dr. Kaushal is a life member of numerous large Medical societies like Urological Society of India (USI), American Urological Association (AUA), European Association of Urology (EAU) etc."
       },
     ],
@@ -897,23 +897,23 @@
       },
       {
         subheading: "Frequently Asked Questions",
-        miniheading: "What is the success rate of bone marrow transplants carried out by Dr. Rayaz Ahmed?",
+        miniheading: "Q. 1: What is the success rate of bone marrow transplants carried out by Dr. Rayaz Ahmed?",
         description: "So far, Dr. Ahmed has managed to do over 1,000 bone marrow transplants with a very good success rate for autologous and allogeneic transplants. Results vary depending on patient conditions and type of transplant."
       },
       {
-        miniheading: "What cancers are treated by Dr. Rayaz Ahmed?",
+        miniheading: "Q. 2: What cancers are treated by Dr. Rayaz Ahmed?",
         description: "He specifically deals with blood-related cancers such as leukaemias: AML, ALL, CML, and CLL; lymphomas: Hodgkin and non-Hodgkin; and multiple myeloma, besides other diseases like aplastic anemia and thalassemia, among others."
       },
       {
-        miniheading: "Does Dr. Rayaz Ahmed give second opinions on cancer diagnosis?",
+        miniheading: "Q. 3: Does Dr. Rayaz Ahmed give second opinions on cancer diagnosis?",
         description: "Yes, Dr. Ahmed consults and provides second opinions, particularly on complex cases involving hematology and oncology. He is one of the most sought-after experts for interpreting complicated cases."
       },
       {
-        miniheading: "What is the difference between autologous and allogeneic stem cell transplants?",
+        miniheading: "Q. 4: What is the difference between autologous and allogeneic stem cell transplants?",
         description: "An autologous transplant involves using the patient's own stem cells, whereas an allogeneic transplant involves using stem cells from a donor. The donor could be a matched sibling or an unrelated donor. Dr. Ahmed has vast experience in managing both types of transplants."
       },
       {
-        miniheading: "How can I get a consultation with Dr. Rayaz Ahmed?",
+        miniheading: "Q. 5: How can I get a consultation with Dr. Rayaz Ahmed?",
         description: "Consultations can be directly booked through the oncology section by contacting the department of Max Healthcare via their appointment portal or dialing the oncology section. Medical records should be brought for a detailed consultation."
       }
     ],
@@ -1024,16 +1024,20 @@
       },
       {
         subheading: "Frequently Asked Questions",
-        miniheading: "Which is the specialty of surgical procedures for Dr. Pragnesh Desai?",
+        miniheading: "Q. 1: Which is the specialty of surgical procedures for Dr. Pragnesh Desai?",
         description: "Experiences include surgeries such as robotic and laparoscopic urology surgeries, as well as renal transplantation treatment for kidney and bladder cancer."
       },
       {
-        miniheading: "What are Dr. Desai's major research interests?",
+        miniheading: "Q. 2: What are Dr. Desai's major research interests?",
         description: "The main areas of interest of the professional involve renal transplant, prostate cancer, kidney/bladder cancer, and advanced robotic urological surgeries."
       },
       {
-        miniheading: "Where does Dr. Pragnesh Desai practice?",
-        description: "Currently, he is the Principal Consultant of Max Super Speciality Hospital, New Delhi at Saket. Q4: Is Dr. Desai an international member? A4: Yes, Dr. Desai is an active member of the American Urological Association and other national and international professional associations."
+        miniheading: "Q. 3: Where does Dr. Pragnesh Desai practice?",
+        description: "Currently, he is the Principal Consultant of Max Super Speciality Hospital, New Delhi at Saket."
+      },
+      {
+        miniheading: "Q. 4: Is Dr. Desai an international member?",
+        description: "Yes, Dr. Desai is an active member of the American Urological Association and other national and international professional associations."
       },
     ],
     mrigankshekharjha: [
@@ -1151,23 +1155,23 @@
       },
       {
         subheading: "Frequently Asked Questions",
-        miniheading: "Which is the area of expertise of Dr. Mrigank Shekhar Jha?",
+        miniheading: "Q. 1: Which is the area of expertise of Dr. Mrigank Shekhar Jha?",
         description: "Dr. Jha has expertise in kidney transplants, laparoscopic urological procedures, and andrology. Dr. Jha has experience in complex reconstructive urological surgeries."
       },
       {
-        miniheading: "Where does Dr. Jha work nowadays?",
+        miniheading: "Q. 2: Where does Dr. Jha work nowadays?",
         description: "Currently, Dr. Jha is the Director of Urology & Kidney Transplant at Max Healthcare, New Delhi."
       },
       {
-        miniheading: "What are the educational qualifications of Dr. Jha?",
+        miniheading: "Q. 3: What are the educational qualifications of Dr. Jha?",
         description: "MCh in Urology from SGPGIMS, Lucknow; MS in General Surgery from Lady Hardinge Medical College, New Delhi; and MBBS from Ranchi Institute of Medical Sciences, Ranchi"
       },
       {
-        miniheading: "Has Dr. Jha written research articles?",
+        miniheading: "Q. 4: Has Dr. Jha written research articles?",
         description: "Does Dr. Jha have published research papers? And what are the types of those studies? The categories of the studies were renal-sparing surgery, laparoscopic nephrectomy, and vascular access for dialysis patients."
       },
       {
-        miniheading: "What awards and recognitions has Dr. Jha?",
+        miniheading: "Q. 5: What awards and recognitions has Dr. Jha?",
         description: "The awards that he had achieved are second place in MBBS, first place in Best Video Competition at USICON 2007, and second place at NZ-USICON 2007."
       },
     ],
@@ -1255,19 +1259,19 @@
       },
       {
         subheading: "Frequently Asked Questions",
-        miniheading: "What surgical specialties is Dr. Samit Chaturvedi trained in?",
+        miniheading: "Q. 1: What surgical specialties is Dr. Samit Chaturvedi trained in?",
         description: "He is a specialist in urological surgeries, including robotic urology, laser surgery, and kidney transplant."
       },
       {
-        miniheading: "Where is Dr. Samit Chaturvedi currently working?",
+        miniheading: "Q. 2: Where is Dr. Samit Chaturvedi currently working?",
         description: "Dr. Chaturvedi is practicing at Max Healthcare. Both are available, one at Noida and the other at Saket East."
       },
       {
-        miniheading: "How does Dr. Chaturvedi approach robotic surgery?",
+        miniheading: "Q. 3: How does Dr. Chaturvedi approach robotic surgery?",
         description: "Dr. Chaturvedi is experienced with robotic surgery techniques that appear to provide easier precision, smaller access cuts, and the possibility of faster recovery from urological procedures."
       },
       {
-        miniheading: "Does Dr. Chaturvedi undertake some form of research?",
+        miniheading: "Q. 4: Does Dr. Chaturvedi undertake some form of research?",
         description: "Yes. Dr. Chaturvedi is an active researcher, with several papers presented at national and international conferences and more than 10 published in medical journals. Q5: What does Dr. Chaturvedi undertake to treat with laser surgery? A5: Dr. Chaturvedi conducts laser surgical procedures for kidney stone disease, bladder tumors, and enlarged prostate, among others, which are conditions that lend themselves to early recovery due to their almost negligible invasion."
       },
     ],
@@ -1330,19 +1334,19 @@
       },
       {
         subheading: "Frequently Inquired Questions",
-        miniheading: "What is Dr. Sandeep Batra's specialization?",
+        miniheading: "Q. 1: What is Dr. Sandeep Batra's specialization?",
         description: "Thoracic and breast cancer treatment aside, he has specialized in gastrointestinal, gynecologic, and uro-oncologic cancers."
       },
       {
-        miniheading: "Dr. Sandeep Batra completed his therapeutic instruction from where?",
+        miniheading: "Q. 2: Dr. Sandeep Batra completed his therapeutic instruction from where?",
         description: "He wrapped up his MBBS and MD from PGIMS, Rohtak, and picked up his DNB in Pharmaceutical and Therapeutic Oncology from the National Board of Examinations, Delhi"
       },
       {
-        miniheading: "What positions has Dr. Batra held in the past?",
+        miniheading: "Q. 3: What positions has Dr. Batra held in the past?",
         description: "He is a Senior Expert at BLK Super Forte Healing Center, Expert at Medanta, The Medicity, and Relate Specialist at Artemis Wellbeing Organized, Gurgaon."
       },
       {
-        miniheading: "For how long has Dr. Batra been practicing oncology?",
+        miniheading: "Q. 4: For how long has Dr. Batra been practicing oncology?",
         description: "With more than 14 years of experience in oncology, he has worked in a few of the most recognized healing centers in Delhi and Gurgaon."
       }
     ],
@@ -1443,23 +1447,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What is Dr. Nagender Sharma's specialty?",
+        miniheading: "Q. 1: What is Dr. Nagender Sharma's specialty?",
         description: "He treats a broad category of cancers, including breast cancer, lung (thoracic) cancer, gastrointestinal, liver, head & neck cancers, and gynecologic and urological cancers. He also meets very rare malignancies and cancers of unknown origin."
       },
       {
-        miniheading: "What are the advanced treatments that Dr. Sharma provides to the patients?",
+        miniheading: "Q. 2: What are the advanced treatments that Dr. Sharma provides to the patients?",
         description: "Currently, he renders high-tech treatments: immunotherapy, hormonal therapy, targeted therapies, and cancer vaccines. Such treatments help render treatment tailored according to individual needs."
       },
       {
-        miniheading: "Does Dr. Sharma contribute to cancer research?",
+        miniheading: "Q. 3: Does Dr. Sharma contribute to cancer research?",
         description: "Absolutely. Dr. Sharma is very deeply involved in cancer research. The doctor has been a co-principal investigator in international studies like TALAPRO-III and published papers on any topics ranging from breast cancer treatments to lung cancer therapies."
       },
       {
-        miniheading: "What makes Dr. Sharma so special when treating cancer?",
+        miniheading: "Q. 4: What makes Dr. Sharma so special when treating cancer?",
         description: "Dr. Sharma offers personalized, patient-centered care. His advanced experience with cancer therapy combined with his leadership in cutting-edge research ensures that he is able to provide the most individualized and impactful treatment plans."
       },
       {
-        miniheading: "Can he provide second opinions for complex cases of cancer?",
+        miniheading: "Q. 5: Can he provide second opinions for complex cases of cancer?",
         description: "Nobody would be better than Dr. Sharma for second opinions, especially the rare and more difficult cancers to treat, due to his experience in oncology."
       }
     ],
@@ -1569,23 +1573,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What does Dr. Vijay Kumar Chopra specialize in?",
+        miniheading: "Q. 1: What does Dr. Vijay Kumar Chopra specialize in?",
         description: "Dr. Vijay Kumar Chopra is a cardiac scientist, well equipped in the management of heart failure as well as interventional cardiology. He has good experience in complex procedures, including catheterization."
       },
       {
-        miniheading: "How many years of experience does Dr. Chopra hold?",
+        miniheading: "Q. 2: How many years of experience does Dr. Chopra hold?",
         description: "Practiced over 44 years of medicine as a cardiologist, including intense responsibility in organizing and managing cardiac care programs across India."
       },
       {
-        miniheading: "What are the honors/awards received by Dr. Vijay Kumar Chopra?",
+        miniheading: "Q. 3: What are the honors/awards received by Dr. Vijay Kumar Chopra?",
         description: "He has an international scholarship at Cleveland Clinic and was the founder president of the Heart Failure Association of India."
       },
       {
-        miniheading: "Where did Dr. Chopra obtain his medical education?",
+        miniheading: "Q. 4: Where did Dr. Chopra obtain his medical education?",
         description: "MBBS in 1972, MD in Medicine in 1976, and DM in Cardiology in 1979, Dr. Chopra"
       },
       {
-        miniheading: "Is Dr. Vijay Kumar Chopra a member of any professional bodies?",
+        miniheading: "Q. 5: Is Dr. Vijay Kumar Chopra a member of any professional bodies?",
         description: "Yes, He is an accepted Fellow of the Cardiological Society of India, American College of Cardiology, European Society of Cardiology, etc."
       }
     ],
@@ -1707,23 +1711,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What is beating heart surgery, and why is it important?",
+        miniheading: "Q. 1: What is beating heart surgery, and why is it important?",
         description: "Beating heart surgery alludes to coronary supply route bypass surgery in which the heart is not ceased or moderated by utilizing a heart-lung machine. In this method, the sum of complications made and the rate at which the patients recoup is minimized."
       },
       {
-        miniheading: "What are negligible benefits to cardiac surgeries?",
+        miniheading: "Q. 2: What are negligible benefits to cardiac surgeries?",
         description: "Negligible get-to-cardiac surgeries speak to strategies that are carried out by means of littler entry points that would, as far as anyone knows, minimize injury to the body in order to guarantee speedy recuperation. The conditions included mitral valve substitution (MVR) and closure of an atrial septal imperfection (ASD)."
       },
       {
-        miniheading: "Characterize an aortic aneurysm and its treatment",
+        miniheading: "Q. 3: Characterize an aortic aneurysm and its treatment",
         description: "Aortic aneurysm is an anomalous bulge in the divider of the aorta that, if it cracks, can be lethal. Dr. Sinha specializes in the repair of aortic aneurysms utilizing open and negligibly intrusive techniques."
       },
       {
-        miniheading: "What does Dr. Sinha do to guarantee victory in cardiac surgery?",
+        miniheading: "Q. 4: What does Dr. Sinha do to guarantee victory in cardiac surgery?",
         description: "He is an experienced specialist who applies progressed procedures such as add-up to blood vessel uniting in CABG and employs negligibly intrusive approaches to guarantee results of his patients are superior, with a shorter recuperation time."
       },
       {
-        miniheading: "What are the desires of a persistent patient for their postoperative recuperation after cardiac surgery?",
+        miniheading: "Q. 5: What are the desires of a persistent patient for their postoperative recuperation after cardiac surgery?",
         description: "Bounceback time depends upon the sort of surgery. For most of the surgical intercessions, a negligibly obtrusive approach guarantees a lesser healing center remain and less recuperation time. Dr. Sinha will closely take care of each of his patients amid the recuperation time."
       }
     ],
@@ -1822,23 +1826,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What are the regions of specialization of Dr. (Col) C.P. Roy?",
+        miniheading: "Q. 1: What are the regions of specialization of Dr. (Col) C.P. Roy?",
         description: "He has a specialization in cardiac sciences and is especially interested in practicing as a cardiologist and interventional cardiologist."
       },
       {
-        miniheading: "Where did Dr. Roy get his restorative education?",
+        miniheading: "Q. 2: Where did Dr. Roy get his restorative education?",
         description: "The MBBS and MD Dr. Roy hold are from Outfitted Powers Restorative College (AFMC), Pune, and DM (Cardiology) from PGI, Chandigarh."
       },
       {
-        miniheading: "What are the eminent commitments by Dr. Roy?",
+        miniheading: "Q. 3: What are the eminent commitments by Dr. Roy?",
         description: "Dr. Roy has been granted the Vishisht Seva Award by the President of India for his exceptional commitment toward the field of cardiology. He is an amazing academician with numerous inquiries about distributed to his credit."
       },
       {
-        miniheading: "Where has Dr. Roy worked before?",
+        miniheading: "Q. 4: Where has Dr. Roy worked before?",
         description: "Dr. Roy has prior been the Head of the Office of Restorative Instruction (Cardiology) and Teacher of Cardiology at AFMC, Pune. He was too a senior specialist at Escorts Heart Established, Unused Delhi."
       },
       {
-        miniheading: "What is your work depiction with Max Healthcare?",
+        miniheading: "Q. 5: What is your work depiction with Max Healthcare?",
         description: "He is a going-by specialist in cardiology at Max Healthcare."
       }
     ],
@@ -1917,23 +1921,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What are the heart conditions that Dr. H. K. Agarwal specializes in?",
+        miniheading: "Q. 1: What are the heart conditions that Dr. H. K. Agarwal specializes in?",
         description: "There are several types of heart conditions for which he has treated patients, like coronary artery disease and heart attacks, arrhythmias, and heart failure. Besides that, he does interventional procedures such as angiography and pacemaker implantation with high dexterity."
       },
       {
-        miniheading: "What is Angioplasty and how does Dr. H. K. Agarwal perform the angioplasty?",
+        miniheading: "Q. 2: What is Angioplasty and how does Dr. H. K. Agarwal perform the angioplasty?",
         description: "A form of angioplasty, the treatment involves opening up clogged arteries that let blood reach the heart. Angioplasty through the wrist is one type of transradial angioplasty, according to Dr. Agarwal, who says it is much less invasive and has faster recovery times for the patient."
       },
       {
-        miniheading: "How many years of experience does Dr. Agarwal have in dealing with emergency conditions like heart attacks?",
+        miniheading: "Q. 3: How many years of experience does Dr. Agarwal have in dealing with emergency conditions like heart attacks?",
         description: "Since more than 36 years of clinical experience, Dr. Agarwal has the utmost experience in primary angioplasty, which can be termed a life-saving intervention in patients who are suffering from heart attacks. His expertise would give the patient assured care at the right time in critical situations."
       },
       {
-        miniheading: "What does Dr. Agarwal propose for the management of chronic conditions of the heart?",
+        miniheading: "Q. 4: What does Dr. Agarwal propose for the management of chronic conditions of the heart?",
         description: "With Dr. Agarwal, one gets a tailor-made treatment plan for each patient consisting of all the clinical cardiology care. He stresses lifestyle changes, medications, and regular monitoring for even the most serious afflictions, such as hypertension, heart failure, or arrhythmias."
       },
       {
-        miniheading: "Does Dr. Agarwal do complex procedures like pacemaker implantation?",
+        miniheading: "Q. 5: Does Dr. Agarwal do complex procedures like pacemaker implantation?",
         description: "Yes, the doctor is really specialized in implanting a pacemaker. It is such a delicate procedure; he has really a lot of experience there. It is in managing irregular heart rhythms or slow heartbeats in patients."
       }
     ],
@@ -2036,23 +2040,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "Sorts of heart clutters Dr. Balbir Singh centers on",
+        miniheading: "Q. 1: Sorts of heart clutters Dr. Balbir Singh centers on",
         description: "The common mastery is basically all heart conditions, coronary supply route malady, myocardial dead tissue (heart assault), and heartbeat clutter (arrhythmias). Specialized at strategies counting, but not constrained to, angioplasty and stent arrangements, as well as pacemaker implantation."
       },
       {
-        miniheading: "What is interventional cardiology? What does Dr. Singh do for treatment of heart conditions?",
+        miniheading: "Q. 2: What is interventional cardiology? What does Dr. Singh do for treatment of heart conditions?",
         description: "Negligibly intrusive administration of heart maladies: Interventional cardiology: strategies carried out to open blocked supply routes, put stents, etc. Reestablishing an ordinary blood stream into the heart without open-heart surgery. Dr. Singh is one of the specialists included in strategies reestablishing an ordinary blood stream into the heart."
       },
       {
-        miniheading: "Administration of patients with an anomalous heartbeat?",
+        miniheading: "Q. 3: Administration of patients with an anomalous heartbeat?",
         description: "Dr. Singh is a cardiac electrophysiologist who analyzes and treats patients with arrhythmias or unpredictable pulses, utilizing the most recent medications such as pacemaker implantation or catheter removal. These mediations offer assistance, control the beat, and give a superior quality of life to the patient."
       },
       {
-        miniheading: "What approach does Dr. Singh attempt on quiet care?",
+        miniheading: "Q. 4: What approach does Dr. Singh attempt on quiet care?",
         description: "Dr. Singh accepts the patient-centered approach. He takes his time to discover out what's off-base with each persistent, clarifies all treatment choices in disentangled terms, and communicates his interest in negligibly intrusive medicines that permit for speedier recuperation and superior outcomes."
       },
       {
-        miniheading: "For how numerous and long has Dr. Singh been performing pacemaker implantations?",
+        miniheading: "Q. 5: For how numerous and long has Dr. Singh been performing pacemaker implantations?",
         description: "With more than three decades of honed encounters, Dr. Singh has superbly aced the pacemaker implantations and, in this manner, has encouraged various patients with heart cadence disarrays so they get the most progressed care."
       }
     ],
@@ -2145,23 +2149,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What are the vital specialties of Dr. Arvind M. Das?",
+        miniheading: "Q. 1: What are the vital specialties of Dr. Arvind M. Das?",
         description: "The prime regions of intrigue of Dr. Das are coronary angioplasty, cardiac electrophysiology, and complex gadget implantations like ICD and CRTD."
       },
       {
-        miniheading: "Where does Dr. Arvind M. Das work currently?",
+        miniheading: "Q. 2: Where does Dr. Arvind M. Das work currently?",
         description: "Dr. Das works at Max Medcentre, Panchsheel Stop, Max Healing Center, Saket, and Max Clinic, Gurgaon."
       },
       {
-        miniheading: "What is coronary angioplasty?",
+        miniheading: "Q. 3: What is coronary angioplasty?",
         description: "The handle of coronary angioplasty opens the blocked coronary supply routes and makes a difference, giving superior blood supply to the heart muscle."
       },
       {
-        miniheading: "Propose a few changes in way of life to anticipate heart diseases.",
+        miniheading: "Q. 4: Propose a few changes in way of life to anticipate heart diseases.",
         description: "Solid eating less, standard workouts, and such propensities other than smoking play an imperative part in avoiding heart disease."
       },
       {
-        miniheading: "What heart gadgets does Dr. Das implant?",
+        miniheading: "Q. 5: What heart gadgets does Dr. Das implant?",
         description: "He inserts gadgets like ICDs and CRTDs for extreme heart cadence clutter."
       }
     ],
@@ -2282,23 +2286,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "In what specialties is Dr. Rajneesh Malhotra a master?",
+        miniheading: "Q. 1: In what specialties is Dr. Rajneesh Malhotra a master?",
         description: "Cardiac surgeries, particularly in mechanical and negligibly obtrusive heart surgeries; He is moreover greatly wealthy in encounters with heart disappointment surgeries, heart transplants, ECMO, and LVAD procedures."
       },
       {
-        miniheading: "Where does Dr. Rajneesh Malhotra currently practice?",
+        miniheading: "Q. 2: Where does Dr. Rajneesh Malhotra currently practice?",
         description: "Dr. Malhotra is the Vice Chairman and Head of Cardiothoracic and Vascular Surgery at Max Healthcare."
       },
       {
-        miniheading: "What is automated cardiac surgery?",
+        miniheading: "Q. 3: What is automated cardiac surgery?",
         description: "It's a method that utilizes a few of the most advanced automated frameworks in cardiac surgery to perform heart surgeries with exceptionally tall exactness and much smaller entry points, making it a negligibly intrusive method in which patients recuperate rapidly."
       },
       {
-        miniheading: "What is Negligibly Obtrusive Coronary Supply Route Bypass Uniting (CABG)?",
+        miniheading: "Q. 4: What is Negligibly Obtrusive Coronary Supply Route Bypass Uniting (CABG)?",
         description: "Negligibly Obtrusive CABG is the strategy that permits bypassing the heart's blocked supply routes and diminishing the time for recuperation and after-surgery torment with negligible incisions."
       },
       {
-        miniheading: "What is ECMO in the treatment of heart surgery?",
+        miniheading: "Q. 5: What is ECMO in the treatment of heart surgery?",
         description: "ECMO stands for Additional bodily life-support procedure: oxygenates a patient's blood exterior his or her body and underpins briefly the heart and lungs amid a complex surgery or a short time later."
       }
     ],
@@ -2426,23 +2430,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What sorts of heart strategies does Dr. Mohan Bhargava perform?",
+        miniheading: "Q. 1: What sorts of heart strategies does Dr. Mohan Bhargava perform?",
         description: "He is specialized in coronary intercessions, non-coronary mediations, and fringe intercessions that include blockages of the heart and blood vessels utilizing negligibly intrusive techniques."
       },
       {
-        miniheading: "How numerous a long time has Dr. Mohan Bhargava practiced cardiology?",
+        miniheading: "Q. 2: How numerous a long time has Dr. Mohan Bhargava practiced cardiology?",
         description: "He has over 30 years of honed cardiology and essentially hones interventional cardiology. He has been a master in his care at Max Healthcare since 2008."
       },
       {
-        miniheading: "Where was Dr. Mohan Bhargava prepared for medicine?",
+        miniheading: "Q. 3: Where was Dr. Mohan Bhargava prepared for medicine?",
         description: "MBBS from MGIMS, Sevagram, Nagpur College; DNB by the National Board of Examinations; DM in Cardiology from G.B. Gasp Clinic, Delhi College; cooperations, moreover, from driving worldwide cardiology societies."
       },
       {
-        miniheading: "Which proficient cardiology social order is Dr. Mohan Bhargava a part of?",
+        miniheading: "Q. 4: Which proficient cardiology social order is Dr. Mohan Bhargava a part of?",
         description: "Dr. Bhargava is an individual of the American College of Cardiology (FACC), the Society of Cardiovascular Angiography and Intercessions (FSCAI), and the European Society of Cardiology (FESC), among numerous others."
       },
       {
-        miniheading: "Does Dr. Mohan Bhargava practice managing complicated heart-related disorders?",
+        miniheading: "Q. 5: Does Dr. Mohan Bhargava practice managing complicated heart-related disorders?",
         description: "Yes, Dr. Bhargava has involvement in dealing with all categories of heart clutter, counting complicated ones. His abilities in coronary mediations and other progressed cardiac methods guarantee that his patients get first-class treatment."
       }
     ],
@@ -2516,23 +2520,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What is Dr. Dagar's approach to complex congenital heart defects in children?",
+        miniheading: "Q. 1: What is Dr. Dagar's approach to complex congenital heart defects in children?",
         description: "Dr. Dagar is highly precise and individualized with every child's problem. The latest technology, innovative techniques, and modern medical technology are all used to ensure the best outcome in his patients. Experience has prepared him even to handle cases that would be considered impossible."
       },
       {
-        miniheading: "How many international patients has Dr. Dagar treated?",
+        miniheading: "Q. 2: How many international patients has Dr. Dagar treated?",
         description: "Dr. Dagar has more than one decade of practice experience in treating children from India and abroad and is well aware of the requirements of the international family, providing holistic care to ensure that patients receive smooth and quality health care services."
       },
       {
-        miniheading: "What is the advanced training background for Dr. Dagar?",
+        miniheading: "Q. 3: What is the advanced training background for Dr. Dagar?",
         description: "Dr. Dagar has completed his postgraduate training in GB Pant Hospital, Delhi, and the Great Ormond Street Hospital for Sick Children, London, where he has learned specialized techniques of critical life support and heart transplantation."
       },
       {
-        miniheading: "What are the specialized procedures that Dr. Dagar specializes in?",
+        miniheading: "Q. 4: What are the specialized procedures that Dr. Dagar specializes in?",
         description: "Neonatal and pediatric heart surgeries are the specialized areas of interest of Dr. Dagar, especially complex congenital heart defects as well as complex valve repairs to enhance the function of the heart in infants and children."
       },
       {
-        miniheading: "In what ways can Dr. Dagar's experience benefit children with extreme heart problems?",
+        miniheading: "Q. 5: In what ways can Dr. Dagar's experience benefit children with extreme heart problems?",
         description: "More than 15 years of devotion to pediatric cardiac care by Dr. Dagar can guarantee that knowledge and skills will keep rare or extreme heart conditions and contribute to surgical input, which can sometimes improve the short-term and long-term health."
       }
     ],
@@ -2647,23 +2651,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What is unique to Dr. Shrivastava's approach to cardiology?",
+        miniheading: "Q. 1: What is unique to Dr. Shrivastava's approach to cardiology?",
         description: "Dr. Shrivastava is focusing on non-invasive techniques, such as echocardiography, which gives a comprehensive heart assessment without requiring the invasive procedures that are typically performed. This ensures greater comfort and safety for his patients."
       },
       {
-        miniheading: "How long has Dr. Shrivastava worked in the discipline of non-invasive cardiology?",
+        miniheading: "Q. 2: How long has Dr. Shrivastava worked in the discipline of non-invasive cardiology?",
         description: "With more than 29 years in cardiology, Dr. Shrivastava has developed a comprehensive understanding of heart health, specializing in non-invasive techniques for exact diagnosis and effective treatment."
       },
       {
-        miniheading: "What area in cardiology does Dr. Shrivastava have special interest in?",
+        miniheading: "Q. 3: What area in cardiology does Dr. Shrivastava have special interest in?",
         description: "His main areas of expertise include transesophageal and 3D echocardiography, Doppler imaging, and stress echocardiography that allow him to assess the heart entirely without any kind of invasion."
       },
       {
-        miniheading: "Does the cardiologist Dr. Shrivastava win awards?",
+        miniheading: "Q. 4: Does the cardiologist Dr. Shrivastava win awards?",
         description: "Yes, Dr. Shrivastava has won a lot of prestigious awards, among them one for the Clinical Cardiologist of the Year and National Excellence Award, and has made an important contribution to cardiac care."
       },
       {
-        miniheading: "Is Dr. Shrivastava affiliated with professional cardiology societies?",
+        miniheading: "Q. 5: Is Dr. Shrivastava affiliated with professional cardiology societies?",
         description: "Dr. Shrivastava is also involved with other significant medical societies, like the Cardiological Society of India, and he is an International Fellow of the European Society of Cardiology, which reflects his commitment to the discipline."
       }
     ],
@@ -2770,23 +2774,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "How numerous zones of cardiology specialties are there in Dr. Salwan?",
+        miniheading: "Q. 1: How numerous zones of cardiology specialties are there in Dr. Salwan?",
         description: "My specialization is interventional cardiology; I do generally care for myocardial dead tissue, TAVI for basic heart infection, and complex coronary mediations. Her work would be towards patient-centered results and take after the universal guidelines in the administration of myocardial infarction."
       },
       {
-        miniheading: "What is the administration approach of Dr. Salwan for intense myocardial infarction?",
+        miniheading: "Q. 2: What is the administration approach of Dr. Salwan for intense myocardial infarction?",
         description: "Dr. Salwan is driving the Max MI Program. She takes after worldwide best hones to guarantee fast and successful reactions for patients in case of intense heart assaults with quick essential PCI methods and great door-to-balloon times."
       },
       {
-        miniheading: "What have the grants won by Dr. Salwan so far for her cardiology efforts?",
+        miniheading: "Q. 3: What have the grants won by Dr. Salwan so far for her cardiology efforts?",
         description: "Dr. Salwan was a beneficiary of a few grants, such as the Sunday Standard DEVI Grant for development and the Gen. R Thapar Gold Decoration for fabulousness in surgery. She has worldwide notoriety for her commitment to cardiac care."
       },
       {
-        miniheading: "What have been the commitments by Dr. Salwan towards cardiac inquire about and training?",
+        miniheading: "Q. 4: What have been the commitments by Dr. Salwan towards cardiac inquire about and training?",
         description: "Dr. Salwan is exceptionally effectively included in inquire about and has displayed at worldwide conferences. She is also a basic portion of educating programs, mentoring the following era of cardiologists into interventional and crisis cardiology."
       },
       {
-        miniheading: "What is Dr. Salwan's reasoning on quiet care?",
+        miniheading: "Q. 5: What is Dr. Salwan's reasoning on quiet care?",
         description: "Dr. Salwan accepts that outcome-driven, personalized care has been the center of her approach and accepts in moral, quality-driven approaches to treatment, leaning toward that patients are secure amid these medicines."
       }
     ],
@@ -2881,19 +2885,19 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What is the fundamental zone of specialization of Dr. Agarwal?",
+        miniheading: "Q. 1: What is the fundamental zone of specialization of Dr. Agarwal?",
         description: "Dr. Agarwal is an interventional cardiologist. He hones intense coronary disorders administration, counting essential angioplasty, complex coronary intercessions, and progress fringe vascular infection medications other than basic heart care."
       },
       {
-        miniheading: "What is Dr. Agarwal's approach to dealing with complex strategies in the heart?",
+        miniheading: "Q. 2: What is Dr. Agarwal's approach to dealing with complex strategies in the heart?",
         description: "The Specialist Agarwal takes a more personalized and outcome-oriented approach to complex heart strategies. He employs the most recent innovations and methods, counting rotational atherectomy and intravascular lithotripsy, with the point of optimizing results for each patient."
       },
       {
-        miniheading: "What commitments has Dr. Agarwal made to cardiology research?",
+        miniheading: "Q. 3: What commitments has Dr. Agarwal made to cardiology research?",
         description: "A few inquiries about trials have been conducted by Dr. Agarwal as the foremost agent and co-investigator. Most of the distributed articles and book commitments are with respects to progressed cardiac care. He coaches cardiology understudies, which also includes the development of the field."
       },
       {
-        miniheading: "Which heart conditions does Dr. Agarwal treat?",
+        miniheading: "Q. 4: Which heart conditions does Dr. Agarwal treat?",
         description: "Yes. Dr. Agarwal treats a wide range of heart conditions, counting intense coronary disorder, auxiliary heart malady, fringe vascular illness, and aneurysms. In expansion, he gives specialized cardiovascular care for patients with cancer and kidney disease."
       }
     ],
@@ -2984,23 +2988,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What is the specialty area of special interest of Dr. Rathi in cardiology?",
+        miniheading: "Q. 1: What is the specialty area of special interest of Dr. Rathi in cardiology?",
         description: "In particular, Dr. Rathi does interventional cardiology through the transradial approach in angioplasty. This specialist can handle complex coronary interventions like chronic total occlusion and left main stenosis. This specialist can treat all kinds of medical conditions with catheter-based techniques."
       },
       {
-        miniheading: "Does Dr. Rathi's application help his patients?",
+        miniheading: "Q. 2: Does Dr. Rathi's application help his patients?",
         description: `Yes, because Dr. Rathi's "The Heart App" helps patients detect the symptoms early before a heart attack occurs, thus enabling swift intervention. Working in remote locations, he has done with "Hriday Suraksha Abhiyan," he can provide a third of these populations with timely heart attack care.`
       },
       {
-        miniheading: "Is Dr. Rathi serving the cause of medical education?",
+        miniheading: "Q. 3: Is Dr. Rathi serving the cause of medical education?",
         description: "Dr. Rathi is an active mentor of interventional cardiologists and is an honorary professor who supports teaching and training for advanced cardiology, especially for transradial interventions."
       },
       {
-        miniheading: "What are some of the notable contributions of Dr. Rathi?",
+        miniheading: "Q. 4: What are some of the notable contributions of Dr. Rathi?",
         description: "Dr. Rathi has received accolades both from government and corporate bodies for the cardiac service he has been involved with. He initiated a move in setting up key cath lab developments and initiation of cardiac awareness projects in Chhattisgarh."
       },
       {
-        miniheading: "How do I request an appointment with Dr. Rathi?",
+        miniheading: "Q. 5: How do I request an appointment with Dr. Rathi?",
         description: "You can reach out to Max Super Speciality Hospital, Saket, through the online portal or via the appointment helpline for requesting an appointment with Dr. Rathi."
       }
     ],
@@ -3059,23 +3063,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What does Dr. Anupam Goel feel the treatment approach for CAD should be?",
+        miniheading: "Q. 1: What does Dr. Anupam Goel feel the treatment approach for CAD should be?",
         description: "Dr. Goel is a patient-friendly doctor for CAD. He focuses on proper diagnosis so that he limits all interventions to a minimum, such as angioplasty, and transforms lifestyles for more effective management of CAD."
       },
       {
-        miniheading: "How does Dr. Goel perform angiography and angioplasty?",
+        miniheading: "Q. 2: How does Dr. Goel perform angiography and angioplasty?",
         description: "Dr. Goel is experienced with both femoral (groin) and radial (wrist) approaches for angiography and angioplasty. The techniques have less recovery time and greater patient comfort, thus faster resolution of daily activities."
       },
       {
-        miniheading: "Are there special skills that Dr. Goel may have in the management of CAD in women?",
+        miniheading: "Q. 3: Are there special skills that Dr. Goel may have in the management of CAD in women?",
         description: "Dr. Goel is highly interested in the treatment of CAD in women. His main area of focus was awareness that CAD affects women differently and, as such, tunes the treatment of the same with specific health needs of women."
       },
       {
-        miniheading: "How does Dr. Goel treat acute coronary syndrome?",
+        miniheading: "Q. 4: How does Dr. Goel treat acute coronary syndrome?",
         description: "Dr. Goel is highly competent in acute coronary syndrome immediate management through rapid assessment and intervention by primary angioplasty with restoration of normal blood flow and minimal heart damage."
       },
       {
-        miniheading: "Why would patients choose to go to Dr. Goel for interventional cardiology?",
+        miniheading: "Q. 5: Why would patients choose to go to Dr. Goel for interventional cardiology?",
         description: "With over 21 years of experience, a strong background in advanced cardiology, and dedication to patient-centered care, patients have much to trust in Dr. Goel for expert, compassionate cardiac care."
       }
     ],
@@ -3196,23 +3200,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "In which field of pediatric cardiology does Dr. Munesh Tomar specialize?",
+        miniheading: "Q. 1: In which field of pediatric cardiology does Dr. Munesh Tomar specialize?",
         description: "Dr. Munesh Tomar is a specialist for the opinion and operation of natural and acquired heart blights in children. His moxie covers everything from individual procedures, including echocardiography and cardiac catheterization, to interventional treatments like device closures and balloon dilation."
       },
       {
-        miniheading: "What conditions does Dr. Tomar treat?",
+        miniheading: "Q. 2: What conditions does Dr. Tomar treat?",
         description: "He deals with numerous pediatric heart conditions, such as atrial septal blights, patent ductus arteriosus, ventricular septal blights, and arrhythmias, including complex procedures such as stenting and stopcock dilatations."
       },
       {
-        miniheading: "What are the awards entered by Dr. Tomar?",
+        miniheading: "Q. 3: What are the awards entered by Dr. Tomar?",
         description: `Dr. Tomar has numerous awards to his credit, including the Gold Medal "Thakur Ulfat Rai," the utmost promising croaker in Pediatric Cardiology 2009, and an appreciation award for his tutoring excellence by the UP Indian Medical Association in 2020.`
       },
       {
-        miniheading: "Does Dr. Tomar do fetal echocardiography?",
+        miniheading: "Q. 4: Does Dr. Tomar do fetal echocardiography?",
         description: "Yes, Dr. Tomar has experience in fetal echocardiography, which is important for the early discovery and operation of natural heart issues."
       },
       {
-        miniheading: "Where can I reach Dr. Munesh Tomar?",
+        miniheading: "Q. 5: Where can I reach Dr. Munesh Tomar?",
         description: "Currently, Dr. Munesh Tomar is with Max Healthcare as Director Pediatric Cardiology. The entire diapason of experience and moxie stands at the reverse of it and gives parents peace of mind in pediatric cardiac care."
       }
     ],
@@ -3284,23 +3288,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What's Dr. Sumeet Sethi's specialty?",
+        miniheading: "Q. 1: What's Dr. Sumeet Sethi's specialty?",
         description: "Dr. Sumeet Sethi's main specialty is interventional cardiology with past experience in acute cardiac care, especially primary angioplasty for heart attack cases and transradial interventions."
       },
       {
-        miniheading: "What does Dr. Sethi treat?",
+        miniheading: "Q. 2: What does Dr. Sethi treat?",
         description: "He treats a variety of cardiac conditions, including acute coronary patterns, heart attacks, and other complex heart conditions. He's also complete at performing both individual and remedial angioplasty."
       },
       {
-        miniheading: "What enrollments does Dr. Sethi hold?",
+        miniheading: "Q. 3: What enrollments does Dr. Sethi hold?",
         description: "He's an active member of leading associations, similar to the Cardiological Society of India (Delhi and National chapters), the Association of Physicians of India, and the Society for Cardiovascular Angiography and Interventions (SCAI) in the USA."
       },
       {
-        miniheading: "What are some of the prizes entered by Dr. Sethi?",
+        miniheading: "Q. 4: What are some of the prizes entered by Dr. Sethi?",
         description: "He entered numerous transnational cardiology conference awards for grueling case donations, which speaks of his skillful capacities in complex and critical cardiac interventions."
       },
       {
-        miniheading: "In which sanitarium can I see Dr. Sumeet Sethi?",
+        miniheading: "Q. 5: In which sanitarium can I see Dr. Sumeet Sethi?",
         description: "He's available at Max Healthcare and is Director of Interventional Cardiology, where he renders superior cardiac care to a wide myriad of conditions."
       }
     ],
@@ -3388,23 +3392,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "Which are the interventional cardiology procedures Dr. Mitendra Singh Yadav is specialized in?",
+        miniheading: "Q. 1: Which are the interventional cardiology procedures Dr. Mitendra Singh Yadav is specialized in?",
         description: "He deals with acute myocardial infarction interventions, complex coronary interventions, and treatment in structural heart disease. Advanced procedures like IVUS, FFR, OCT, and ROTA master him for complex cases."
       },
       {
-        miniheading: "What type of heart condition does Dr. Mitendra Singh Yadav deal with?",
+        miniheading: "Q. 2: What type of heart condition does Dr. Mitendra Singh Yadav deal with?",
         description: "He has treated all forms of heart diseases, from the most common coronary artery disease and heart attacks to the lesser common arrhythmias and heart valve disorders to more complex structural heart diseases. He has also been carrying out primary PCI and the most complex coronary procedures, thereby treating these appropriately."
       },
       {
-        miniheading: "For how many years has Dr. Yadav been performing advanced cardiac procedures?",
+        miniheading: "Q. 3: For how many years has Dr. Yadav been performing advanced cardiac procedures?",
         description: "Dr. Yadav has more than 14 years of experience working in different positions in different hospitals. He is the Director of the Cath Lab. His areas of advanced training are advanced coronary and structural heart intervention, which are expert areas of interest."
       },
       {
-        miniheading: "Does Dr. Yadav perform minimally invasive procedures on the heart?",
+        miniheading: "Q. 4: Does Dr. Yadav perform minimally invasive procedures on the heart?",
         description: "Yes, Dr. Yadav has experience with the procedures; he can use radial interventions, which allow accessing the procedure through the wrist, reducing recovery time and discomfort to a great extent."
       },
       {
-        miniheading: "What can I expect during the primary PCI procedure with Dr. Yadav?",
+        miniheading: "Q. 5: What can I expect during the primary PCI procedure with Dr. Yadav?",
         description: "With catheter-based procedures, Dr. Yadav would have opened the blocked coronary arteries in a primary PCI. The blood supply to the heart would have been re-established in such cases. These interventions are mostly successful if performed early in emergency cases."
       }
     ],
@@ -3502,23 +3506,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What illness did Dr. Arif Mustaqueem treat relating to the heart?",
+        miniheading: "Q. 1: What illness did Dr. Arif Mustaqueem treat relating to the heart?",
         description: "The heart illnesses that are treated by Dr. Mustaqueem include structural heart diseases, arrhythmias, coronary artery disease, and heart failure. He specialises in managing patients placed on chemotherapy and noncardiac surgeries."
       },
       {
-        miniheading: "Does Dr. Mustaqueem use non-invasive heart diagnostic techniques?",
+        miniheading: "Q. 2: Does Dr. Mustaqueem use non-invasive heart diagnostic techniques?",
         description: "Yes, Dr. Mustaqueem is highly competent in non-invasive diagnostics like echocardiography, stress tests, strain imaging, and trans-esophageal echocardiography (TEE) and therefore can exactly diagnose heart-related problems."
       },
       {
-        miniheading: "How to take an appointment with Dr. Arif Mustaqueem?",
+        miniheading: "Q. 3: How to take an appointment with Dr. Arif Mustaqueem?",
         description: "The appointment can be taken via the Max Hospital website or from the cardiology department in Max Hospital, Saket."
       },
       {
-        miniheading: "Do you provide services for preoperative and postoperative care of the heart?",
+        miniheading: "Q. 4: Do you provide services for preoperative and postoperative care of the heart?",
         description: "Yes, Dr. Mustaqueem is a specialist managing patients with cardiac conditions who are going for non-cardiac surgeries, giving them all-rounded perioperative care so that the patient will be safe."
       },
       {
-        miniheading: "What can I expect when I go for stress echocardiography with Dr. Mustaqueem?",
+        miniheading: "Q. 5: What can I expect when I go for stress echocardiography with Dr. Mustaqueem?",
         description: "Dr. Mustaqueem will make use of a stress echocardiography to assess how your heart responds to exercise and/or medication intake. This will enable him to evaluate the functioning of your heart under stress because it is an innocuous diagnostic tool used very commonly in order to detect coronary artery disease and other heart-related illnesses."
       }
     ],
@@ -3640,23 +3644,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What age group does Dr. Gaurav Kumar treat in pediatric cardiology?",
+        miniheading: "Q. 1: What age group does Dr. Gaurav Kumar treat in pediatric cardiology?",
         description: "He treats all ages, from newborns to young adults, who are in need of treatment and care due to heart conditions. He specializes in congenital heart diseases or acquired cardiac conditions in kids."
       },
       {
-        miniheading: "Would Dr. Kumar be performing non-surgical procedures while treating heart-related issues among children?",
+        miniheading: "Q. 2: Would Dr. Kumar be performing non-surgical procedures while treating heart-related issues among children?",
         description: "Indeed, with several non-invasive operations, such as sealing holes in the heart and opening closed heart valves using minimally invasive catheter-based interventions, and may potentially save patient hospital time."
       },
       {
-        miniheading: "How do I book an appointment with Dr. Gaurav Kumar?",
+        miniheading: "Q. 3: How do I book an appointment with Dr. Gaurav Kumar?",
         description: "You can schedule an appointment with Dr. Kumar by contacting the pediatric cardiology department at Max Super Speciality Hospital, Saket, or through the hospital’s online appointment system."
       },
       {
-        miniheading: "Is Dr. Kumar a specialist in pediatric heart treatments, especially children's specific heart conditions?",
+        miniheading: "Q. 4: Is Dr. Kumar a specialist in pediatric heart treatments, especially children's specific heart conditions?",
         description: "Dr. Kumar is a specialist in complex heart conditions such as congenital defects, pediatric pulmonary hypertension, and cardiomyopathy; besides these, he is also an expert in fetal echocardiography to detect potential heart issues even before they are born."
       },
       {
-        miniheading: "What is the contribution of Dr. Kumar as a teacher to other healthcare providers?",
+        miniheading: "Q. 5: What is the contribution of Dr. Kumar as a teacher to other healthcare providers?",
         description: "Teaching and training medical students as well as healthcare providers with his experience in pediatric cardiology; sharing his know-how with the view that this may help raise better standards for the care given to the pediatric heart health patient population."
       }
     ],
@@ -3762,23 +3766,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What is Dr. Sanjeev Malhotra's specialty in terms of heart surgeries?",
+        miniheading: "Q. 1: What is Dr. Sanjeev Malhotra's specialty in terms of heart surgeries?",
         description: "Dr. Malhotra specializes in complex cardiothoracic procedures, including coronary artery bypass surgery, mitral valve repair, aortic surgery, and minimally invasive heart surgeries."
       },
       {
-        miniheading: "How can I schedule an appointment with Dr. Malhotra?",
+        miniheading: "Q. 2: How can I schedule an appointment with Dr. Malhotra?",
         description: "You may contact Max Hospital, Saket, directly or book your appointment with Dr. Malhotra using their online appointment booking facility."
       },
       {
-        miniheading: "Does Dr. Malhotra perform minimally invasive cardiac surgeries?",
+        miniheading: "Q. 3: Does Dr. Malhotra perform minimally invasive cardiac surgeries?",
         description: "Yes, Dr. Malhotra is trained in the practice of minimally invasive cardiac procedures that are known to have lesser recovery times and risks than traditional surgery."
       },
       {
-        miniheading: "Which modalities does Dr. Malhotra adopt in performing coronary artery bypass?",
+        miniheading: "Q. 4: Which modalities does Dr. Malhotra adopt in performing coronary artery bypass?",
         description: "He also specializes in beating heart coronary artery bypass surgery wherein he is not required to stop the heart to do the bypasses on the patients. This therefore has fewer impacts on the body as a whole while improving the recovery process."
       },
       {
-        miniheading: "What kind of patient can benefit from taking the mitral valve repair services of Dr. Malhotra?",
+        miniheading: "Q. 5: What kind of patient can benefit from taking the mitral valve repair services of Dr. Malhotra?",
         description: "Advanced techniques in mitral valve repair by Dr. Malhotra can help treat patients with the condition of mitral valve dysfunction, such as ischemic mitral regurgitation, and those who require valve restoration."
       }
     ],
@@ -3849,23 +3853,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "Which of all skin diseases is treated by Dr. Nitin S. Walia?",
+        miniheading: "Q. 1: Which of all skin diseases is treated by Dr. Nitin S. Walia?",
         description: "Dr. Walia treats all sorts of skin diseases like acne, eczema, psoriasis, fungal infections, and many sexually transmitted diseases."
       },
       {
-        miniheading: "Is it possible to take an appointment with Dr. Walia for my skin diseases through telemedicine?",
+        miniheading: "Q. 2: Is it possible to take an appointment with Dr. Walia for my skin diseases through telemedicine?",
         description: "Yes, Dr. Walia offers telemedicine consultation services. The patients can get professional advice and treatment plans for their skin diseases without visiting the clinic."
       },
       {
-        miniheading: "Does Dr. Walia treat STDs?",
+        miniheading: "Q. 3: Does Dr. Walia treat STDs?",
         description: "Absolutely. Dr. Walia is very experienced in diagnosing and treating many STDs with utmost confidentiality and sympathy towards the patients."
       },
       {
-        miniheading: "What is dermatosurgery, and does Dr. Walia practice it?",
+        miniheading: "Q. 4: What is dermatosurgery, and does Dr. Walia practice it?",
         description: "Dermatosurgery is basically surgical interventions on the skin for removal of moles, cysts, scars, etc. Dr. Walia performs these, and there will be less scarring with good outcomes."
       },
       {
-        miniheading: "How do I schedule an appointment with Dr. Walia?",
+        miniheading: "Q. 5: How do I schedule an appointment with Dr. Walia?",
         description: "You can book an appointment with the dermatology department at Max Healthcare or its online portal."
       }
     ],
@@ -3913,23 +3917,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What is the fundamental zone of Dr. Rashmi Malik?",
+        miniheading: "Q. 1: What is the fundamental zone of Dr. Rashmi Malik?",
         description: "Dr. Malik treats different skin maladies, such as skin breakout, dermatitis, psoriasis, and other complicated dermatological illnesses. She too specializes in pediatric dermatology, which includes elite care for children."
       },
       {
-        miniheading: "Does Dr. Malik treat corrective dermatology problems?",
+        miniheading: "Q. 2: Does Dr. Malik treat corrective dermatology problems?",
         description: "Yes, Dr. Malik gives restorative dermatology medicines, counting maturing skin, pigmentation, and other restorative issues, and makes particular plans for each patient."
       },
       {
-        miniheading: "How do I book an arrangement with Dr. Rashmi Malik?",
+        miniheading: "Q. 3: How do I book an arrangement with Dr. Rashmi Malik?",
         description: "One can book an arrangement from the Max Healthcare site or contact their client benefit with respect to the dates and times."
       },
       {
-        miniheading: "Is Dr. Malik qualified to perform dermatological procedures?",
+        miniheading: "Q. 4: Is Dr. Malik qualified to perform dermatological procedures?",
         description: "Completely. She is well prepared and experienced in performing a range of dermatological strategies, backed by her confirmation from the Regal College of Doctors and Specialists, Glasgow."
       },
       {
-        miniheading: "What approach does Dr. Malik have towards pediatric cases' treatment?",
+        miniheading: "Q. 5: What approach does Dr. Malik have towards pediatric cases' treatment?",
         description: "Dr. Malik bargains with children in a delicate approach, as he accepts patients ought to feel at ease with their particular dermatological needs."
       }
     ],
@@ -4017,23 +4021,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What is the range of skin conditions Dr. Ajita Bagai Kakkar can offer assistance with?",
+        miniheading: "Q. 1: What is the range of skin conditions Dr. Ajita Bagai Kakkar can offer assistance with?",
         description: "The medications given by Dr. Kakkar are various, treating dermatological concerns counting but not restricted to skin breakout, psoriasis, or other constant conditions on the skin with a stylish and anti-aging focus."
       },
       {
-        miniheading: "Are there laser-based strategies utilized to treat the issue of pigmentation?",
+        miniheading: "Q. 2: Are there laser-based strategies utilized to treat the issue of pigmentation?",
         description: "Yes, Dr. Kakkar specializes in laser medications for facial pigmentation, mole expulsion, skin labels, and other restorative concerns; advertising progressed laser innovation choices custom fitted to people's needs."
       },
       {
-        miniheading: "What tasteful medications does Dr. Kakkar offer?",
+        miniheading: "Q. 3: What tasteful medications does Dr. Kakkar offer?",
         description: "Dr. Kakkar offers different stylish medications like chemical peels, PRP treatment for hair misfortune, Botox, mesotherapy, and arrangements for pigmentation, wrinkles, and other corrective concerns."
       },
       {
-        miniheading: "How to book an arrangement with Dr. Ajita Bagai Kakkar?",
+        miniheading: "Q. 4: How to book an arrangement with Dr. Ajita Bagai Kakkar?",
         description: "One can book an arrangement by going to the site of Max Healthcare or by reaching the client bolster of the hospital."
       },
       {
-        miniheading: "How does Dr. Kakkar treat acne?",
+        miniheading: "Q. 5: How does Dr. Kakkar treat acne?",
         description: "Dr. Kakkar takes an all-encompassing approach for overseeing skin breakout. He would modify the way of life of the understanding, alter their skincare schedule, and apply medications such as chemical peels and laser treatment when required."
       }
     ],
@@ -4129,23 +4133,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What are the conditions Dr. Ranjan Upadhaya specializes in treating?",
+        miniheading: "Q. 1: What are the conditions Dr. Ranjan Upadhaya specializes in treating?",
         description: "Psoriasis, skin breakout, hair misfortune, and restorative strategies such as laser medicines and hair transplantation, among others."
       },
       {
-        miniheading: "Is Dr. Upadhaya experienced in treating hair loss?",
+        miniheading: "Q. 2: Is Dr. Upadhaya experienced in treating hair loss?",
         description: "Yes, Dr. Upadhaya is exceedingly experienced in overseeing hair misfortune and specializes in hair transplantation methods custom-made to reestablish characteristic hair growth."
       },
       {
-        miniheading: "Does Dr. Upadhaya offer corrective treatments?",
+        miniheading: "Q. 3: Does Dr. Upadhaya offer corrective treatments?",
         description: "Yes, he gives an extended list of corrective medications, counting facial aesthetics, dermatosurgeries, and laser treatments for skin revival and pigmentation."
       },
       {
-        miniheading: "What is Dr. Upadhaya’s approach to psoriasis management?",
+        miniheading: "Q. 4: What is Dr. Upadhaya’s approach to psoriasis management?",
         description: "Dr. Upadhaya treats patients enduring from psoriasis by regulating biologics and other progressed medications for lasting relief."
       },
       {
-        miniheading: "How do I plan an arrangement with Dr. Ranjan Upadhaya?",
+        miniheading: "Q. 5: How do I plan an arrangement with Dr. Ranjan Upadhaya?",
         description: "You may reach the dermatology division of Max Healing Center, Panchsheel Stop, or Max Devki Devi Healing Center in Saket."
       }
     ],
@@ -4261,23 +4265,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "Which types of skin diseases does Dr. Rahul Nagar cure?",
+        miniheading: "Q. 1: Which types of skin diseases does Dr. Rahul Nagar cure?",
         description: "Dr. Nagar deals with all types of skin disorders, such as acne, pigmentation, and aging of the skin. He also offers cosmetic treatments for skin improvement."
       },
       {
-        miniheading: "Does Dr. Nagar offer anti-aging treatments?",
+        miniheading: "Q. 2: Does Dr. Nagar offer anti-aging treatments?",
         description: "Yes, he does anti-aging treatments like Botox and dermal fillers; he helps reduce wrinkles and add some volume. This will give a youthful appearance to the patient."
       },
       {
-        miniheading: "Which laser treatments does Dr. Nagar specialize in?",
+        miniheading: "Q. 3: Which laser treatments does Dr. Nagar specialize in?",
         description: "The doctor uses a range of lasers, such as Q-switched Nd and IPL. These have proven to be very effective in treating pigmentation, hair removal, and skin rejuvenation."
       },
       {
-        miniheading: "Does Dr. Nagar treat scars?",
+        miniheading: "Q. 4: Does Dr. Nagar treat scars?",
         description: "Minimizes scar and works on the texture with dermarolling, microdermabrasion, and chemical peels."
       },
       {
-        miniheading: "How can I book an appointment with Dr. Rahul Nagar?",
+        miniheading: "Q. 5: How can I book an appointment with Dr. Rahul Nagar?",
         description: "Appointment can be done as per the date and location of the patient, either at Max Hospital Saket West or Max Hospital Panchsheel Park, by browsing the appointment site of Max Healthcare."
       }
     ],
@@ -4340,23 +4344,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What conditions does Dr. Lipy Gupta treat?",
+        miniheading: "Q. 1: What conditions does Dr. Lipy Gupta treat?",
         description: "Dr. Gupta treats various skin conditions such as acne, pigmentation problems, hair loss, and other general dermatology issues."
       },
       {
-        miniheading: "Does Dr. Gupta provide anti-ageing treatments?",
+        miniheading: "Q. 2: Does Dr. Gupta provide anti-ageing treatments?",
         description: "She can provide non-surgical anti-ageing treatments such as Botox, fillers, thread lifts and laser treatments to reduce fine lines, wrinkles, and pigmentation."
       },
       {
-        miniheading: "What hair treatments does Dr. Gupta provide?",
+        miniheading: "Q. 3: What hair treatments does Dr. Gupta provide?",
         description: "Her specialty is the management of hair disorders, which include hair thinning and loss. She provides procedures to help with hair restoration."
       },
       {
-        miniheading: "How does Dr. Gupta treat acne and acne scars?",
+        miniheading: "Q. 4: How does Dr. Gupta treat acne and acne scars?",
         description: "She practices individualized treatment that may also include topical treatments, chemical peels, and laser to treat active acne and reduce scar formation."
       },
       {
-        miniheading: "How do I book an appointment with Dr. Lipy Gupta?",
+        miniheading: "Q. 5: How do I book an appointment with Dr. Lipy Gupta?",
         description: "You can book your appointment with Dr. Gupta at Saket or Panchsheel Park at a date of your preference using the appointment service by Max Healthcare."
       }
     ],
@@ -4493,23 +4497,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What sorts of skin problems does Dr. Bhardwaj treat?",
+        miniheading: "Q. 1: What sorts of skin problems does Dr. Bhardwaj treat?",
         description: "Dr. Bhardwaj treats a vast kind of skin problems, including allergies, acne scar marks, skin tags, moles and more cosmetic concerns."
       },
       {
-        miniheading: "Does the doctor do anti-aging treatments?",
+        miniheading: "Q. 2: Does the doctor do anti-aging treatments?",
         description: "Yes, she provides treatment solutions in anti-aging through Botox injection, fillers, chemical peels and laser treatments that can also be used for removing wrinkle and keeping glowing to her patients"
       },
       {
-        miniheading: "Does Dr. Bhardwaj help treat hair loss?",
+        miniheading: "Q. 3: Does Dr. Bhardwaj help treat hair loss?",
         description: "Yes, she performs hair transplants through the FUE and strip techniques for a patient with thinned hair or baldness."
       },
       {
-        miniheading: "How does she manage scars?",
+        miniheading: "Q. 4: How does she manage scars?",
         description: "She cares for acne and surgical-related scars, along with many other imperfections on one's skin through chemical peels, laser resurfacing, and TCA Cross."
       },
       {
-        miniheading: "How do I schedule with Dr. Deepali Bhardwaj?",
+        miniheading: "Q. 5: How do I schedule with Dr. Deepali Bhardwaj?",
         description: "Max Healthcare has an online system for scheduling appointments and can also be reached via the appointment desk."
       }
     ],
@@ -4619,23 +4623,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What are Dr. Ambrish Mithal's specialties?",
+        miniheading: "Q. 1: What are Dr. Ambrish Mithal's specialties?",
         description: "Dr. Mithal specializes in endocrinology and diabetes, with expertise in treating conditions related to hormonal imbalances, osteoporosis, and advanced diabetes management."
       },
       {
-        miniheading: "How can I book an appointment with Dr. Ambrish Mithal?",
+        miniheading: "Q. 2: How can I book an appointment with Dr. Ambrish Mithal?",
         description: "You can book an appointment with Dr. Mithal by contacting Max Healthcare in Saket, New Delhi, through their official website or by phone."
       },
       {
-        miniheading: "Does Dr. Mithal treat pediatric endocrine issues?",
+        miniheading: "Q. 3: Does Dr. Mithal treat pediatric endocrine issues?",
         description: "Yes, Dr. Mithal is trained in treating endocrine issues across all age groups, including children, with particular expertise in diabetes and bone health."
       },
       {
-        miniheading: "What awards has Dr. Ambrish Mithal received?",
+        miniheading: "Q. 4: What awards has Dr. Ambrish Mithal received?",
         description: "Dr. Mithal has received several prestigious awards, including the Padma Bhushan in 2015, the Dr. B.C. Roy Award, and the International Osteoporosis Foundation President’s Award."
       },
       {
-        miniheading: "How long has Dr. Mithal been practicing in endocrinology?",
+        miniheading: "Q. 5: How long has Dr. Mithal been practicing in endocrinology?",
         description: "Dr. Mithal has been practicing in the field of endocrinology for over 37 years, offering advanced care and insight into diabetes, osteoporosis, and related conditions."
       }
     ],
@@ -4708,23 +4712,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What are the specialisms with which Dr. Neeru Gera is associated?",
+        miniheading: "Q. 1: What are the specialisms with which Dr. Neeru Gera is associated?",
         description: "Dr. Gera provides care in diabetes, thyroid diseases, osteoporosis, hormonal imbalances, and so on, endocrine-related diseases."
       },
       {
-        miniheading: "What is the approach of Dr. Gera with respect to treating diabetes?",
+        miniheading: "Q. 2: What is the approach of Dr. Gera with respect to treating diabetes?",
         description: "Her diabetic care approach has treatment plans that are customised, medication and lifestyle changes helpful in the long-term control of blood glucose and a patient's awareness."
       },
       {
-        miniheading: "Does Dr. Gera stress the education of patients?",
+        miniheading: "Q. 3: Does Dr. Gera stress the education of patients?",
         description: "Yes, she stresses teaching her patients so that they make the best choices to care for their health properly."
       },
       {
-        miniheading: "Can Dr. Gera provide osteoporosis preventive care?",
+        miniheading: "Q. 4: Can Dr. Gera provide osteoporosis preventive care?",
         description: "Of course she can; she can give total care in the field of bone care, from prevention and osteoporosis treatment to every patient according to the case."
       },
       {
-        miniheading: "How do I book an appointment with Dr. Gera?",
+        miniheading: "Q. 5: How do I book an appointment with Dr. Gera?",
         description: "Appointments can be scheduled through their website or by contacting the appointment desk of the hospital."
       }
     ],
@@ -4815,23 +4819,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What diseases does Dr. Khalid J. Farooqui usually treat?",
+        miniheading: "Q. 1: What diseases does Dr. Khalid J. Farooqui usually treat?",
         description: "Dr. Farooqui treats diabetes, thyroid disorders, adrenal and neuroendocrine disorders, among other metabolic disorders."
       },
       {
-        miniheading: "How do I get an appointment with Dr. Farooqui?",
+        miniheading: "Q. 2: How do I get an appointment with Dr. Farooqui?",
         description: "He is available at Medanta-The Medicity, Gurgaon, Max Hospital, Sushant Lok, and Max Super Speciality Hospital, Saket, Delhi."
       },
       {
-        miniheading: "Does Dr. Farooqui treat children who have diabetes?",
+        miniheading: "Q. 3: Does Dr. Farooqui treat children who have diabetes?",
         description: "He has experience of many years in pediatric diabetes care and specializes in the treatment of diabetic children."
       },
       {
-        miniheading: "What do you consider to be the advantages of Dr. Farooqui's approach?",
+        miniheading: "Q. 4: What do you consider to be the advantages of Dr. Farooqui's approach?",
         description: "I have seen that Dr. Farooqui is always particular and empathetic to all patients to ensure that they really understand what is happening with them and what treatment option is in place."
       },
       {
-        miniheading: "How does he handle a case of gestational diabetes?",
+        miniheading: "Q. 5: How does he handle a case of gestational diabetes?",
         description: "Dr. Farooqui treats gestational diabetes holistically, meaning that he is concerned about maintaining blood sugar levels within the optimal ranges during pregnancy in order to protect the mother and the fetus."
       }
     ],
@@ -4913,23 +4917,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "Which conditions does Dr. Aditya Dutta specialize in?",
+        miniheading: "Q. 1: Which conditions does Dr. Aditya Dutta specialize in?",
         description: "He can treat all such cases like diabetes, thyroid issues, PCOS, adrenal problems, growth concerns, and bone-related diseases as well with tailored treatment according to each case."
       },
       {
-        miniheading: "What is Dr. Dutta's approach to managing diabetes?",
+        miniheading: "Q. 2: What is Dr. Dutta's approach to managing diabetes?",
         description: "The treatment approaches by Dr. Dutta include individualized treatment programs, lifestyle advice, and regular follow-up to establish appropriate blood sugar levels along with achieving optimal long-term health."
       },
       {
-        miniheading: "Does Dr. Dutta treat thyroid abnormalities?",
+        miniheading: "Q. 3: Does Dr. Dutta treat thyroid abnormalities?",
         description: "Absolutely, he is treating various thyroid abnormalities, including hypothyroidism, hyperthyroidism, and thyroid nodules, with perfect hormone balance."
       },
       {
-        miniheading: "What services does Dr. Dutta offer about the care of bones?",
+        miniheading: "Q. 4: What services does Dr. Dutta offer about the care of bones?",
         description: "Dr. Dutta has treatment for osteoporosis and metabolic bone disorders, which can help patients strengthen their bones and avoid fractures."
       },
       {
-        miniheading: "How can I get an appointment with Dr. Aditya Dutta?",
+        miniheading: "Q. 5: How can I get an appointment with Dr. Aditya Dutta?",
         description: "You can book an appointment with Dr. Dutta through the Max Healthcare website or through their direct appointment line."
       }
     ],
@@ -5032,23 +5036,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What is the specialty of Dr. Rutuja Sharma?",
+        miniheading: "Q. 1:  What is the specialty of Dr. Rutuja Sharma?",
         description: "Diabetes Care Specialist Diabetic Foot Care and Education."
       },
       {
-        miniheading: "How can she help with the treatment of diabetic foot?",
+        miniheading: "Q. 2:  How can she help with the treatment of diabetic foot?",
         description: "The earlier identification process by patient education so there is no further complication due to the diabetic foot disorder."
       },
       {
-        miniheading: "Where is the location of Dr. Rutuja Sharma?",
+        miniheading: "Q. 3:  Where is the location of Dr. Rutuja Sharma?",
         description: "You may find her at Max Healthcare, where she conducts a myriad of services ranging from diabetes to endocrinology."
       },
       {
-        miniheading: "Does she run workshops for other healthcare providers?",
+        miniheading: "Q. 4:  Does she run workshops for other healthcare providers?",
         description: "Yes, she conducts workshops on the care and management of diabetic foot to doctors"
       },
       {
-        miniheading: "What training qualifications does she have for managing diabetes?",
+        miniheading: "Q. 5:  What training qualifications does she have for managing diabetes?",
         description: "Dr. Sharma has been involved in numerous fellowships and certifications and many years of clinical practice in managing diabetes and podiatry."
       }
     ],
@@ -5149,23 +5153,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "In which field is Dr. Sumit Mrig an expert in ENT?",
+        miniheading: "Q. 1: In which field is Dr. Sumit Mrig an expert in ENT?",
         description: "Dr. Sumit Mrig has special expertise in cochlear implants and does cochlear implant surgeries on children as well as adults. Besides that, he is an advanced surgeon in performing surgery on conditions such as sleep apnea, vertigo, and salivary gland disorders."
       },
       {
-        miniheading: "How many cochlear implants has Dr. Sumit Mrig done?",
+        miniheading: "Q. 2: How many cochlear implants has Dr. Sumit Mrig done?",
         description: "More than 350 cochlear implant surgeries have been done by Dr. Mrig. With his work, he stands as one of the greatest cochlear implant surgeons not only in India but in Asia."
       },
       {
-        miniheading: "What conditions does Dr. Sumit Mrig treat?",
+        miniheading: "Q. 3: What conditions does Dr. Sumit Mrig treat?",
         description: "Besides hearing loss, Dr. Mrig also treats sleep apnea, snoring, vertigo, and salivary gland disorders. He also conducts advanced skull base surgeries."
       },
       {
-        miniheading: "Has Dr. Sumit Mrig received any awards for his work?",
+        miniheading: "Q. 4: Has Dr. Sumit Mrig received any awards for his work?",
         description: "Yes, Dr. Mrig has acquired several exemplary awards for his contributions towards the service to humanity. Susruta Award for Excellence in ENT. MAX CEO's Award for Excellence in Treatment of Deafness. Bharat Excellence Award."
       },
       {
-        miniheading: "What is sialendoscopy and what does Dr. Sumit Mrig employ it for?",
+        miniheading: "Q. 5: What is sialendoscopy and what does Dr. Sumit Mrig employ it for?",
         description: "Sialendoscopy is a minimally invasive technique used to treat salivary gland stones. Doctor Mrig is adept in this technique and thus offers patients relief without having to go through invasive surgery."
       }
     ],
@@ -5240,23 +5244,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What procedures are included in ENT surgery by Dr. Jijina?",
+        miniheading: "Q. 1: What procedures are included in ENT surgery by Dr. Jijina?",
         description: "Dr. Jijina performs all kinds of ENT surgeries, such as sinus surgeries, ear surgeries, and treatments for nasal allergies and airway obstructions."
       },
       {
-        miniheading: "How can I see Dr. Jijina for an allergy problem?",
+        miniheading: "Q. 2: How can I see Dr. Jijina for an allergy problem?",
         description: "Dr. Jijina offers consultation services at Max Healthcare, where he treats nasal and sinus allergies with customized treatment plans that include surgical and non-surgical interventions."
       },
       {
-        miniheading: "Does Dr. Jijina treat children?",
+        miniheading: "Q. 3: Does Dr. Jijina treat children?",
         description: "Yes, Dr. Jijina specializes in pediatric ENT, managing all forms of ENT conditions in children, tailored to the younger age group."
       },
       {
-        miniheading: "What do I need to bring to my appointment with Dr. Jijina?",
+        miniheading: "Q. 4: What do I need to bring to my appointment with Dr. Jijina?",
         description: "You may bring previous medical records, a list of the current medications, and recent test results. Bringing any notes on symptoms and questions is also helpful."
       },
       {
-        miniheading: "Where is the clinic of Dr. Jijina?",
+        miniheading: "Q. 5: Where is the clinic of Dr. Jijina?",
         description: "Dr. Jijina can be found consulting at Max Super Speciality Hospital, Saket and Max Speciality Centre, Panchsheel Park, Delhi."
       }
     ],
@@ -5338,23 +5342,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "Areas of Specialist ENT Expertise for Dr. Singh",
+        miniheading: "Q. 1: Areas of Specialist ENT Expertise for Dr. Singh",
         description: "Dr. Singh is trained in a wide array of ENT procedures but has special interest in the use of endoscopic sinus surgery for minimally invasive approaches to sinus disease."
       },
       {
-        miniheading: "Does Dr. Singh treat chronic sinusitis?",
+        miniheading: "Q. 2: Does Dr. Singh treat chronic sinusitis?",
         description: "Yes, Dr Singh is experienced with doing endoscopic sinus surgery for chronic sinusitis as a long-term relief giver."
       },
       {
-        miniheading: "What should I expect during my first visit with Dr. Singh?",
+        miniheading: "Q. 3: What should I expect during my first visit with Dr. Singh?",
         description: "During your first visit with Dr. Singh, you can expect a thorough evaluation of your condition, including a detailed discussion of your symptoms and medical history."
       },
       {
-        miniheading: "What do I need to be ready for when I go for the first ENT consultation with Dr. Singh?",
+        miniheading: "Q. 4: What do I need to be ready for when I go for the first ENT consultation with Dr. Singh?",
         description: "You may bring any earlier medical record, imaging studies, current medications, and details regarding your symptoms for proper evaluation by Dr. Singh."
       },
       {
-        miniheading: "Does Dr. Singh ever consult for pediatric ENT problems?",
+        miniheading: "Q. 5: Does Dr. Singh ever consult for pediatric ENT problems?",
         description: "Absolutely, as he consults on both adult and pediatric ENT issues, with certain approaches toward each age group's individual needs."
       }
     ],
@@ -5406,23 +5410,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What conditions does Dr. Mala Bhattacharya treat?",
+        miniheading: "Q. 1: What conditions does Dr. Mala Bhattacharya treat?",
         description: "The ENT conditions treated by Dr. Bhattacharya are many, including sinusitis, infections of the ear, loss of hearing, obstructions in the nasal tract, and disorders of the head and neck region."
       },
       {
-        miniheading: "What is endoscopic sinus surgery and whom does Dr. Bhattacharya recommend it for?",
+        miniheading: "Q. 2: What is endoscopic sinus surgery and whom does Dr. Bhattacharya recommend it for?",
         description: "It is a minimally invasive treatment that is used for the condition chronic sinusitis. Dr. Bhattacharya recommends it to the patient who has recurrent sinusitis and is not responding to medication."
       },
       {
-        miniheading: "Which procedures does Dr. Bhattacharya carry out during the cochlear implant surgery?",
+        miniheading: "Q. 3: Which procedures does Dr. Bhattacharya carry out during the cochlear implant surgery?",
         description: "Dr. Bhattacharya carries out a surgical procedure to put the right cochlear implant into the inner ear with all the accuracy to set up any form of hearing; for example, this would be advised for serious loss of hearing"
       },
       {
-        miniheading: "What can an individual undergoing skull base surgery expect when talking to the anesthesiologist and prior to the surgery?",
+        miniheading: "Q. 4: What can an individual undergoing skull base surgery expect when talking to the anesthesiologist and prior to the surgery?",
         description: "Skull Base Surgery consultation: Dr. Bhattacharya will assess the condition and discuss the surgical procedure, risks, and recovery period with the patient."
       },
       {
-        miniheading: "How can one get an appointment with Dr. Bhattacharya? ",
+        miniheading: "Q. 5: How can one get an appointment with Dr. Bhattacharya? ",
         description: "Patients are advised to seek appointment schedules with Dr. Bhattacharya through the Max appointment software or contact the ENT section of the hospital directly."
       }
     ],
@@ -5516,23 +5520,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What areas of ENT does Dr. Bharat Bhushan Khatri specialize in?",
+        miniheading: "Q. 1: What areas of ENT does Dr. Bharat Bhushan Khatri specialize in?",
         description: "Dr. Khatri is an expert in microlaryngeal surgery, cosmetic nose surgery, endoscopic sinus surgery, and surgery for obstructive sleep apnea, providing all under one roof for complex ENT conditions."
       },
       {
-        miniheading: "Where can I consult Dr. Khatri?",
+        miniheading: "Q. 2: Where can I consult Dr. Khatri?",
         description: "Dr. Khatri is available for consultation at Max Super Speciality Hospital, Saket, Delhi."
       },
       {
-        miniheading: "What memberships does Dr. Khatri hold?",
+        miniheading: "Q. 3: What memberships does Dr. Khatri hold?",
         description: "He is an active member of the Association of Otolaryngologists of India, the All India Rhinology Society, and the Indian Society of Otology, among others."
       },
       {
-        miniheading: "Since how many years is the doctor practicing?",
+        miniheading: "Q. 4: Since how many years is the doctor practicing?",
         description: "The doctor has 34 plus years of practice in ENT and 32 years of clinical experience after his MS in ENT."
       },
       {
-        miniheading: "For which award does Dr. Khatri stand?",
+        miniheading: "Q. 5: For which award does Dr. Khatri stand?",
         description: "In 1992, Dr. Khatri received the prestigious Dr. C. A. Amesur Alias H. H. Vasudevan and Travel Fellowship Award of the Association of Otolaryngologists of India."
       }
     ],
@@ -5625,19 +5629,19 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What does Dr. Anuj Singhal specialize in?",
+        miniheading: "Q. 1: What does Dr. Anuj Singhal specialize in?",
         description: "Dr. Singhal advises on most ENT disorders like sinusitis, hearing impairment, and sleep apnea. He has experience with both pediatric ENT and cosmetic nasal surgeries as well."
       },
       {
-        miniheading: "What are Dr. Singhal's consulting timings?",
+        miniheading: "Q. 2: What are Dr. Singhal's consulting timings?",
         description: "Consults at Max Super Speciality Hospital on chosen days of the week; consultations also available at the Dr. Singhal clinic located at Lajpat Nagar, New Delhi, on a daily basis from Monday through Saturday."
       },
       {
-        miniheading: "Does Dr. Singhal consult children for ENT diseases?",
+        miniheading: "Q. 3: Does Dr. Singhal consult children for ENT diseases?",
         description: "Dr. Singhal offers the pediatric ENT specialty specifically for the little young with youth-specific treatment for them."
       },
       {
-        miniheading: "For which surgeries is Dr. Singhal competent?",
+        miniheading: "Q. 4: For which surgeries is Dr. Singhal competent?",
         description: "He does endoscopic sinus surgery, microear surgery, cosmetic nose surgery, and performs implant surgeries for hearing through implants. He does the surgeries very precisely and remains patient-sensitive."
       }
     ],
@@ -5695,23 +5699,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What conditions do you commonly treat?",
+        miniheading: "Q. 1: What conditions do you commonly treat?",
         description: "She treats the majority of ENT conditions ranging from an ear infection to nasal congestion, sore throat, tonsillitis, and sinus issues to some more complicated cases requiring ear surgeries."
       },
       {
-        miniheading: "Does Dr. Naglot operate on children?",
+        miniheading: "Q. 2: Does Dr. Naglot operate on children?",
         description: "Yes, Dr. Naglot does have experience and specializes in pediatric ENT, diagnosing and treating all forms of ENT disorders with gentle and caring touch for the little ones."
       },
       {
-        miniheading: "How long is it usually required to be off from work after having an ear surgery?",
+        miniheading: "Q. 3: How long is it usually required to be off from work after having an ear surgery?",
         description: "The recovery time depends on the procedure, but most patients take 1-2 weeks to recover. Dr. Naglot is very clear with post-operative care instructions so that the patient recovers smoothly."
       },
       {
-        miniheading: "How can I book an appointment with Dr. Naglot?",
+        miniheading: "Q. 4: How can I book an appointment with Dr. Naglot?",
         description: "You can book an appointment by contacting Max Healthcare directly or through their website to schedule a consultation with Dr. Naglot."
       },
       {
-        miniheading: "What to expect during first visits by Dr. Naglot",
+        miniheading: "Q. 5: What to expect during first visits by Dr. Naglot",
         description: "In the first visit, the doctor, Dr. Naglot, discusses the patient's symptoms with a medical history and a detailed examination of the ENT and mentions possible treatment options that he will choose according to an individual case."
       }
     ],
@@ -5788,19 +5792,19 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What is the style of Dr. Vivek Raj in the treatment of gastrointestinal disorders?",
+        miniheading: "Q. 1: What is the style of Dr. Vivek Raj in the treatment of gastrointestinal disorders?",
         description: "Dr. Raj follows a patient-centered approach that incorporates cutting-edge technology with care. He studies each case carefully to suggest the best possible long-term health care."
       },
       {
-        miniheading: "Does Dr. Raj carry out the minimally invasive procedures?",
+        miniheading: "Q. 2: Does Dr. Raj carry out the minimally invasive procedures?",
         description: "Yes, because Dr. Raj specializes in minimally invasive endoscopic techniques like ERCP and endoscopic ultrasound and can be treated effectively with reduced recovery time."
       },
       {
-        miniheading: "How does Dr. Raj diagnose and treat chronic liver patients?",
+        miniheading: "Q. 3: How does Dr. Raj diagnose and treat chronic liver patients?",
         description: "Doctor Raj treats the liver properly by giving comprehensive care through management of hepatitis B and C, preventing progression while maintaining liver health through personally designed treatment plans."
       },
       {
-        miniheading: "What is unique about Dr. Raj's practice of endoscopy?",
+        miniheading: "Q. 4: What is unique about Dr. Raj's practice of endoscopy?",
         description: "Dr. Raj has specialized expertise in the advanced endoscopy procedures that give clear diagnostic and targeted treatment results; the need for open surgery is reduced while better outcomes are achieved on patients."
       }
     ],
@@ -5915,23 +5919,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What is the specialty of Dr. Kaushal Madan?",
+        miniheading: "Q. 1: What is the specialty of Dr. Kaushal Madan?",
         description: "Dr. Madan treats hepatitis B and C, non-alcoholic fatty liver disease (NAFLD), cirrhosis, and liver cancer."
       },
       {
-        miniheading: "Where is Dr. Madan practicing currently?",
+        miniheading: "Q. 2: Where is Dr. Madan practicing currently?",
         description: "Dr. Madan is a Principal Director and Head of Clinical Hepatology at Max Healthcare, and he leads the department of liver and digestive health."
       },
       {
-        miniheading: "How many years of experience does Dr. Madan have in his area of work?",
+        miniheading: "Q. 3: How many years of experience does Dr. Madan have in his area of work?",
         description: "Dr. Madan has more than 22 years of experience in hepatology, gastroenterology, and liver transplant care. He has worked in top hospitals like Max Healthcare, Medanta, and AIIMS."
       },
       {
-        miniheading: "Which awards has Dr. Madan received for his services?",
+        miniheading: "Q. 4: Which awards has Dr. Madan received for his services?",
         description: "Dr. Madan has been recognized for his contributions to medicine and gastroenterology and has also won the Dr. Sudhir Rehan Gold Medal in Medicine and the Dr. Rakesh Tandon Book Prize."
       },
       {
-        miniheading: "What are the other notable contributions of Dr. Madan to research?",
+        miniheading: "Q. 5: What are the other notable contributions of Dr. Madan to research?",
         description: "Dr. Madan has published around more than 50 important and research articles in journals such as medical journals so he is able to develop huge contributions to the present study regarding liver health or in gastroenterology."
       }
     ],
@@ -6035,23 +6039,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What diseases does Dr. Suneel Chakravarty treat?",
+        miniheading: "Q. 1: What diseases does Dr. Suneel Chakravarty treat?",
         description: "The specialty area of Dr. Chakravarty encompasses treating liver and digestive diseases that include viral hepatitis and inflammatory bowel disease, as well as complex endoscopic procedures."
       },
       {
-        miniheading: "Where does Dr. Chakravarty work?",
+        miniheading: "Q. 2: Where does Dr. Chakravarty work?",
         description: "He is at present a Principal Consultant in Gastroenterology, Hepatology, and Endoscopy with Max Healthcare."
       },
       {
-        miniheading: "What experience does Dr. Chakravarty have?",
+        miniheading: "Q. 3: What experience does Dr. Chakravarty have?",
         description: "He holds over 17 years of work experience holding senior designations in places of great renown like Max Healthcare, AIIMS and Nizam's Institute of Medical Sciences."
       },
       {
-        miniheading: "Do you hold any awards as a physician?",
+        miniheading: "Q. 4: Do you hold any awards as a physician?",
         description: "Yes, indeed. He holds seven gold medals during his MBBS, plus an award as Best Outgoing Student of the Year that shows his proficiency work."
       },
       {
-        miniheading: "How does Dr. Chakravarty contribute to the sphere of research?",
+        miniheading: "Q. 5: How does Dr. Chakravarty contribute to the sphere of research?",
         description: "Dr. Chakravarty has done various publications on the subjects related to liver and gastrointestinal diseases, including hepatitis, pancreatitis, and more specifically, stenting of veins in cases of obstruction in the liver."
       }
     ],
@@ -6128,23 +6132,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What are the special fields of Dr. Abhishek Deo?",
+        miniheading: "Q. 1: What are the special fields of Dr. Abhishek Deo?",
         description: "Dr. Deo is a gastroenterologist and hepatologist with experience in therapeutic and diagnostic endoscopy, management of liver disease, and treatment of gastrointestinal disorders."
       },
       {
-        miniheading: "Which hospital does Dr. Abhishek Deo work in?",
+        miniheading: "Q. 2: Which hospital does Dr. Abhishek Deo work in?",
         description: "He works at Max Super Specialty Hospital in Saket, New Delhi."
       },
       {
-        miniheading: "What are the qualifications of Dr. Deo?",
+        miniheading: "Q. 3: What are the qualifications of Dr. Deo?",
         description: "MBBS from India and more advanced trainings were held under MRCP and CCT from the UK. He trained his gastroenterology profession in advance."
       },
       {
-        miniheading: "What diseases or conditions is Dr. Deo generally diagnosing and managing?",
+        miniheading: "Q. 4: What diseases or conditions is Dr. Deo generally diagnosing and managing?",
         description: "Diseases of the liver and digestive tract, the problems and doing endoscopy for diagnostic and treatment procedures are commonly done."
       },
       {
-        miniheading: "Does he also manage hepatitis?",
+        miniheading: "Q. 5: Does he also manage hepatitis?",
         description: "He works on viral hepatitis and all other liver diseases."
       }
     ],
@@ -6265,23 +6269,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What is the specialty of Dr. Vikas Singla?",
+        miniheading: "Q. 1: What is the specialty of Dr. Vikas Singla?",
         description: "His speciality is in treating pancreatic and biliary diseases, GI cancers, and advanced endoscopic treatments with a non-surgical treatment option for obesity."
       },
       {
-        miniheading: "Where can I get an appointment with Dr. Vikas Singla?",
+        miniheading: "Q. 2: Where can I get an appointment with Dr. Vikas Singla?",
         description: "At present, Dr. Singla is practicing at Max Healthcare, where he heads the gastroenterology department."
       },
       {
-        miniheading: "How much experience does Dr. Singla have with early GI cancers?",
+        miniheading: "Q. 3: How much experience does Dr. Singla have with early GI cancers?",
         description: "Dr. Singla is adept at treating early-stage GI cancers with advanced techniques like ESD in a minimally invasive and effective manner."
       },
       {
-        miniheading: "What are the advanced endoscopic procedures that Dr. Singla performs?",
+        miniheading: "Q. 4: What are the advanced endoscopic procedures that Dr. Singla performs?",
         description: "He performs therapeutic EUS, ERCP, POEM for swallowing disorders, and endoscopic treatments for obesity with high skill levels and precision."
       },
       {
-        miniheading: "Are there specific research areas of focus by Dr. Singla?",
+        miniheading: "Q. 5: Are there specific research areas of focus by Dr. Singla?",
         description: "It includes research on pancreatic and biliary diseases, GI cancers, and innovative endoscopic treatments, besides publishing more than 100 papers."
       }
     ],
@@ -6359,23 +6363,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What is Dr. Pankaj Singh's specialty?",
+        miniheading: "Q. 1: What is Dr. Pankaj Singh's specialty?",
         description: "The specialty area includes gastroenterology and also hepatology, with expertise in endoscopic procedures and liver transplant support."
       },
       {
-        miniheading: "Where does Dr. Singh practice currently?",
+        miniheading: "Q. 2: Where does Dr. Singh practice currently?",
         description: "He is a senior consultant at Max Healthcare and practices digestive and liver diseases."
       },
       {
-        miniheading: "What awards did Dr. Singh win?",
+        miniheading: "Q. 3: What awards did Dr. Singh win?",
         description: "Dr. Singh won several international awards. He also won the Young Investigator Travel Award during the APDW in Japan and a Poster of Distinction at the APDW in Taiwan."
       },
       {
-        miniheading: "What is Dr. Singh’s educational background?",
+        miniheading: "Q. 4: What is Dr. Singh’s educational background?",
         description: "Dr. Singh has completed his MBBS and MD from Assam and further advanced training in gastroenterology, namely DM, from IPGMER, Kolkata."
       },
       {
-        miniheading: "What procedures can Dr. Singh do?",
+        miniheading: "Q. 5: What procedures can Dr. Singh do?",
         description: "He does advanced endoscopic procedures, which are minimally invasive procedures for digestive and liver conditions."
       }
     ],
@@ -6486,23 +6490,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What kinds of diseases or disorders does Dr. Vipul Gautam treat?",
+        miniheading: "Q. 1: What kinds of diseases or disorders does Dr. Vipul Gautam treat?",
         description: "He is the pediatrician liver and digestive system disorder specialist. This includes liver transplantation, nutritional disorders, as well as all types of GI problems."
       },
       {
-        miniheading: "What does Dr. Gautam believe in in regard to the treatment of pediatric liver transplant?",
+        miniheading: "Q. 2: What does Dr. Gautam believe in in regard to the treatment of pediatric liver transplant?",
         description: "Dr. Gautam puts in every bit of effort to have all assessments before transplant, continuous care during the procedure, and support after surgery to ensure the best possible outcome for each child."
       },
       {
-        miniheading: "Is nutritional counseling available with children who have liver or digestive issues?",
+        miniheading: "Q. 3: Is nutritional counseling available with children who have liver or digestive issues?",
         description: "Yes, Dr. Gautam provides nutritional consulting that is individualized for specific people with pediatric digestive and liver disorders."
       },
       {
-        miniheading: "Does Dr. Gautam have any research or published works?",
+        miniheading: "Q. 4: Does Dr. Gautam have any research or published works?",
         description: "Dr. Gautam has numerous research papers in leading journals and has extensively spoken at national and international conferences apart from being a reviewer of many academic journals."
       },
       {
-        miniheading: "Professional societies with which Dr. Gautam is currently a member.",
+        miniheading: "Q. 5: Professional societies with which Dr. Gautam is currently a member.",
         description: "He is an active member of leading pediatric gastroenterology and hepatology societies like the Indian Academy of Pediatrics (IAP) and European Society for Pediatric Gastroenterology, Hepatology, and Nutrition (ESPGHAN)."
       }
     ],
@@ -6640,23 +6644,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What makes Dr. Sanjiv Saigal a specialist in liver transplants?",
+        miniheading: "Q. 1: What makes Dr. Sanjiv Saigal a specialist in liver transplants?",
         description: "Dr. Saigal has performed and led over 3,400 liver transplants, offering the finest experience and understanding of challenging liver conditions in the whole world."
       },
       {
-        miniheading: "How does Dr. Saigal approach treatment in patients with liver cirrhosis?",
+        miniheading: "Q. 2: How does Dr. Saigal approach treatment in patients with liver cirrhosis?",
         description: "In fact, Dr. Saigal thinks of thorough and individualized cirrhosis management that aids a patient in symptom relief and prevents further injury of the liver, therefore promoting quality life."
       },
       {
-        miniheading: "What diseases does Dr. Saigal treat with liver disease?",
+        miniheading: "Q. 3: What diseases does Dr. Saigal treat with liver disease?",
         description: "Some of the diseases he treats include alcoholic liver disease, non-alcoholic fatty liver disease, liver cancer, and viral hepatitis, to name a few."
       },
       {
-        miniheading: "How does Dr. Saigal treat the disease of liver cancer?",
+        miniheading: "Q. 4: How does Dr. Saigal treat the disease of liver cancer?",
         description: "He comes up with a particular strategy for every patient that might require medication, lifestyle changes, and even specific treatments in order to treat liver cancer effectively."
       },
       {
-        miniheading: "What treatment protocols does Dr. Saigal adopt for viral hepatitis?",
+        miniheading: "Q. 5: What treatment protocols does Dr. Saigal adopt for viral hepatitis?",
         description: "Dr. Saigal adopts comprehensive care under medication and close follow-up to help control the condition and maintain the liver well."
       }
     ],
@@ -6756,23 +6760,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What does Dr. Vikram Kumar treat?",
+        miniheading: "Q. 1: What does Dr. Vikram Kumar treat?",
         description: "Dr. Kumar does the work of managing diseases of the liver and stomach and performs liver transplant surgeries on children. He also conducts high-end endoscopic procedures."
       },
       {
-        miniheading: "Total Experience of Dr. Vikram Kumar in Pediatric Liver Transplant",
+        miniheading: "Q. 2: Total Experience of Dr. Vikram Kumar in Pediatric Liver Transplant",
         description: "The total experience as of pediatric liver transplant surgery will be over 18 years with leading hospitals in India."
       },
       {
-        miniheading: "For what research projects has Dr. Kumar contributed?",
+        miniheading: "Q. 3: For what research projects has Dr. Kumar contributed?",
         description: "Dr. Kumar has been part of an international Hepatitis B study for children and has published 16 research papers in national and international medical journals."
       },
       {
-        miniheading: "Where has Dr. Kumar done his education?",
+        miniheading: "Q. 4: Where has Dr. Kumar done his education?",
         description: "Dr. Kumar has done his MBBS and MD in Pediatrics from AIIMS, New Delhi, and was trained in biostatistics from Harvard University, USA."
       },
       {
-        miniheading: "What memberships do you hold?",
+        miniheading: "Q. 5: What memberships do you hold?",
         description: "He is a member of various elite organizations, such as ILTS, CAPGAN, ESPGHAN, ISPHGAN and the Indian Celiac Society."
       }
     ],
@@ -6836,23 +6840,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "How many years of experience does Dr. Shweta Singh have in anesthesia with liver transplantation?",
+        miniheading: "Q. 1: How many years of experience does Dr. Shweta Singh have in anesthesia with liver transplantation?",
         description: "She has around 16+ years of specialized experience in liver transplant anesthesia, setting up protocols for ILBS transplant anesthetics and safely leading liver transplants in the OR."
       },
       {
-        miniheading: "Where did Dr. Shweta Singh complete her advance training?",
+        miniheading: "Q. 2: Where did Dr. Shweta Singh complete her advance training?",
         description: "Dr. Singh completed advanced training from King's College, London, which hosts a super unit of liver transplant."
       },
       {
-        miniheading: "What are her major areas of clinical interests?",
+        miniheading: "Q. 3: What are her major areas of clinical interests?",
         description: "It encompasses liver transplantation and liver cancer, metabolic disorders and general liver-related conditions, like viral hepatitis, end-stage liver disease, etc."
       },
       {
-        miniheading: "What are the educational qualifications of Dr. Shweta Singh?",
+        miniheading: "Q. 4: What are the educational qualifications of Dr. Shweta Singh?",
         description: "MBBS done from King George's Medical College and MD in Anaesthesiology from GSVM Medical College with major international trainings in liver transplant anesthesia."
       },
       {
-        miniheading: "Does Dr. Shweta Singh belong to any medical councils or associations?",
+        miniheading: "Q. 5: Does Dr. Shweta Singh belong to any medical councils or associations?",
         description: "Yes, she is a member of both the Delhi Medical Council and the Indian Medical Association."
       }
     ],
@@ -6963,23 +6967,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What kinds of diseases or disorders does Dr. Vipul Gautam treat?",
+        miniheading: "Q. 1: What kinds of diseases or disorders does Dr. Vipul Gautam treat?",
         description: "He is the pediatrician liver and digestive system disorder specialist. This includes liver transplantation, nutritional disorders, as well as all types of GI problems."
       },
       {
-        miniheading: "What does Dr. Gautam believe in in regard to the treatment of pediatric liver transplant?",
+        miniheading: "Q. 2: What does Dr. Gautam believe in in regard to the treatment of pediatric liver transplant?",
         description: "Dr. Gautam puts in every bit of effort to have all assessments before transplant, continuous care during the procedure, and support after surgery to ensure the best possible outcome for each child."
       },
       {
-        miniheading: "Is nutritional counseling available with children who have liver or digestive issues?",
+        miniheading: "Q. 3: Is nutritional counseling available with children who have liver or digestive issues?",
         description: "Yes, Dr. Gautam provides nutritional consulting that is individualized for specific people with pediatric digestive and liver disorders."
       },
       {
-        miniheading: "Does Dr. Gautam have any research or published works?",
+        miniheading: "Q. 4: Does Dr. Gautam have any research or published works?",
         description: "Dr. Gautam has numerous research papers in leading journals and has extensively spoken at national and international conferences apart from being a reviewer of many academic journals."
       },
       {
-        miniheading: "Professional societies with which Dr. Gautam is currently a member.",
+        miniheading: "Q. 5: Professional societies with which Dr. Gautam is currently a member.",
         description: "He is an active member of leading pediatric gastroenterology and hepatology societies like the Indian Academy of Pediatrics (IAP) and European Society for Pediatric Gastroenterology, Hepatology, and Nutrition (ESPGHAN)."
       }
     ],
@@ -7101,23 +7105,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "Which kinds of surgeries does Dr. Jagadeesh Krishnamurthy specialize in?",
+        miniheading: "Q. 1: Which kinds of surgeries does Dr. Jagadeesh Krishnamurthy specialize in?",
         description: "Dr. Jagadeesh is an expert in multi-organ transplants, like liver, kidney, and pancreas transplants. He also does HPB surgery: liver, pancreas, and biliary system surgery."
       },
       {
-        miniheading: "Where did Dr. Jagadeesh complete his training in transplant surgery?",
+        miniheading: "Q. 2: Where did Dr. Jagadeesh complete his training in transplant surgery?",
         description: "Dr. Jagadeesh has been well trained in the US. He did an ASTS fellowship in multi-organ transplantation at Jackson Memorial Hospital, Miami. Moreover, he also has experience in top hospitals in India."
       },
       {
-        miniheading: "Is Dr. Jagadeesh doing minimally invasive surgeries?",
+        miniheading: "Q. 3: Is Dr. Jagadeesh doing minimally invasive surgeries?",
         description: "Yes, Dr. Jagadeesh is highly specialized in doing minimally invasive and robotic techniques for complex transplant and HPB surgeries that allow quick recovery."
       },
       {
-        miniheading: "Has Dr. Jagadeesh ever won any award for research?",
+        miniheading: "Q. 4: Has Dr. Jagadeesh ever won any award for research?",
         description: "Dr. Jagadeesh received awards for more than one publication: his first and so far last 'Best Poster Presentation Award, the first one for him as a pioneer in robotics from India.' 2: He also holds key positions: Treasurer for Asian Liver Center from its establishment."
       },
       {
-        miniheading: "How many and what type of professional memberships is he having or participating with?",
+        miniheading: "Q. 5: How many and what type of professional memberships is he having or participating with?",
         description: "He participates and maintains a connection and link through renowned memberships at several associations; such institutions are the Liver Transplant Society of India, the American Society of Transplant Surgeons and the International Hepato-Pancreato-Biliary Association, among others."
       }
     ],
@@ -7217,23 +7221,23 @@
       },
       {
         subheading: "Frequently Asked questions",
-        miniheading: "What are the research interests of Dr. Peush Sahni?",
+        miniheading: "Q. 1: What are the research interests of Dr. Peush Sahni?",
         description: "Dr. Peush Sahni is a gastro-intestinal surgeon and also a liver transplant surgeon. He specializes in developing surgical techniques as well as patient care in these specialties."
       },
       {
-        miniheading: "How many years of experience does Dr. Sahni have in gastrointestinal surgery?",
+        miniheading: "Q. 2: How many years of experience does Dr. Sahni have in gastrointestinal surgery?",
         description: "He has more than 38 years of experience as a specialist in GI surgery and liver transplantation."
       },
       {
-        miniheading: "Some of the contributions of Dr. Sahni are listed below.",
+        miniheading: "Q. 3: Some of the contributions of Dr. Sahni are listed below.",
         description: "He has been decorated with several contributions in terms of being in charge of editing different national and international medical journals and has been rendering banner orations like Professor Chalapathi Rao Memorial Oration and S.K. Bhansali Oration, among others."
       },
       {
-        miniheading: "Is Dr. Sahni currently involved in medical education?",
+        miniheading: "Q. 4: Is Dr. Sahni currently involved in medical education?",
         description: "Very much so, Dr. Sahni has a great deal of interest in medical education. He was chief at the Dr. KL Wig Centre for Medical Education Technology and Innovation; he played a role in the future molding of medical training programs."
       },
       {
-        miniheading: "Which organizations is Dr. Sahni affiliated with?",
+        miniheading: "Q. 4: Which organizations is Dr. Sahni affiliated with?",
         description: "Dr. Sahni is an active member of several distinguished organizations, such as the Association of Surgeons of India (ASI), the Indian Association of Surgical Gastroenterology (IASG), the International Hepato-Pancreato Biliary Association (IHPBA), and many more. This aptly shows his level of participation among the global healthcare fraternity."
       }
     ],
