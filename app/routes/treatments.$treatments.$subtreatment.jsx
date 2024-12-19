@@ -7,8 +7,8 @@ import ServiceCard from '../components/ServiceCard';
 import { useParams } from "@remix-run/react";
 
 function TreatmentPage() {
-    const {treatment, subtreatment} = useParams();
-    console.log(`Treatment: ${treatment} & SubTreatment: ${subtreatment}`);
+    const {treatments, subtreatment} = useParams();
+    console.log(`Treatment: ${treatments} & SubTreatment: ${subtreatment}`);
     const maxDoctors = Object.keys(maxsaket).map(key=>maxsaket[key]);
 
     return(

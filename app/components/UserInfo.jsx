@@ -7,7 +7,7 @@ const Lottie = React.lazy(() => import("lottie-react"));
 import loadingEffect from '../animated Icon/loading.json';
 
 
-function UserInfo() {
+function UserInfo({heading}) {
     const [isMobile, setMobile] = useState(false);
     const suggestRef = useRef(null);
     const emailRef = useRef(null);
@@ -90,7 +90,7 @@ function UserInfo() {
 
     return (
         <div className="w-[100%] py-4 bg-transparent">
-            <h1 className="text-center text-black lg:text-2xl text-[27px] font-serif mb-3">Get free Consultation</h1>
+            <h1 className="text-center text-black lg:text-2xl text-[27px] font-serif mb-3">{heading || "Get free Consultation"}</h1>
             <form onSubmit={handleSubmit}>
                 <input type="text"
                 autoComplete="off"

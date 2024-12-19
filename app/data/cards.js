@@ -760,18 +760,22 @@ export const hospitals = [
 export const services = [
   {
     name: "Talk To Expert",
-    img: "/img/services/talkToExpert.png"
+    img: "/img/services/talkToExpert.png",
+    link: "/our-services/talk-to-expert"
   },
   {
     name: "Book Oppintment",
-    img: "/img/services/appointment.png"
+    img: "/img/services/appointment.png",
+    link: "/our-services/book-appointment"
   },
   {
     name: "Video Consultation",
-    img: "/img/services/video-consultation.png"
+    img: "/img/services/video-consultation.png",
+    link: "/our-services/video-consultation"
   },
   {
     name: "Second Opinion",
-    img: "/img/services/second-openion.png"
+    img: "/img/services/second-openion.png",
+    link: "/our-services/second-openion"
   }
 ]

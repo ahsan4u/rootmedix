@@ -7,7 +7,6 @@ import { Link } from "@remix-run/react";
 
 export default function Doctors() {
     return(<>
-        <h1 className="lg:text-4xl text-2xl font-bold text-[#97b3f5] inline-block bg-[#3d3d3d] px-2 py-1 rounded-md ml-4 lg:my-5 mt-3">Our Hospitals</h1>
         <div className='grid grid-cols-[repeat(auto-fit,minmax(160px,1fr))] lg:grid-cols-[repeat(auto-fit,minmax(250px,1fr))] w-full justify-items-center  pb-10'>
         {
             hospitals.map((eachData, idx)=> (
