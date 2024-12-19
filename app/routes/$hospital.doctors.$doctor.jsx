@@ -23,7 +23,7 @@ export default  function DoctorsProfile() {
     useEffect(() => {
         import("../data/cards").then((module) => setDoctorIntro(module[hospital][doctor]));
         import("../data/doctorsProfileData").then((module) => setDoctorProfile(module[hospital][doctor]));
-    }, []);
+    }, [useParams()]);
     
     function popupWindow() {
         if(!popupForm.current.style.opacity) {

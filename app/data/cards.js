@@ -683,6 +683,51 @@ export const blkmax = {
     hospital: "BLK MX Hospital, Delhi",
     link: "/blkmax/doctors/shahidmahdi"
   },
+  shailendranathsahay: {
+    img: "/img/doctors/shailendranathsahay.png",
+    name: "Dr. Shailendra Nath Sahay",
+    type: "Cardiologist",
+    speciality: "Heart & Vascular Institute",
+    experiance: "Experience: 20+ Years",
+    hospital: "BLK MX Hospital, Delhi",
+    link: "/blkmax/doctors/shailendranathsahay"
+  },
+  tarunrainaramman: {
+    img: "/img/doctors/tarunrainaramman.png",
+    name: "Dr. Tarun Raina Ramman",
+    type: "Cardiologist",
+    speciality: "Heart & Vascular Institute",
+    experiance: "Experience: 12+ Years",
+    hospital: "BLK MX Hospital, Delhi",
+    link: "/blkmax/doctors/tarunrainaramman"
+  },
+  sundeepsanjivantirkey: {
+    img: "/img/doctors/sundeepsanjivantirkey.png",
+    name: "Dr. Sundeep Sanjivan Tirkey",
+    type: "Cardiologist",
+    speciality: "Vascular Surgery",
+    experiance: "Experience: 8+ Years",
+    hospital: "BLK MX Hospital, Delhi",
+    link: "/blkmax/doctors/sundeepsanjivantirkey"
+  },
+  saraanshbansal: {
+    img: "/img/doctors/saraanshbansal.png",
+    name: "Dr. Saraansh Bansal",
+    type: "Cardiologist",
+    speciality: "Thoracic Surgery",
+    experiance: "Experience: 7+ Years",
+    hospital: "BLK MX Hospital, Delhi",
+    link: "/blkmax/doctors/saraanshbansal"
+  },
+  tskler: {
+    img: "/img/doctors/tskler.png",
+    name: "Dr. T. S. Kler",
+    type: "Cardiologist",
+    speciality: "Cardiac Surgery (CTVS)",
+    experiance: "Experience: 37+ Years",
+    hospital: "BLK MX Hospital, Delhi",
+    link: "/blkmax/doctors/tskler"
+  },
 }
 
 export const hospitals = [
