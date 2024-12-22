@@ -7,91 +7,110 @@ export const treatments = [
   {
     name: "Spine",
     img: "/img/treatment/spine.png",
-    link: "/treatments/cardiology"
+    link: "/treatments/spine"
   },
   {
     name: "Gastroenterology",
     img: "/img/treatment/gastroenterology.png",
-    link: "/treatments/cardiology"
+    link: "/treatments/gastroenterology"
   },
   {
     name: "Orthopadic",
     img: "/img/treatment/orthopadic.png",
-    link: "/treatments/cardiology"
+    link: "/treatments/orthopadic"
   },
   {
     name: "Urology",
     img: "/img/treatment/urology.png",
-    link: "/treatments/cardiology"
+    link: "/treatments/urology"
   },
   {
     name: "Hematology",
     img: "/img/treatment/hematology.png",
-    link: "/treatments/cardiology"
+    link: "/treatments/hematology"
   },
   {
     name: "Endocrine",
     img: "/img/treatment/endocronology.png",
-    link: "/treatments/cardiology"
+    link: "/treatments/endocrine"
   },
   {
     name: "Nephrology",
     img: "/img/treatment/nephrology.png",
-    link: "/treatments/cardiology"
+    link: "/treatments/nephrology"
   },
   {
     name: "Oncology",
     img: "/img/treatment/oncology.png",
-    link: "/treatments/cardiology"
+    link: "/treatments/oncology"
   },
   {
     name: "Pulmonology",
     img: "/img/treatment/pulmonology.png",
-    link: "/treatments/cardiology"
+    link: "/treatments/pulmonology"
   },
   {
     name: "Neorology",
     img: "/img/treatment/neorology.png",
-    link: "/treatments/cardiology"
+    link: "/treatments/neorology"
   }
 ]
 
 export const cardiology = [
   {
-    name: "ASD",
-    info: "Atrial Septal Defect",
+    short: "ASD",
+    name: "Closure",
     img: "/img/asd.png"
   },
   {
-    name: "ASD",
-    info: "Atrial Septal Defect",
+    short: "AICD",
+    name: "Implantation",
     img: "/img/asd.png"
   },
   {
-    name: "ASD",
-    info: "Atrial Septal Defect",
+    name: "Angeography",
     img: "/img/asd.png"
   },
   {
-    name: "ASD",
-    info: "Atrial Septal Defect",
+    name: "Aortic Valve Replacement",
     img: "/img/asd.png"
   },
   {
-    name: "ASD",
-    info: "Atrial Septal Defect",
+    name: "Bentall Surgery",
     img: "/img/asd.png"
   },
   {
-    name: "ASD",
-    info: "Atrial Septal Defect",
+    name: "Coronary Angioplasty",
     img: "/img/asd.png"
   },
   {
-    name: "ASD",
-    info: "Atrial Septal Defect",
+    short: "CRT-D",
+    name: "Implantation",
     img: "/img/asd.png"
-  }
+  },
+  {
+    name: "Congenital Heart Disease",
+    img: "/img/asd.png"
+  },
+  {
+    short: "CABG",
+    name: "Heart Bypass Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    short: "ICD",
+    name: "Implantation",
+    img: "/img/asd.png"
+  },
+  {
+    short: "DALVAD",
+    name: "Implantation",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Mitral Valve Replacement",
+    img: "/img/asd.png"
+  },
 ]
 
 export const maxsaket = {

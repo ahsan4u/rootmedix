@@ -1,4 +1,4 @@
-import { maxsaket, blkmax } from "./cards"
+import { treatments, maxsaket, blkmax } from "./cards"
 export default [
     {
         name: "Top Doctors For Cardiolog",
@@ -44,6 +44,7 @@ export default [
         name: "Treatments",
         link: "/our-treatments"
     },
+    ...treatments,
     ...(Object.keys(maxsaket).map(key=>maxsaket[key])),
     ...(Object.keys(blkmax).map(key=>blkmax[key])),
     {
