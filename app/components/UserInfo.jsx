@@ -77,6 +77,7 @@ function UserInfo({heading}) {
             }).finally(()=>{
                 setFormData({name: '', email: '', country: '', contact: '', std: '', msg: ''});
                 setActiveAlert(true);
+                setIsLoading(false);
                 setTimeout(()=>{ setActiveAlert(false) }, 5000);
             });
         }
