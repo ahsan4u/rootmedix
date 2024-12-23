@@ -1,7 +1,6 @@
 import React, { useEffect } from "react";
 import { useState, useRef, Suspense } from "react";
 import axios from "axios";
-import Massage from "../components/Massage";
 import STDcode from "../data/STDcode";
 const Lottie = React.lazy(() => import("lottie-react"));
 import loadingEffect from '../animated Icon/loading.json';
@@ -69,25 +68,17 @@ function UserInfo({heading}) {
         e.preventDefault();
         if(formData.contact || formData.email) {
             setIsLoading(true);
-            try{
-                await axios.post('/user_details/send_mail', formData, {
-                    headers: {
-                      "Content-Type": "application/x-www-form-urlencoded",
-                    },
-                });
+            await axios.post('/user_details/send_mail', formData, {
+                headers: {
+                  "Content-Type": "application/x-www-form-urlencoded",
+                },
+            }).catch((err)=> {
+                console.log(`error send mail- ${err}`);
+            }).finally(()=>{
                 setFormData({name: '', email: '', country: '', contact: '', std: '', msg: ''});
                 setActiveAlert(true);
-
-                setTimeout(()=>{
-                    setActiveAlert(false);
-                }, 5000)
-                
-            }
-            catch(err) {
-                console.log(`error send mail- ${err}`);
-            } finally {
-                setIsLoading(false);
-            }
+                setTimeout(()=>{ setActiveAlert(false) }, 5000);
+            });
         }
     }
     
@@ -132,7 +123,7 @@ function UserInfo({heading}) {
                 </div>
                 
                 <input type="text"
-                ref={emailRef}  // this is just use for get there width in px to assign it to Option element
+                ref={emailRef}
                 value={formData.email}
                 autoComplete="off"
                 onChange={setValue}
@@ -156,7 +147,7 @@ function UserInfo({heading}) {
                 className={`flex justify-center items-center text-lg m-auto w-[80%] mt-4 p-2 text-md text-white rounded-md transition-transform duration-300 ease-in-out hover:scale-[1.02]
                 ${isLoading ? 'bg-gradient-to-r from-blue-800 via-cyan-700 to-blue-800' : 'bg-gradient-to-r from-blue-700 via-cyan-600 to-blue-700'}`}
                 >{ isLoading && (
-                    <Suspense fallback={<div>Loading animation...</div>}>
+                    <Suspense fallback={<div>..</div>}>
                         <Lottie animationData={loadingEffect} className="w-7 mr-1"/>
                     </Suspense>
                 )}
@@ -164,7 +155,7 @@ function UserInfo({heading}) {
                 
                 <p className="w-[82%] text-center m-auto text-sm font-semibold sm:mt-3 mt-6">By submitting this form,<br/> I agree to Root Medix's Terms & Privacy Policy.</p>
             </form>
-            <Massage open={activeAlert} alertMsg='We Will get in touch with you soon !'/>
+            {activeAlert && (<div className="fixed top-0 left-10 bg-green-700 text-white px-12 py-4 rounded-xl">We Will get in touch with you soon !</div>)}
         </div>
     )
 }

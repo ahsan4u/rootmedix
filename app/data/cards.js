@@ -113,6 +113,96 @@ export const cardiology = [
   },
 ]
 
+export const spine = [
+  {
+    name: "Spine Medical",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Spinal Injections",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Keyhole Spine",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Minimally Invasive Spine",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Endoportal Endoscopic Spine",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Conventional Open Spine",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Percutaneous Screw Fixation",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Spinal Tuberculosis",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Spinal Bone Fracture",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Scoliosis & Kyphosis",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Bone Tumor & Nerves",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Canal Stenosis",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Slipped Bone",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Slipped Disc",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Sciatica Treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Neck Pain Treatment",
+    img: "/img/asd.png"
+  },
+  {
+    short: "MIS",
+    name: "Stabilization",
+    img: "/img/asd.png"
+  },
+  {
+    short: "ERS",
+    name: "Tumours",
+    img: "/img/asd.png"
+  },
+  {
+    short: "ESSD",
+    name: "Treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Endoscopic Spine Fusion",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Endoscopic Discectomy",
+    img: "/img/asd.png"
+  },
+]
+
 export const maxsaket = {
   anandkumar: {
     img: "/img/doctors/AnandKumar.png",

@@ -1,17 +1,23 @@
-import { Link } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import ScrollDiv from '../components/ScrollDiv';
 import DoctorCard from '../components/DoctorCard';
 import ServiceCard from '../components/ServiceCard';
-import {cardiology, maxsaket, services} from '../data/cards';
+import {maxsaket, services} from '../data/cards';
+import { useEffect, useState } from 'react';
 
 function InTreatment() {
+    const [data, setData] = useState();
     const maxDoctors = Object.keys(maxsaket).map((key)=> maxsaket[key]);
+    const {treatment} = useParams();
+    useEffect(() => {
+        import("../data/cards").then((module) => setData(module[treatment]));
+    }, [useParams()]);
 
     return (
         <>
             <div className='grid grid-cols-[repeat(auto-fit,minmax(195px,1fr))] sm:grid-cols-[repeat(auto-fit,minmax(300px,1fr))] justify-items-center w-full justify-around bg-[#faf6f6] pt-5 pb-12'>
                     {
-                        cardiology.map((item, idx)=>(
+                        data?.map((item, idx)=>(
                             <Link key={idx} to="/treatments/cardiology/heart-transplant" className='w-[90%] hover:scale-105 transition-all duration-500'>
                             <div className='flex aspect-[16/10] rounded-2xl drop-shadow-xl overflow-hidden lg:mb-6 mb-3 relative'>
                                 <div className='text-white w-[65%] flex flex-col justify-between lg:pl-2 pl-[6px] lg:pt-2 pb-2 pt-1 h-full bg-[url("/img/treatment-card.png")] brightness-[0.95] contrast-[1.1] bg-[length:100%_100%] z-20 rounded-l-2xl'>
