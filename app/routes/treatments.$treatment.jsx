@@ -11,7 +11,18 @@ function InTreatment() {
     function generateItems(count) {
         const items = [];
         for (let i = 0; i < count; i++) {
-          items.push(<div className='w-[90%] aspect-[16/10] rounded-2xl drop-shadow-xl bg-[#b0b3b4] lg:mb-6 mb-3 ' key={i}></div>);
+            items.push(<Link to="/treatments/cardiology/heart-transplant" className='w-[90%] hover:scale-105 transition-all duration-500'>
+                <div className='flex aspect-[16/10] rounded-2xl drop-shadow-xl overflow-hidden lg:mb-6 mb-3 relative'>
+                    <div className='text-white w-[65%] flex flex-col justify-between lg:pl-2 pl-[6px] lg:pt-2 pb-2 pt-1 h-full bg-[url("/img/treatment-card.png")] brightness-[0.95] contrast-[1.1] bg-[length:100%_100%] z-20 rounded-l-2xl'>
+                        <div>
+                            <h2 className='font-bold text-lg lg:text-2xl'>_ _ _ _</h2>
+                            <p className='lg:text-[16px] lg:mt-1 text-[9.8px] w-[73%]'>Loading...</p>
+                        </div>
+                        <p className='lg:text-lg text-[10px] ml-1 w-[60%]'>_ _ _ _ _ _ _ _</p>
+                    </div>
+                    <div className='w-[50%] h-full absolute right-0 object-cover rounded-r-2xl bg-white'></div>
+                </div>
+            </Link>);
         }
         return items;
     }
@@ -26,7 +37,7 @@ function InTreatment() {
             <div className='grid grid-cols-[repeat(auto-fit,minmax(195px,1fr))] sm:grid-cols-[repeat(auto-fit,minmax(300px,1fr))] justify-items-center w-full justify-around bg-[#faf6f6] pt-5 pb-12'>
             {isloading && generateItems(16)}
                     {
-                        data?.map((item, idx)=>(
+                       data?.map((item, idx)=>(
                             <Link key={idx} to="/treatments/cardiology/heart-transplant" className='w-[90%] hover:scale-105 transition-all duration-500'>
                             <div className='flex aspect-[16/10] rounded-2xl drop-shadow-xl overflow-hidden lg:mb-6 mb-3 relative'>
                                 <div className='text-white w-[65%] flex flex-col justify-between lg:pl-2 pl-[6px] lg:pt-2 pb-2 pt-1 h-full bg-[url("/img/treatment-card.png")] brightness-[0.95] contrast-[1.1] bg-[length:100%_100%] z-20 rounded-l-2xl'>
@@ -37,7 +48,7 @@ function InTreatment() {
                                     {!item.short && (<p className='lg:text-lg text-[11px] mt-1 w-[75%]'>{item.name}</p>)}
                                     <p className='lg:text-lg text-[10px] ml-1 w-[60%]'>Cost In India</p>
                                 </div>
-                                <img src={item.img} alt={item.img} className='w-[50%] h-full absolute right-0 object-cover rounded-r-2xl'/>
+                                <img src={item.img} alt={'image'} className='w-[50%] h-full absolute right-0 object-cover rounded-r-2xl'/>
                             </div>
                             </Link>
                         ))
