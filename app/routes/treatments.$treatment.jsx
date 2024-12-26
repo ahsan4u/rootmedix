@@ -7,15 +7,24 @@ import { useEffect, useState } from 'react';
 
 function InTreatment() {
     const [data, setData] = useState();
+    const [isloading, setIsloading] = useState(true);
+    function generateItems(count) {
+        const items = [];
+        for (let i = 0; i < count; i++) {
+          items.push(<div className='w-[90%] aspect-[16/10] rounded-2xl drop-shadow-xl bg-[#b0b3b4] lg:mb-6 mb-3 ' key={i}></div>);
+        }
+        return items;
+    }
     const maxDoctors = Object.keys(maxsaket).map((key)=> maxsaket[key]);
     const {treatment} = useParams();
     useEffect(() => {
-        import("../data/cards").then((module) => setData(module[treatment]));
+        import("../data/cards").then((module) => setData(module[treatment])).finally(()=>{setIsloading(false)});
     }, [useParams()]);
 
     return (
         <>
             <div className='grid grid-cols-[repeat(auto-fit,minmax(195px,1fr))] sm:grid-cols-[repeat(auto-fit,minmax(300px,1fr))] justify-items-center w-full justify-around bg-[#faf6f6] pt-5 pb-12'>
+            {isloading && generateItems(16)}
                     {
                         data?.map((item, idx)=>(
                             <Link key={idx} to="/treatments/cardiology/heart-transplant" className='w-[90%] hover:scale-105 transition-all duration-500'>
