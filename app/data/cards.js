@@ -203,6 +203,61 @@ export const spine = [
   },
 ]
 
+export const nephrology = [
+  {
+    name: "Kidney Transplantation",
+    img: "/img/asd.png"
+  },
+  {
+    name: "nephrostomy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Ureteroscopy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Renal Angilopsty",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Renal Biopsy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "AV Fistula Creation",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Lithotritsy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Acute Kidney Engury",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Nephrotic Cindrome",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Urinary Tract Infection",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Kidney Stones",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Renal Tubular Acidosis",
+    img: "/img/asd.png"
+  },
+  {
+    name: "",
+    img: "/img/asd.png"
+  },
+]
+
 export const maxsaket = {
   anandkumar: {
     img: "/img/doctors/AnandKumar.png",
