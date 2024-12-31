@@ -58,17 +58,15 @@ export const treatments = [
 
 export const cardiology = [
   {
-    short: "ASD",
-    name: "Closure",
+    name: "Coronary Artery Bypass Grafting (CABG) Surgery",
     img: "/img/asd.png"
   },
   {
-    short: "AICD",
-    name: "Implantation",
+    name: "Minimally Invasive Heart Surgery",
     img: "/img/asd.png"
   },
   {
-    name: "Angeography",
+    name: "Heart Valve Replacement Surgery",
     img: "/img/asd.png"
   },
   {
@@ -76,41 +74,146 @@ export const cardiology = [
     img: "/img/asd.png"
   },
   {
-    name: "Bentall Surgery",
+    name: "Mitral Valve Replacement",
     img: "/img/asd.png"
   },
   {
-    name: "Coronary Angioplasty",
+    short: "TAVI",
+    name: "Transcatheter Aortic Valve Implantation",
     img: "/img/asd.png"
   },
   {
-    short: "CRT-D",
-    name: "Implantation",
+    name: "Coronary Angioplasty Stent Placement",
     img: "/img/asd.png"
   },
   {
-    name: "Congenital Heart Disease",
+    name: "Balloon Angioplasty",
     img: "/img/asd.png"
   },
   {
-    short: "CABG",
-    name: "Heart Bypass Surgery",
+    name: "Peripheral Angioplasty",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Carotid Angioplasty and Stenting",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Coronary Angiography",
+    img: "/img/asd.png"
+  },
+  {
+    short: "MRI",
+    name: "Cardiac",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Echocardiography",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Stress Test",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Holter Monitoring",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Pacemaker Implantation Surgery",
     img: "/img/asd.png"
   },
   {
     short: "ICD",
-    name: "Implantation",
+    name: "Implantable Cardioverter Defibrillator",
     img: "/img/asd.png"
   },
   {
-    short: "DALVAD",
-    name: "Implantation",
+    name: "Catheter Ablation for Arrhythmia",
     img: "/img/asd.png"
   },
   {
-    name: "Mitral Valve Replacement",
+    short: "ASD",
+    name: "Atrial Septal Defect",
     img: "/img/asd.png"
   },
+  {
+    short: "VSD",
+    name: "Ventricular Septal Defect",
+    img: "/img/asd.png"
+  },
+  {
+    short: "TOF",
+    name: "Tetralogy of Fallot",
+    img: "/img/asd.png"
+  },
+  {
+    short: "LVAD",
+    name: "Left Ventricular Assist Device Implantation",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Heart Transplant Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    short: "ECMO",
+    name: "Extracorporeal Membrane Oxygenation Therapy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Endovascular Repair of Aneurysm",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Varicose Vein Laser Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Peripheral Bypass Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    short: "EECP",
+    name: "Enhanced External Counterpulsation Therapy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Cardiac Rehabilitation Therapy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Hypertension Management",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Cholesterol Management",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Heart Bypass Surgery Beating Heart Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Hybrid Coronary Revascularization",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Ventricular Septal Myectomy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Pediatric Heart Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Balloon Atrial Septostomy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Fontan Procedure",
+    img: "/img/asd.png"
+  }
 ]
 
 export const spine = [
@@ -253,9 +356,684 @@ export const nephrology = [
     img: "/img/asd.png"
   },
   {
-    name: "",
+    name: "Kidney Disease Treatments",
     img: "/img/asd.png"
   },
+  {
+    name: "Kidney disease treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Chronic kidney disease treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Acute kidney injury treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "End-stage renal disease treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Dialysis",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Hemodialysis",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Peritoneal dialysis",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Ayurvedic kidney treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Kidney surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Laparoscopic kidney surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Robotic kidney surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Kidney stone surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Nephrectomy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Kidney tumor surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Kidney transplant",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Affordable kidney transplant",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Living donor kidney transplant",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Deceased donor kidney transplant",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Post-kidney transplant care",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Specialized Kidney Procedures",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Renal biopsy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Kidney stent placement",
+    img: "/img/asd.png"
+  },
+  {
+    name: "AV fistula surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Kidney cancer",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Polycystic kidney disease",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Glomerulonephritis treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Best kidney treatment at low",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Affordable dialysis centers",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Kidney transplant package",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Kidney stone removal surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Minimally invasive kidney surgery",
+    img: "/img/asd.png"
+  }
+]
+
+export const gastroenterology = [
+  {
+    name: "Gastroenterology treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Digestive disease treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Gastrointestinal disease treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Best gastroenterology treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Affordable gastroenterology treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Irritable Bowel Syndrome treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Inflammatory Bowel Disease treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Crohn's Disease treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Ulcerative Colitis treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Acid Reflux treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "GERD treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Peptic Ulcer treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Hepatitis treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Liver Disease treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Pancreatitis treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Gallbladder Stone treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Celiac Disease treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Fatty Liver treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Gastrointestinal Cancer treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Endoscopy procedure",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Colonoscopy procedure",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Capsule Endoscopy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Liver Biopsy procedure",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Laparoscopic surgery for gastrointestinal diseases",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Bariatric surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Gallbladder removal surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Hernia surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Appendectomy surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Affordable gastroenterology treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Gastroenterology surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Endoscopy and colonoscopy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Gastroenterology consultation",
+    img: "/img/asd.png"
+  }
+]
+
+export const orthopadic = [
+  {
+    name: "Total Knee Replacement Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Hip Replacement Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Shoulder Replacement Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Elbow Replacement Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Partial Knee Replacement",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Spinal Fusion Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Disc Replacement Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Scoliosis Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Laminectomy Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Minimally Invasive Spine Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Knee Arthroscopy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Shoulder Arthroscopy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Hip Arthroscopy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Ankle Arthroscopy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Wrist Arthroscopy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Fracture and Trauma",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Open Reduction and Internal Fixation (ORIF)",
+    img: "/img/asd.png"
+  },
+  {
+    name: "External Fixation Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Bone Fracture Treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Pelvic Fracture Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ACL Reconstruction Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "PCL Reconstruction",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Rotator Cuff Repair",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Achilles Tendon Repair",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Meniscus Repair Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Clubfoot Treatment",
+    img: "/img/asd.png"
+  },
+  {
+    short: "DDH",
+    name: "Developmental Dysplasia of the Hip",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Pediatric Fracture Treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Limb Lengthening Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Carpal Tunnel Release Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Bunion Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Hammertoe Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Osteotomy Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Bone Grafting Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Orthopedic Oncology Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Rheumatoid Arthritis Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Physiotherapy for Orthopedic Conditions",
+    img: "/img/asd.png"
+  },
+  {
+    short: "PRP",
+    name: "Platelet-Rich Plasma Therapy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Corticosteroid Injection Therapy",
+    img: "/img/asd.png"
+  },
+]
+
+export const Pulmonology = [
+  {
+    name: "Lobectomy Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Pneumonectomy Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Lung Transplant Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    short: "VATS",
+    name: "Video-Assisted Thoracoscopic Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Thoracotomy Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Bronchoscopy Procedure",
+    img: "/img/asd.png"
+  },
+  {
+    short: "PFT",
+    name: "Pulmonary Function Test",
+    img: "/img/asd.png"
+  },
+  {
+    name: "CT-Guided Lung Biopsy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Sleep Study (Polysomnography)",
+    img: "/img/asd.png"
+  },
+  {
+    short: "ABG",
+    name: "Arterial Blood Gas Analysis",
+    img: "/img/asd.png"
+  },
+  {
+    short: "EBUS",
+    name: "Endobronchial Ultrasound",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Bronchial Thermoplasty",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Pleuroscopy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Airway Stent Placement",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Thoracentesis Procedure",
+    img: "/img/asd.png"
+  },
+  {
+    short: "COPD",
+    name: "Chronic Obstructive Pulmonary Disease Treatments",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Pulmonary Rehabilitation",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Long-term Oxygen Therapy",
+    img: "/img/asd.png"
+  },
+  {
+    short: "NIV",
+    name: "Non-Invasive Ventilation Therapy",
+    img: "/img/asd.png"
+  },
+  {
+    short: "LVRS",
+    name: "Lung Volume Reduction Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Allergy Testing for Asthma",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Inhaler Therapy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Biologic Therapy for Severe Asthma",
+    img: "/img/asd.png"
+  },
+  {
+    short: "MDR-TB",
+    name: "Multidrug Resistant TB Treatment",
+    img: "/img/asd.png"
+  },
+  {
+    short: "CPAP",
+    name: "Continuous Positive Airway Pressure Therapy",
+    img: "/img/asd.png"
+  },
+  {
+    short: "BiPAP",
+    name: "Bilevel Positive Airway Pressure Therapy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Vasodilator Therapy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Anticoagulant Therapy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Corticosteroid Therapy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Antifibrotic Therapy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Pleurodesis Procedure",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Chest Tube Insertion",
+    img: "/img/asd.png"
+  }
+]
+
+export const dddd = [
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  }
+]
+
+export const ddd = [
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "ddd",
+    img: "/img/asd.png"
+  }
 ]
 
 export const maxsaket = {
