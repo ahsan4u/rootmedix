@@ -777,7 +777,7 @@ export const orthopadic = [
   },
 ]
 
-export const Pulmonology = [
+export const pulmonology = [
   {
     name: "Lobectomy Surgery",
     img: "/img/asd.png"
