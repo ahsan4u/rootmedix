@@ -53,6 +53,16 @@ export const treatments = [
     name: "Neorology",
     img: "/img/treatment/neorology.png",
     link: "/treatments/neorology"
+  },
+  {
+    name: "Dermatology",
+    img: "/img/treatment/oncology.png",
+    link: "/treatments/dermatology"
+  },
+  {
+    name: "Vascular Sargery",
+    img: "/img/treatment/nephrology.png",
+    link: "/treatments/vascularsargery"
   }
 ]
 
@@ -918,7 +928,139 @@ export const pulmonology = [
   }
 ]
 
-export const dddd = [
+export const urology = [
+  {
+    short: "TURP",
+    name: "Transurethral Resection of the Prostate",
+    img: "/img/asd.png"
+  },
+  {
+    short: "HoLEP",
+    name: "Laser Prostate Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Prostate Cancer Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    short: "BPH",
+    name: "Benign Prostatic Hyperplasia Treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Cystoscopy Procedure",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Bladder Stone Removal Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Cystectomy (Bladder Removal Surgery)",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Urethral Stricture Treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Vasectomy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Vasectomy Reversal Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Varicocele Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Erectile Dysfunction Treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Penile Implant Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Stress Urinary Incontinence Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Overactive Bladder Treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Pelvic Organ Prolapse Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Laparoscopic Urological Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Robotic Urology Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Endoscopic Urology Procedures",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Hypospadias Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Undescended Testicle Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    short: "PUV",
+    name: "Posterior Urethral Valve Treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Pediatric Ureterocele Treatment",
+    img: "/img/asd.png"
+  },
+  {
+    short: "UTI",
+    name: "Urinary Tract Infection Treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Interstitial Cystitis Treatment",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Urinary Diversion Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Bladder Cancer Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Prostate Cancer Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Testicular Cancer Surgeryddd",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Hydrocele Surgery",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Circumcision Surgery",
+    img: "/img/asd.png"
+  }
+]
+
+export const ddd = [
   {
     name: "ddd",
     img: "/img/asd.png"
@@ -977,7 +1119,7 @@ export const dddd = [
   }
 ]
 
-export const ddd = [
+export const dddd = [
   {
     name: "ddd",
     img: "/img/asd.png"
