@@ -1060,7 +1060,7 @@ export const urology = [
   }
 ]
 
-export const neurology = [
+export const neorology = [
   {
     name: "Neurology treatment",
     img: "/img/asd.png"
