@@ -1060,61 +1060,78 @@ export const urology = [
   }
 ]
 
-export const ddd = [
+export const neurology = [
   {
-    name: "ddd",
+    name: "Neurology treatment",
     img: "/img/asd.png"
   },
   {
-    name: "ddd",
+    name: "Neurologist consultation",
     img: "/img/asd.png"
   },
   {
-    name: "ddd",
+    name: "Best Neurology hospitals",
     img: "/img/asd.png"
   },
   {
-    name: "ddd",
+    name: "Brain tumor surgery",
     img: "/img/asd.png"
   },
   {
-    name: "ddd",
+    name: "Spinal surgery",
     img: "/img/asd.png"
   },
   {
-    name: "ddd",
+    name: "Deep brain stimulation surgery",
     img: "/img/asd.png"
   },
   {
-    name: "ddd",
+    name: "Epilepsy surgery",
     img: "/img/asd.png"
   },
   {
-    name: "ddd",
+    name: "Aneurysm surgery",
     img: "/img/asd.png"
   },
   {
-    name: "ddd",
+    name: "MRI scan",
     img: "/img/asd.png"
   },
   {
-    name: "ddd",
+    name: "CT scan for brain",
     img: "/img/asd.png"
   },
   {
-    name: "ddd",
+    short: "EEG",
+    name: "test",
     img: "/img/asd.png"
   },
   {
-    name: "ddd",
+    name: "Nerve conduction study",
     img: "/img/asd.png"
   },
   {
-    name: "ddd",
+    name: "Lumbar puncture procedure",
     img: "/img/asd.png"
   },
   {
-    name: "ddd",
+    name: "Neurological rehabilitation",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Physiotherapy for neurological disorders",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Speech therapy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Occupational therapy",
+    img: "/img/asd.png"
+  },
+  {
+    name: "Cognitive rehabilitation therapy",
     img: "/img/asd.png"
   }
 ]
